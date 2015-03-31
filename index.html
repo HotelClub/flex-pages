@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        .page-content{
+            font-family: Arial, Helvetica, sans-serif;color: #000000;
+        }
+        .page-content h1{
+            font-size: 24px; color: #55337e; font-weight: normal;
+        }
+        .page-content h3{
+            font-size: 18px; font-weight: bold;
+            margin-bottom: 0px;
+
+        }
+        .page-content h2{
+            font-size: 20x; color: #55337e;
+
+        }
+        .page-content p{
+            font-size: 14px; font-weight: normal; line-height: 28px;
+            margin: 0px;
+        }
+        .terms-conditions {
+            font-size: 9px; color: #999;
+        }
+        .page-content input, .page-content textarea{
+            display: block;
+            /*margin-top: 20px;*/
+            border: 1px solid #999;
+            font-size: 14px;
+            font-family: Arial, Helvetica, sans-serif;color: #666;
+            padding: 10px;
+        }
+        .page-content input{
+            width: 420px;
+            height: 22px ;
+
+        }
+        .page-content textarea{
+            width: 432px;
+            height: 82px;
+        }
+        .page-content table{
+            margin-left: 20px;
+
+        }
+    </style>
+    <script src="http://www.tnetnoc.com/static/28.168/script/jsAll.js"></script>
+    <script>
+        jQuery(document).ready(function() {
+            jQuery("#btn-enter-now").click(function () {
+                console.log('enter now clicked');
+                var name = jQuery("#first_name").val();
+                var email = jQuery("#email").val();
+                var answer = jQuery("#comments").val();
+
+                jQuery.ajax({
+                    url: "http://nextgen-release/n/api/form/storeCompetition/",
+                    method: "POST",
+                    data: jQuery("#sands-competition").serialize(),
+                    success: function (data, textStatus, jqXHR) {
+                        //data: return data from server
+                        console.log('done');
+                    },
+                    error: function (jqXHR, textStatus, errorThrown) {
+                        //if fails
+                        console.log('fail');
+
+                    }
+                })
+                ;
+                /*
+                 jQuery("#sands-competition").submit(function(e)
+                 {
+                 console.log ( 'init form' );
+                 var postData = jQuery(this).serializeArray();
+                 var formURL = 'http://nextgen-release/n/api/form/storeCompetition/';
+                 jQuery.ajax(
+                 {
+                 url : formURL,
+                 type: "POST",
+                 data : postData,
+                 success:function(data, textStatus, jqXHR)
+                 {
+                 alert('success');
+                 //data: return data from server
+                 },
+                 error: function(jqXHR, textStatus, errorThrown)
+                 {
+                 alert('fail');
+                 //if fails
+                 }
+                 });
+                 console.log('setup ajax');
+                 e.preventDefault(); //STOP default action
+                 //                e.unbind(); //unbind. to stop multiple form submit.
+                 });
+
+                 jQuery("#sands-competition").submit(); //Submit  the FORM
+                 */
+            });
+        });
+
+    </script>
+</head>
+<body>
+
+<table width="960" cellpadding="0" cellspacing="0" class="page-content" style="margin-left: 20px">
+    <tr>
+        <td colspan="2">
+            <img src="http://www.tnetnoc.com/public/ANS/HCL/Marketing/PM/2015/sands/hcl_20150330_macausandscompetition_960x338_en.jpg" />
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <h1>What do you dream about doing in Macau? <strong>Tell us and you could win</strong></h1>
+
+            <h3>Prize 1</h3>
+            <p>2 nights for 2 adults at Conrad Macao Cotai Central (airfare or appropriate transportation provided)
+            </p>
+
+            <h3>Prize 2</h3>
+            <p>
+                2 nights for 2 adults at Holiday Inn Macao Cotai Central (airfare or appropriate transportation provided)
+            </p>
+            <p>Need some inspiration? Find out some of the amazing things you can do in Macau ></p>
+
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <img src="http://www.tnetnoc.com/public/ANS/HCL/Marketing/PM/2015/sands/landingpage_collage_920x206.png" />
+            <p>
+            <h2>How to enter:</h2>
+            <p> Tell us in 25 words or less what are your top 3 dream Macau experiences, and the most creative could win their dream trip.</p>
+        </td>
+    </tr>
+
+    <tr>
+        <td colspan="2">
+            <form id="sands-competition" action="http://nextgen-release/n/api/form/storeCompetition/" method="post">
+                <input type="hidden" name="api_key" value="sands-competition" />
+                <table width="100%" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td>
+                            <textarea name="comments"></textarea>
+                        </td>
+                        <td>
+                            <input type="text" name="first_name" id="your-name" />
+                            <br />
+                            <input type="text" name="email" id="your-email" />
+
+                        </td>
+                    </tr>
+                    <tr><td colspan="2">&nbsp;</td> </tr>
+                    <tr>
+                        <td colspan="2" align="center">
+                            <img id="btn-enter-now"
+                                 src="http://www.tnetnoc.com/public/ANS/HCL/Marketing/PM/2015/sands/btn-enter-now-default.png"
+                                 alt="Enter Now" width="254" height="45" border="0"
+                                 onmouseover="this.src='http://www.tnetnoc.com/public/ANS/HCL/Marketing/PM/2015/sands/btn-enter-now-over.png'"
+                                 onmouseout="this.src='http://www.tnetnoc.com/public/ANS/HCL/Marketing/PM/2015/sands/btn-enter-now-default.png'"
+                                 style="cursor: pointer;" />
+                        </td>
+                    </tr>
+                </table>
+            </form>
+            <p class="terms-conditions"> Terms & Conditions</p>
+        </td>
+    </tr>
+
+    <tr>
+        <td class="terms-conditions">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</td>
+        <td class="terms-conditions">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</td>
+    </tr>
+</table>
+
+</body>
+</html>
