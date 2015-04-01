@@ -17,7 +17,7 @@ function validateEmail(emailVal) {
 	else { 
 		document.getElementById('your-email').className = document.getElementById('your-email').className + "error";
 		document.getElementById("placeHolder").innerHTML = '* Please enter the valid email';
-		document.getElementById("your-comments").focus();
+		document.getElementById("your-email").focus();
 		return false; 
 	}
 }
@@ -37,6 +37,7 @@ jQuery(document).ready(function() {
 		var email = document.getElementById("your-email").value.trim();
 		var answer = document.getElementById("your-comments").value.trim();
 		
+		document.getElementById("placeHolderSuccess").innerHTML = '';
 		if(name==""){ addClassInput("your-name"); return false;	}else{ removeClassInput("your-name"); }		
 		if(email==""){ addClassInput("your-email");	return false; }else{ removeClassInput("your-email"); }
 		if(validateEmail(email)==false){ return false; }
