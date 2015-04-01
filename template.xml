@@ -1,0 +1,67 @@
+<layout id="flexSplitFull">
+    <region id="top">
+        <module name="PictureText" >
+
+        </module>
+        <module name="ProductTabs">
+
+            <tab name="Deals">
+
+                <module name="HotelResults" query="contentType:HotelSearch AND source:pm_apac_hotels.csv" view="slim"  filterView="dropdown" displayDescription="false"  displayFilters="city" count="100" steerModuleKey="westernaustralia"/>
+
+            </tab>
+
+            <tab name="Discover">
+
+                <module name="Editorial" steerModuleKey="wadest1" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
+                <module name="Editorial" steerModuleKey="wadest2" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
+                <module name="Editorial" steerModuleKey="wadest3" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
+                <module name="Editorial" steerModuleKey="wadest4" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
+                <module name="Editorial" steerModuleKey="wadest5" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
+                <module name="Editorial" steerModuleKey="wadest6" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
+            </tab>
+
+            <tab name="Discover">
+
+                <module name="Editorial" steerModuleKey="wadiscover1" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
+                <module name="Editorial" steerModuleKey="wadiscover2" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
+                <module name="Editorial" steerModuleKey="wadiscover3" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
+                <module name="Editorial" steerModuleKey="wadiscover4" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
+                <module name="Editorial" steerModuleKey="wadiscover5" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
+                <module name="Editorial" steerModuleKey="wadiscover6" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
+                <module name="Editorial" steerModuleKey="wadiscover7" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
+
+            </tab>
+
+
+            <tab name="Itineraries">
+                <module name="Editorial" steerModuleKey="waitinerary2" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
+                <module name="Editorial" steerModuleKey="waitinerary3" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
+                <module name="Editorial" steerModuleKey="waitinerary5" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
+                <module name="Editorial" steerModuleKey="waitinerary6" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
+
+            </tab>
+
+        </module>
+
+        <module name="Editorial" steerModuleKey="legal" query="contentPurpose:Legal" collapse="false" collapsableTitle="false" collapsableText="false" />
+
+        <module name="Editorial" steerModuleKey="more" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
+
+        <module name="SearchForm" title="Search Hotels in ${'Perth'}" view="compact" product="hotel" displayRadioButton="false" displayPromoCode="true" product="hotel" marketId="262" infoLocation="address" />
+
+        <module name="Registration" title="Join now for more great deals!" query="contentPurpose:Editorial" steerModuleKey="registration"  isFullRegistration="false"/>
+
+    </region>
+
+    <region id="main">
+    </region>
+
+    <region id="secondary">
+    </region>
+
+
+    <region id="middle">
+    </region>
+
+</layout>
