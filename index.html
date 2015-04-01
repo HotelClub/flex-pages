@@ -2,109 +2,10 @@
 <html>
 <head lang="en">
     <meta charset="UTF-8">
-    <title></title>
-    <style>
-        .page-content{font-family: Arial, Helvetica, sans-serif;color: #000000;}
-        .page-content h1{font-size: 24px; color: #55337e; font-weight: normal;}
-        .page-content h3{font-size: 18px; font-weight: bold;margin-bottom: 0px;}
-        .page-content h2{font-size: 20x; color: #55337e;}
-        .page-content p{font-size: 14px; font-weight: normal; line-height: 28px;margin: 0px;}
-        .terms-conditions {font-size: 9px; color: #999;}
-        .page-content input, .page-content textarea{
-            display: block;border: 1px solid #999;font-size: 14px;
-            font-family: Arial, Helvetica, sans-serif;color: #666;padding: 10px;
-        }
-        .page-content input{width: 420px;height: 22px ;}
-        .page-content textarea{width: 432px;height: 82px;}
-        .page-content table{margin-left: 20px;}
-    </style>
-    <script>
-        jQuery(document).ready(function() {
-            var defaultValueComments = 'Your Answer';
-            var defaultValueName = 'Your name';
-            var defaultValueEmail = 'Your email address';
-            jQuery('#your-answer')
-                    .focus(function () {
-
-                        this.value = defaultValueComments == this.value ? '' : this.value;
-                    })
-                    .blur(function(){
-                        this.value = '' == this.value ? defaultValueComments : this.value;
-            });
-
-            jQuery('#your-name')
-                    .focus(function () {
-
-                        this.value = defaultValueName == this.value ? '' : this.value;
-                    })
-                    .blur(function(){
-                        this.value = '' == this.value ? defaultValueName : this.value;
-                    });
-            jQuery('#your-email')
-                    .focus(function () {
-
-                        this.value = defaultValueEmail == this.value ? '' : this.value;
-                    })
-                    .blur(function(){
-                        this.value = '' == this.value ? defaultValueEmail : this.value;
-                    });
-            jQuery("#btn-enter-now").click(function () {
-                var name = jQuery("#first_name").val();
-                var email = jQuery("#email").val();
-                var answer = jQuery("#comments").val();
-
-                jQuery.ajax({
-                    url: "http://nextgen-release/n/api/form/storeCompetition/",
-                    type: "POST",
-                    data: jQuery("#sands-competition").serialize(),
-                    headers:{
-                        'Authorization': '9c845aebd0c2d4a5532e7cced7aaa1d5'
-                    },
-                    success: function (data, textStatus, jqXHR) {
-                        //data: return data from server
-                        console.log('done');
-                    },
-                    error: function (jqXHR, textStatus, errorThrown) {
-                        //if fails
-                        console.log('fail');
-
-                    }
-
-                })
-                ;
-                /*
-                 jQuery("#sands-competition").submit(function(e)
-                 {
-                 console.log ( 'init form' );
-                 var postData = jQuery(this).serializeArray();
-                 var formURL = 'http://nextgen-release/n/api/form/storeCompetition/';
-                 jQuery.ajax(
-                 {
-                 url : formURL,
-                 type: "POST",
-                 data : postData,
-                 success:function(data, textStatus, jqXHR)
-                 {
-                 alert('success');
-                 //data: return data from server
-                 },
-                 error: function(jqXHR, textStatus, errorThrown)
-                 {
-                 alert('fail');
-                 //if fails
-                 }
-                 });
-                 console.log('setup ajax');
-                 e.preventDefault(); //STOP default action
-                 //                e.unbind(); //unbind. to stop multiple form submit.
-                 });
-
-                 jQuery("#sands-competition").submit(); //Submit  the FORM
-                 */
-            });
-        });
-
-    </script>
+    <title>Macau</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+    <script src="http://www.tnetnoc.com/static/28.168/script/jsAll.js"></script>
+    <script src="js/global.js"></script>
 </head>
 <body>
 
@@ -138,7 +39,12 @@
             <p> Tell us in 25 words or less what are your top 3 dream Macau experiences, and the most creative could win their dream trip.</p>
         </td>
     </tr>
-
+	<tr>
+		<td><div id="placeHolder"></div></td>
+	</tr>
+	<tr>
+		<td><div id="placeHolderSuccess"></div></td>
+	</tr>
     <tr>
         <td colspan="2">
             <form id="sands-competition" action="http://nextgen-release/n/api/form/storeCompetition/" method="post">
@@ -146,7 +52,7 @@
                 <table width="100%" cellpadding="0" cellspacing="0">
                     <tr>
                         <td>
-                            <textarea name="comments" id="your-answer" >Your Answer</textarea>
+                            <textarea name="comments" id="your-comments" maxlength="35">Your Answer</textarea>
                         </td>
                         <td>
                             <input type="text" name="first_name" id="your-name" value="Your name" />
