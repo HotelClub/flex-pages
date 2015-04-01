@@ -1,0 +1,52 @@
+.page-content{
+	font-family: Arial, Helvetica, sans-serif;color: #000000;
+}
+.page-content h1{
+	font-size: 24px; color: #55337e; font-weight: normal;
+}
+.page-content h3{
+	font-size: 18px; font-weight: bold;
+	margin-bottom: 0px;
+}
+.page-content h2{
+	font-size: 20x; color: #55337e;
+}
+.page-content p{
+	font-size: 14px; font-weight: normal; line-height: 28px;
+	margin: 0px;
+}
+.terms-conditions {
+	font-size: 9px; color: #999;
+}
+.page-content input, .page-content textarea{
+	display: block;
+	/*margin-top: 20px;*/
+	border: 1px solid #999;
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;color: #666;
+	padding: 10px;
+}
+.page-content input{
+	width: 420px;
+	height: 22px ;
+}
+.page-content textarea{
+	width: 432px;
+	height: 82px;
+}
+.page-content table{
+	margin-left: 20px;
+}
+#placeHolder{
+	margin-left:15px; 
+	color:red; 
+	font-size:12px;
+}
+#placeHolderSuccess{
+	margin-left:15px; 
+	color:green; 
+	font-size:12px;
+}
+.error {
+	border:2px solid red !important;
+}
