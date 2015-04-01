@@ -79,9 +79,9 @@ jQuery(document).ready(function() {
 		
         console.log('validation pass');
 		jQuery.ajax({
-			url: "http://nextgen-release/n/api/form/storeCompetition/",
-			type: "POST",
-			crossDomain: true,
+			//url: "http://nextgen-release/n/api/form/storeCompetition/",
+			url: "http://hotelclub.nextgen-api.com/n/api/Form/store",
+			type: "GET",
 			dataType: 'jsonp',
 			data: jQuery("#sands-competition").serialize(),
             headers:{
