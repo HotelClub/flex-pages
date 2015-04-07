@@ -1,55 +1,224 @@
-.page-content{
-	font-family: Arial, Helvetica, sans-serif;color: #000000;
-}
-.page-content h1{
-	font-size: 24px; color: #55337e; font-weight: normal;
-}
-.page-content h3{
-	font-size: 18px; font-weight: bold;
+body{
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
 	margin-bottom: 0px;
+	background-image:url(../images/Page-BG.jpg);
+	background-position:top left;
+	background-repeat:no-repeat;
 }
-.page-content h2{
-	font-size: 20x; color: #55337e;
+h1{
+	font-weight: 600 !important;
 }
-.page-content p{
-	font-size: 14px; font-weight: normal; line-height: 28px;
-	margin: 0px;
+h2{
+	font-weight: 600 !important;
 }
-.terms-conditions {
-	font-size: 9px; color: #999;
+.placeHolder{
+	width:960px;
+	text-align:center;
+	margin-left:19px;
+	margin-top:132px;
 }
-.page-content input, .page-content textarea{
-	display: block;
-	/*margin-top: 20px;*/
-	border: 1px solid #999;
-	font-size: 14px;
-	font-family: Arial, Helvetica, sans-serif;color: #666;
-	padding: 10px;
+.headerImg{
+	padding:-16px;
 }
-.page-content input{
-	width: 420px;
-	height: 22px ;
+.pageTabs{
+	margin-top: 23px; 
+	margin-bottom:16px; 
+	border-bottom:1px solid #b1bbb9;
 }
-.page-content textarea{
-	width: 432px;
-	height: 82px;
+.pageTabsUI{
+	list-style:none;
+	margin:0; 
+	padding:0; 
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:14px; 
+	font-style:normal;
 }
-.page-content table{
-	margin-left: 20px;
+.pageTabsLI{
+	float:left; 
+	display:block; 
+	padding-left:44px; 
+	padding-right:44px; 
+	padding-bottom:18px; 
+	text-decoration:none; 
 }
-#placeHolder{
-	margin:10px 0px 10px 15px;
-	color:red; 
-	font-size:14px;
+.pageTabsLI.active{
+	border-bottom:6px solid #55337e;
+	margin-left:-40px !important; 
+	padding-bottom:16px; 
 }
-#placeHolderSuccess{
-    margin:10px 0px 10px 15px;
-	margin-left:15px; 
-	color:green; 
-	font-size:14px;
+.pageTabsLI.active a{
+	font-weight:bold;
+	color:#55337e;
 }
-.error {
-	/*border:2px solid red !important;*/
-    border: 1px solid rgba(196, 101, 101, 0.79) !important;
-    background: rgba(255, 200, 200, 0.5);
+.pageTabsLI a{
+	text-decoration:none; 
+	color:#000;
+}
+.pageTabsMenu{
+	text-decoration:none; 
+	color:#000000;
+}
+.introductText{
+	margin-top: 19px; 
+	margin-bottom:42px;
+}
+.introductTextTd{
+	line-height:24px;
+}
+.introductTextTd2{
+	line-height:27px;
+}
+.introductTextTd3{
+	line-height:27px;
+}
+.introductTextH1{
+	font-family:Arial, Helvetica, sans-serif !important; 
+	font-size:24px !important; 
+	font-style:bold !important;
+	padding-bottom:7px;
+}
+.introductTextH2{
+	font-family:Arial, Helvetica, sans-serif !important; 
+	font-size:30px  !important; 
+	font-style:bold  !important;
+	padding: 0 0 10px;
+}
+.introductTextP{
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:16px; 
+	font-style:normal;
+}
+.introductDiv{
+	padding:20px 0px 30px 0px;
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:14px; 
+	font-style:normal; 
+}
+.introductTextTab{
+	border: 1px solid #c6c8c7; 
+	margin-top:20px;
+}
+.introductTextSpan{
+	font-size:16px; 
+	font-weight:bold;
+}
+.introductTab2{
+	background-color:#fbf1e8; 
+	background-image:url(../images/White-Arrow.png); 
+	background-repeat:no-repeat; 
+	background-position: 66px 0px
+}
+.introductTab2TextP{
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:16px; 
+	font-style:normal; 
+	padding-bottom:18px;
+}
+.introductTab2Td{
+	margin-top: 22px; 
+	margin-bottom:42px;
+}
+.introductTab2P{
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:16px; 
+	font-style:normal; 
+	font-weight:bold; 
+	padding-top:12px;
+}
+.introductTab3P{
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:16px; 
+	font-style:normal; 
+	font-weight:bold; 
+	padding:28px 0 5px 0;
+}
+.introductTab2P2{
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:14px; 
+	font-style:normal;
+}
+.introductTab2Img{
+	padding-top:24px;
+}
+.introductTab3Img{
+	padding:29px 0 7px 0;
+}
+.carousel-inner{
+	width:960px !important;
+}
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+	margin: auto;
+	width: 960px;
+	height: 313px;	
+}
+.carousel-control.left {
+	background-image: none !important;
+}
+.carousel-control.right {
+	background-image: none !important;
+	left: 670px !important;	
+}
+.carousel-inner{
+	margin: 0;
+}
+.carousel-control .icon-next, .carousel-control .glyphicon-chevron-right{
+	right: 0 !important;
+}
+.carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right, .carousel-control .icon-prev, .carousel-control .icon-next{
+	margin-right: -125px !important;
+}
+.carousel-control .glyphicon-chevron-left, .carousel-control .icon-prev{
+	margin-left: -50px !important;
+}
+.carousel-indicators li{
+	background-color: #FFFFFF !important;
+	margin-right: 10px !important;
+	height: 8px !important;
+	width: 8px !important;
+}
+.carousel-indicators .active{
+	background-color: #55337E !important;
+	height: 8px !important;
+	width: 8px !important;
+}
+.carousel-caption{
+	left: 6% !important;
+	padding-bottom: 50px !important;
+	right: 6% !important;
+}
+.carousel-heading-text{
+	font-family: Arial; 
+	font-size: 16pt;
+	font-weight: 300;
+	color: #FEFEFD;
+}
+.carousel-normal-text{
+	font-family: Arial; 
+	font-size: 11pt;
+	font-weight: bold;
+	color: #FEFEFD;
+}
+.whiteBackground{
+	background-color:#ffffff;
+}
+.workPointsTab{
+	margin-top: 24px; 
+	margin-bottom:12px;
+}
+.appTab{
+	background-image:url(../images/App-BG.gif); 
+	background-position:top left; 
+	background-repeat:repeat-x;
+}
+.appTab2{
+	margin-top:80px;
+}
+.appTab2Text{
+	font-family:Arial, Helvetica, sans-serif; 
+	font-size:15px; 
+	font-style:normal; 
+	padding-bottom:12px;
 }
