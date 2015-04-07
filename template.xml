@@ -1,56 +1,240 @@
 <layout id="flexSplitFull">
     <region id="top">
         <module name="PictureText" >
+            <script type="text/javascript">
+                var defaultValueComments = 'Your Answer';
+                var defaultValueName = 'Your name';
+                var defaultValueEmail = 'Your email address';
 
+                function addClassInput(inputNameVal){
+                var defaultValueComments = 'Your Answer';
+                var defaultValueName = 'Your name';
+                var defaultValueEmail = 'Your email address';
+                var msg = '';
+                document.getElementById("placeHolderSuccess").innerHTML = '';
+                if(inputNameVal=='your-name'){ msg = 'Your name is required'; }
+                else if(inputNameVal=='your-email'){ msg = 'Your email address is required'; }
+                else if(inputNameVal=='your-comments'){ msg = 'Your answer is required'; }
+                document.getElementById(inputNameVal).focus();
+                document.getElementById(inputNameVal).className = document.getElementById(inputNameVal).className + "error";
+                document.getElementById("placeHolder").innerHTML = msg;
+                }
+
+                function validateEmail(emailVal) {
+                var filter = /^[\w\-\.\+]+\@[a-zA-Z0-9\.\-]+\.[a-zA-z0-9]{2,4}$/;
+                if (filter.test(emailVal)) {
+                return true;
+                }
+                else {
+                document.getElementById('your-email').className = document.getElementById('your-email').className + "error";
+                document.getElementById("placeHolder").innerHTML = 'Your valid email address is required';
+                document.getElementById("your-email").focus();
+                return false;
+                }
+                }
+                function removeClassInput(inputNameVal){
+                document.getElementById("placeHolder").innerHTML = "";
+                jQuery("#"+inputNameVal).removeClass("error");
+                }
+
+                /** form is submitted when you click on image **/
+                jQuery(document).ready(function() {
+
+                jQuery('#your-comments')
+                .focus(function () {
+
+                this.value = defaultValueComments == this.value ? '' : this.value;
+                })
+                .blur(function(){
+                this.value = '' == this.value ? defaultValueComments : this.value;
+                });
+
+                jQuery('#your-name')
+                .focus(function () {
+
+                this.value = defaultValueName == this.value ? '' : this.value;
+                })
+                .blur(function(){
+                this.value = '' == this.value ? defaultValueName : this.value;
+                });
+                jQuery('#your-email')
+                .focus(function () {
+
+                this.value = defaultValueEmail == this.value ? '' : this.value;
+                })
+                .blur(function(){
+                this.value = '' == this.value ? defaultValueEmail : this.value;
+                });
+
+                jQuery("#btn-enter-now").click(function () {
+                console.log('validating ...');
+                /*var name = jQuery("#first_name").val();
+                var email = jQuery("#email").val();
+                var answer = jQuery("#comments").val();*/
+                var name = document.getElementById("your-name").value.trim();
+                var email = document.getElementById("your-email").value.trim();
+                var answer = document.getElementById("your-comments").value.trim();
+
+                document.getElementById("placeHolderSuccess").innerHTML = '';
+                if(name=="" || name == defaultValueName){ addClassInput("your-name"); return false;	}else{ removeClassInput("your-name"); }
+                if(email=="" || email == defaultValueEmail){ addClassInput("your-email");	return false; }else{ removeClassInput("your-email"); }
+                if(validateEmail(email)==false || email == defaultValueEmail){ return false; }
+                if(answer=="" || answer == defaultValueComments){ addClassInput("your-comments");  return false; }else{ removeClassInput("your-comments"); }
+
+                console.log('validation pass');
+                jQuery.ajax({
+                //url: "http://qa1.hclubtest.com/n/api/form/storeCompetition/",
+                url: "http://nextgen-release/n/api/form/storeCompetition/",
+                type: "POST",
+                crossDomain: true,
+                dataType: 'jsonp',
+                data: jQuery("#sands-competition").serialize(),
+                //headers:{
+                //    'Authorization': '9c845aebd0c2d4a5532e7cced7aaa1d5',
+                //    "X-Requested-With": "XMLHttpRequest",
+                //    "Access-Control-Allow-Origin": "*"
+                //},
+                success: function (data, textStatus, jqXHR) {
+                //data: return data from server
+                console.log('Success');
+                console.log(data.message);
+                //document.getElementById('placeHolderSuccess').className = document.getElementById(inputNameVal).className + "error";
+                document.getElementById("placeHolderSuccess").innerHTML = 'Success! Your entry has been received,<br> thank you.';
+                },
+                error: function (jqXHR, textStatus, errorThrown) {
+                //if fails
+                console.log('fail');
+
+                }
+                })
+                ;
+                });
+                });
+
+            </script>
+
+            <!-- section 1 -->
+            <table width="960" cellpadding="0" cellspacing="0" class="page-content" style="margin-left: 20px">
+                <tr>
+                    <td colspan="2">
+                        <img src="http://www.tnetnoc.com/public/ANS/HCL/Marketing/PM/2015/sands/hcl_20150330_macausandscompetition_960x338_en.jpg"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <h1>What do you dream about doing in Macau? <strong>Tell us and you could win</strong></h1>
+
+                        <h3>Prize 1</h3>
+
+                        <p>2 nights for 2 adults at Conrad Macao Cotai Central (airfare or appropriate transportation provided)
+                        </p>
+
+                        <h3>Prize 2</h3>
+
+                        <p>
+                            2 nights for 2 adults at Holiday Inn Macao Cotai Central (airfare or appropriate transportation
+                            provided)
+                        </p>
+
+                        <p>Need some inspiration? Find out some of the amazing things you can do in Macau ></p>
+
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <img src="http://www.tnetnoc.com/public/ANS/HCL/Marketing/PM/2015/sands/landingpage_collage_920x206.png"/>
+
+                        <p>
+
+                        <h2>How to enter:</h2>
+
+                        <p> Tell us in 25 words or less what are your top 3 dream Macau experiences, and the most creative could win
+                            their dream trip.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div id="placeHolder"></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div id="placeHolderSuccess"></div>
+                    </td>
+                </tr>
+            </table>
+
+            <!-- section 2 -->
+            <table width="960" cellpadding="0" cellspacing="0" class="page-content" style="margin-left: 20px">
+                <tr>
+                    <td>
+                        <form id="sands-competition" action="http://nextgen-release/n/api/form/storeCompetition/" method="post">
+                            <input type="hidden" name="app_id" value="sands_macau"/>
+                            <input type="hidden" name="app_key" value="62ccb7108911ca213bc89efaf02ced9a"/>
+                            <table width="100%" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td>
+                                        <textarea name="comments" id="your-comments" maxlength="35">Your Answer</textarea>
+                                    </td>
+                                    <td>
+                                        <input type="text" name="first_name" id="your-name" value="Your name"/>
+                                        <br/>
+                                        <input type="text" name="email" id="your-email" value="Your email address"/>
+
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2">&nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="2" align="center">
+                                        <img id="btn-enter-now"
+                                             src="http://www.tnetnoc.com/public/ANS/HCL/Marketing/PM/2015/sands/btn-enter-now-default.png"
+                                             alt="Enter Now" width="254" height="45" border="0"
+                                             onmouseover="this.src='http://www.tnetnoc.com/public/ANS/HCL/Marketing/PM/2015/sands/btn-enter-now-over.png'"
+                                             onmouseout="this.src='http://www.tnetnoc.com/public/ANS/HCL/Marketing/PM/2015/sands/btn-enter-now-default.png'"
+                                             style="cursor: pointer;"/>
+                                    </td>
+                                </tr>
+                            </table>
+                        </form>
+                    </td>
+                </tr>
+            </table>
+
+            <!-- section 3 -->
+            <table width="960" cellpadding="0" cellspacing="0" class="page-content" style="margin-left: 20px">
+                <tr>
+                    <td colspan="2">
+                        <p class="terms-conditions"> Terms & Conditions</p>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="terms-conditions">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+                        doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto
+                        beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
+                        fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam
+                        est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi
+                        tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis
+                        nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis
+                        autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum
+                        qui dolorem eum fugiat quo voluptas nulla pariatur?
+                    </td>
+                    <td class="terms-conditions">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+                        doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto
+                        beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
+                        fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam
+                        est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi
+                        tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis
+                        nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis
+                        autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum
+                        qui dolorem eum fugiat quo voluptas nulla pariatur?
+                    </td>
+                </tr>
+            </table>
         </module>
-        <module name="ProductTabs">
 
-            <tab name="Deals">
-
-                <module name="HotelResults" query="contentType:HotelSearch AND source:pm_apac_hotels.csv" view="slim"  filterView="dropdown" displayDescription="false"  displayFilters="city" count="100" steerModuleKey="westernaustralia"/>
-
-            </tab>
-
-            <tab name="Discover">
-
-                <module name="Editorial" steerModuleKey="wadest1" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
-                <module name="Editorial" steerModuleKey="wadest2" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
-                <module name="Editorial" steerModuleKey="wadest3" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
-                <module name="Editorial" steerModuleKey="wadest4" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
-                <module name="Editorial" steerModuleKey="wadest5" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
-                <module name="Editorial" steerModuleKey="wadest6" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
-            </tab>
-
-            <tab name="Discover">
-
-                <module name="Editorial" steerModuleKey="wadiscover1" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
-                <module name="Editorial" steerModuleKey="wadiscover2" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
-                <module name="Editorial" steerModuleKey="wadiscover3" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
-                <module name="Editorial" steerModuleKey="wadiscover4" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
-                <module name="Editorial" steerModuleKey="wadiscover5" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
-                <module name="Editorial" steerModuleKey="wadiscover6" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
-                <module name="Editorial" steerModuleKey="wadiscover7" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
-
-            </tab>
-
-
-            <tab name="Itineraries">
-                <module name="Editorial" steerModuleKey="waitinerary2" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
-                <module name="Editorial" steerModuleKey="waitinerary3" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
-                <module name="Editorial" steerModuleKey="waitinerary5" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
-                <module name="Editorial" steerModuleKey="waitinerary6" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
-
-            </tab>
-
-        </module>
-
-        <module name="Editorial" steerModuleKey="legal" query="contentPurpose:Legal" collapse="false" collapsableTitle="false" collapsableText="false" />
-
-        <module name="Editorial" steerModuleKey="more" query="contentPurpose:Editorial" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc" count="20"/>
-
-        <module name="SearchForm" title="Search Hotels in ${'Perth'}" view="compact" product="hotel" displayRadioButton="false" displayPromoCode="true" product="hotel" marketId="262" infoLocation="address" />
-
-        <module name="Registration" title="Join now for more great deals!" query="contentPurpose:Editorial" steerModuleKey="registration"  isFullRegistration="false"/>
 
     </region>
 
