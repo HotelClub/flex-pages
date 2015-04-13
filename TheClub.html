@@ -6,10 +6,9 @@
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
     <script src="http://www.tnetnoc.com/static/28.170.2/script/jsAll.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 </head>
-
 <body>
 
 <!-- Place holder DIV -->
@@ -23,10 +22,10 @@
   <tr>
     <td align="left" valign="top">
       <ul class=pageTabsUI">      	
-        <li class="pageTabsLI active"><a href="TheClub.html" class="pageTabsMenu" title="THE CLUB">THE CLUB</a></li>        
-        <li class="pageTabsLI"><a href="Benefits.html" class="pageTabsMenu" title="BENEFITS">BENEFITS</a></li>        
-        <li class="pageTabsLI"><a href="ClubHotels.html" class="pageTabsMenu" title="CLUB HOTELS">CLUB HOTELS</a></li>        
-        <li class="pageTabsLI"><a href="#" class="pageTabsMenu" title="BOOK">BOOK</a></li>
+        <li class="pageTabsLI active"><a href="TheClub.html" class="pageTabsMenu" id="en-head-sub-nav1" title="THE CLUB"></a></li>        
+        <li class="pageTabsLI"><a href="Benefits.html" class="pageTabsMenu" id="en-head-sub-nav2" title="BENEFITS"></a></li>        
+        <li class="pageTabsLI"><a href="ClubHotels.html" class="pageTabsMenu" title="CLUB HOTELS" id="en-head-sub-nav3"></a></li>        
+        <li class="pageTabsLI"><a href="#" class="pageTabsMenu" title="BOOK" id="en-head-sub-nav4"></a></li>
       </ul>
       </td>
     </tr>
@@ -36,20 +35,18 @@
 <table width="876" border="0" align="center" cellpadding="0" cellspacing="0" class="introductText">
   <tr>
     <td width="607" align="left" valign="top" class="introductTextTd2">
-        <h1 class="introductTextH1">Welcome to HotelClub</h1>
-        <p class="introductTextP">We want our travellers to have the best travel experience out there.</p>
-        <p class="introductTextP">So from the moment you book, your whole journey will be rich with rewards, flexibility, better benefits and greater experiences. And when you return home, it starts over, because every time you book with us, you’ll get even more.</p>
-        <p class="introductTextP">Become a HotelClub Member and experience an extraordinary way to stay.</p>
+        <h1 class="introductTextH1" id="en-club-sub-head1"></h1>
+        <p class="introductTextP" id="en-club-sub-head2"></p>
+        <p class="introductTextP" id="en-club-sub-head3"></p>
+        <p class="introductTextP" id="en-club-sub-head4"></p>
     </td>
     <td width="269" align="left" valign="top" class="introductTextTd">    
     <table width="249" border="0" align="right" cellpadding="20" cellspacing="0" class="introductTextTab">
       <tr>
         <td align="center" valign="middle" bgcolor="#fbf1e8" class="introductTextP">
         <div class="introductDiv">
-			<span class="introductTextSpan">Become a member</span><br />
-			Sign up today and start <br />
-			enjoying the benefits of <br />
-			being a HotelClub member.<br /><br />
+			<span class="introductTextSpan" id="en-reg-headLine1"></span><br />
+			<span id="en-reg-subHead"></span><br /><br />
           <a href="#" title="Join now">
           <img src="images/Join-Now.png" alt="Join now" border="0" onMouseOver="this.src='images/Join-Now-Hover.png'" onMouseOut="this.src='images/Join-Now.png'"/>
           </a>
@@ -68,8 +65,8 @@
     <table width="876" border="0" align="center" cellpadding="0" cellspacing="0" class="introductTab2Td">
       <tr>
         <td align="center" valign="top" class="introductTextTd">
-        <h2 class="introductTextH2">What you’ll experience</h2>
-		<p class="introductTab2TextP">There’s something to look forward to at every stage of your journey.</p>   
+        <h2 class="introductTextH2" id="en-club-sub-headLine"></h2>
+		<p class="introductTab2TextP" id="en-club-sub-subHead1"></p>
         </td>
         </tr>
       <tr>
@@ -85,12 +82,12 @@
             </tr>
           <tr>
             <td width="280" align="center" valign="top" class="introductTextTd">
-              <p class="introductTab3P">Before you leave ></p>
-              <p class="introductTab2P2">Get reserved member pricing, our ‘best price assurance’ and booking support from our travel specialists. Plus, our members earn points on every booking.</p> 
+              <p class="introductTab3P" id="en-club-sub-subHead2"></p>
+              <p class="introductTab2P2" id="en-club-sub-subHead3"></p>
               </td>
             <td width="280" align="center" valign="top" class="introductTextTd">
-              <p class="introductTab3P">During your stay ></p>
-              <p class="introductTab2P2">Enjoy member benefits including instant upgrades, club lounge access, free breakfast, Wi-Fi and late check-outs at over 5,000 hotels.</p>
+              <p class="introductTab3P" id="en-club-sub-subHead4"></p>
+              <p class="introductTab2P2" id="en-club-sub-subHead5"></p>
               </td>
             </tr>
           <tr>
@@ -170,8 +167,8 @@
   <tr>
     <td><table width="880" border="0" align="center" cellpadding="0" cellspacing="0" class="workPointsTab">
       <tr>
-        <td align="center" valign="top" class="introductTextTd"><h2 class="introductTextH2">How our points work</h2>
-          <p class="introductTab2TextP">Our members enjoy the most flexible and valuable travel points program around.</p></td>
+        <td align="center" valign="top" class="introductTextTd"><h2 class="introductTextH2" id="en-club-cta1-headLine1"></h2>
+          <p class="introductTab2TextP"  id="en-club-cta1-headLine2"></p></td>
       </tr>
       <tr>
         <td align="center" valign="top" class="introductTextTd"><table border="0" cellspacing="0" cellpadding="0">
@@ -190,14 +187,14 @@
           </tr>
           <tr>
             <td width="280" align="center" valign="top" class="introductTextTd">
-            <p class="introductTab3P">Great earning potential</p>
-              <p class="introductTab2P2">Receive points called Member Rewards every time you book your stay with us. All our hotels are eligible so the more you stay, the better the rewards.</p></td>
-            <td width="280" align="center" valign="top" class="introductTextTd"><p class="introductTab3P">1 Member Reward = US$1</p>
-              <p class="introductTab2P2">Earn up to 7% of the total amount of your booking. Your points can be used as soon as you’ve completed your stay.</p></td>
+            <p class="introductTab3P" id="en-club-cta1-headLine3"></p>
+              <p class="introductTab2P2" id="en-club-cta1-headLine4"></p></td>
+            <td width="280" align="center" valign="top" class="introductTextTd"><p class="introductTab3P" id="en-club-cta1-headLine5"></p>
+              <p class="introductTab2P2" id="en-club-cta1-headLine6"></p></td>
             <td width="20" align="center" valign="top" class="introductTextTd">&nbsp;</td>
             <td width="280" align="center" valign="top" class="introductTextTd">
-            <p class="introductTab3P">Spend when it suits you</p>
-              <p class="introductTab2P2">With no waiting and blackout periods, you can spend your Member Rewards whenever you like, on any hotel room in the world.</p>
+            <p class="introductTab3P" id="en-club-cta1-headLine7"></p>
+              <p class="introductTab2P2" id="en-club-cta1-headLine8"></p>
             </td>
           </tr>
           <tr>
@@ -226,8 +223,8 @@
             <table width="520" border="0" align="left" cellpadding="0" cellspacing="0" class="appTab2">
     		  <tr>
     		    <td colspan="2" class="introductTextTd">
-                	<h2 class="introductTextH2">Even more with our app</h2>
-					<p class="introductTab2P2">Enjoy more convenience, receive mobile-only offers wherever you are inthe world and earn more Member Rewards whenever you book via the app.</p>
+					<h2 class="introductTextH2" id="en-club-cta2-headLine1"></h2>
+					<p class="introductTab2P2" id="en-club-cta2-headLine2"></p>
                 </td>
     		    </tr>
     		  <tr>
@@ -252,4 +249,62 @@
 <!-- Place holder DIV -->
 
 </body>
+
+	<script src="js/data_lang.js"></script>
+	<script>
+		var tempLangData = window.location.search.split('locale=')[1];
+		var langData;
+		switch (tempLangData){
+			case 'zh_TW': langData = 'zh_TW';
+			case 'zh_HK': langData = 'zh_HK';
+			case 'zh_CN': langData = 'zh_CN';
+			case 'ja_JP': langData = 'ja_JP';
+			case 'ko_KR': langData = 'ko_KR';
+			case 'th_TH': langData = 'th_TH';
+			case 'ms_MY': langData = 'ms_MY';
+			case 'id_ID': langData = 'id_ID';
+			case 'nl_NL': langData = 'nl_NL';
+			case 'de_DE': langData = 'de_DE';
+			case 'sv_SE': langData = 'sv_SE';
+			case 'es_ES': langData = 'es_ES';
+			case 'fr_FR': langData = 'fr_FR';
+			case 'it_IT': langData = 'it_IT';
+			case 'pt_PT': langData = 'pt_PT';
+			case 'pl_PL': langData = 'pl_PL';
+			case 'ru_RU': langData = 'ru_RU';
+			default: langData = 'en_AU';
+		}
+
+		document.getElementById('en-head-sub-nav1').innerHTML = langDataObj[langData]['en-head-sub-nav1'];
+		document.getElementById('en-head-sub-nav2').innerHTML = langDataObj[langData]['en-head-sub-nav2'];
+		document.getElementById('en-head-sub-nav3').innerHTML = langDataObj[langData]['en-head-sub-nav3'];
+		document.getElementById('en-head-sub-nav4').innerHTML = langDataObj[langData]['en-head-sub-nav4'];
+		document.getElementById('en-club-sub-head1').innerHTML = langDataObj[langData]['en-club-sub-head1'];
+		document.getElementById('en-club-sub-head2').innerHTML = langDataObj[langData]['en-club-sub-head2'];
+		document.getElementById('en-club-sub-head3').innerHTML = langDataObj[langData]['en-club-sub-head3'];
+		document.getElementById('en-club-sub-head4').innerHTML = langDataObj[langData]['en-club-sub-head4'];
+		
+		document.getElementById('en-reg-headLine1').innerHTML = langDataObj[langData]['en-reg-headLine1'];
+		document.getElementById('en-reg-subHead').innerHTML = langDataObj[langData]['en-reg-subHead'];
+		
+		document.getElementById('en-club-sub-headLine').innerHTML = langDataObj[langData]['en-club-sub-headLine'];
+		
+		document.getElementById('en-club-sub-subHead1').innerHTML = langDataObj[langData]['en-club-sub-subHead1'];
+		document.getElementById('en-club-sub-subHead2').innerHTML = langDataObj[langData]['en-club-sub-subHead2'];
+		document.getElementById('en-club-sub-subHead3').innerHTML = langDataObj[langData]['en-club-sub-subHead3'];
+		document.getElementById('en-club-sub-subHead4').innerHTML = langDataObj[langData]['en-club-sub-subHead4'];
+		document.getElementById('en-club-sub-subHead5').innerHTML = langDataObj[langData]['en-club-sub-subHead5'];
+		
+		document.getElementById('en-club-cta1-headLine1').innerHTML = langDataObj[langData]['en-club-cta1-headLine1'];
+		document.getElementById('en-club-cta1-headLine2').innerHTML = langDataObj[langData]['en-club-cta1-headLine2'];
+		document.getElementById('en-club-cta1-headLine3').innerHTML = langDataObj[langData]['en-club-cta1-headLine3'];
+		document.getElementById('en-club-cta1-headLine4').innerHTML = langDataObj[langData]['en-club-cta1-headLine4'];
+		document.getElementById('en-club-cta1-headLine5').innerHTML = langDataObj[langData]['en-club-cta1-headLine5'];
+		document.getElementById('en-club-cta1-headLine6').innerHTML = langDataObj[langData]['en-club-cta1-headLine6'];
+		document.getElementById('en-club-cta1-headLine7').innerHTML = langDataObj[langData]['en-club-cta1-headLine7'];
+		document.getElementById('en-club-cta1-headLine8').innerHTML = langDataObj[langData]['en-club-cta1-headLine8'];
+		
+		document.getElementById('en-club-cta2-headLine1').innerHTML = langDataObj[langData]['en-club-cta2-headLine1'];
+		document.getElementById('en-club-cta2-headLine2').innerHTML = langDataObj[langData]['en-club-cta2-headLine2'];
+	</script>
 </html>
