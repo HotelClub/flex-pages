@@ -1,0 +1,171 @@
+<layout id="wideRightRail">
+
+    <region id="main">
+
+        <module name="Images" steerModuleKey="banner" query="contentPurpose:'ImageScape'" count="1" view="banner"/>
+
+        <module name="Introduction" steerModuleKey="Intro" query="contentPurpose:'Introduction'" count="1" socialButtons="true"/>
+
+        <module name="ProductTabs">
+            <tab name="Offers">
+                <module name="Editorial" steerModuleKey="flight-offers" query="contentPurpose:'Editorial'" collapse="false" collapsableTitle="false" collapsableText="false" />
+
+                <module name="Editorial" steerModuleKey="hotel-offers" query="contentPurpose:'Editorial'" collapse="false" collapsableTitle="false" collapsableText="false" />
+
+                <module name="Editorial" steerModuleKey="aph-offers" query="contentPurpose:'Editorial'" collapse="false" collapsableTitle="false" collapsableText="false" />
+
+                <module name="Editorial" steerModuleKey="car-offers" query="contentPurpose:'Editorial'" collapse="false" collapsableTitle="false" collapsableText="false" />
+
+                <module name="Editorial" steerModuleKey="ttv-offers" query="contentPurpose:'Editorial'" collapse="false" collapsableTitle="false" collapsableText="false" />
+            </tab>
+
+
+            <tab name="How to use a promo code" id="promo-expl">
+                <module name="Editorial" steerModuleKey="use" query="contentPurpose:'Editorial'" collapse="false" collapsableTitle="false" collapsableText="false" />
+            </tab>
+        </module>
+
+        <module name="Editorial" steerModuleKey="legal" query="contentPurpose:Legal" collapse="false" collapsableTitle="false" collapsableText="false" sort="effectiveEndDate asc"/>
+
+        <module name="PictureText">
+            <style type="text/css">
+                .flexEditorialMod h2 { margin-top: 0; }
+                .flexEditorialMod .mediaItem img { width: 250px; }
+                .mediaItem > img { width: 250px; }
+                .flexTimerMod .defaultView .counter{
+                background-color: #003366 !important;
+                color:white !important;
+                }
+                .flexTimerMod .defaultView .counter h4 {
+                border-bottom: 0px solid !important;
+                }
+                .flexTimerMod .defaultView .counter .counterNumber{
+                color:white !important;
+                }
+            </style>
+        </module>
+
+        <module name="PictureText">
+
+            <link href='http://fonts.googleapis.com/css?family=Russo+One&subset=latin,cyrillic' rel='stylesheet' type='text/css'/>
+
+            <script type="text/javascript">
+
+                jQuery.noConflict();
+
+                setTimeout(function(){
+                jQuery(".flexImagesMod .bannerView ul li").append("<div id='countdownTimer'><div class='ctfContainer'><div class='days'>00</div><div class='ctFormat'>Days</div></div><div class='ctfContainer'><div class='hours'>00</div><div class='ctFormat'>Hours</div></div><div class='ctfContainer'><div class='mins'>00</div><div class='ctFormat'>Minutes</div></div><div class='ctfContainer'><div class='secs'>00</div><div class='ctFormat'>Seconds</div></div></div>");
+                },1000);
+
+                jQuery(document).ready(function() {
+                var yr = new Date().getUTCFullYear();
+                var dstStart = new Date(lSun("March 1, " + yr));
+                var dstEnd = new Date(lSun("October 1, " + yr));
+
+                var promoStart1 = new Date("2015/04/01 17:14:59");
+                var endDate1 = new Date("2015/04/05 23:59:59");
+                var extDate1 = new Date("2015/04/06 23:59:59");
+
+                if(promoStart1.getTime() > dstStart.getTime() && dstEnd.getTime() > promoStart1.getTime())
+                {
+                var offset = 1;
+                }
+                else
+                {
+                var offset = 0;
+                }
+
+                setInterval("countDownTimer(" + promoStart1.getTime() + "," + endDate1.getTime() + "," + extDate1.getTime() + "," + offset + ")",1000);
+                });
+
+                function lSun(date) {
+                var d = new Date(date);
+                var mth = d.getMonth();
+                var yr = d.getFullYear();
+                d = (new Date(yr,mth+1,0));
+                while (d.getDay() !=0) {
+                d.setDate(d.getDate() -1);
+                }
+
+                var dy = d.getDate();
+                return yr + "/" + ("0"+(mth+1)).slice(-2) + "/" + ("0"+dy).slice(-2);
+                }
+
+                function countDownTimer(promoStart, endDate, extDate, offset) {
+                clock=document.getElementById('countdownTimer');
+                var date = new Date();
+                var startHours = date.getUTCHours();
+                var startMinutes = date.getUTCMinutes();
+                var startSeconds = date.getUTCSeconds();
+                var startDate = date.getUTCDate();
+                var startYear = date.getUTCFullYear();
+                var startMonth = date.getUTCMonth();
+                today=new Date(startYear,startMonth,startDate,startHours+offset,startMinutes,startSeconds);
+
+                if(extDate > endDate && today.getTime() > endDate)
+                {
+                endDate = extDate;
+                count=Math.floor((endDate-today.getTime())/1000);
+                count=Math.floor((endDate-today.getTime())/1000);
+                }
+                else
+                {
+                count=Math.floor((endDate-today.getTime())/1000);
+                count=Math.floor((endDate-today.getTime())/1000);
+                }
+
+                if(0>=count)
+                {
+                clock.getElementsByClassName('days')[0].innerHTML="00";
+                clock.getElementsByClassName('hours')[0].innerHTML="00";
+                clock.getElementsByClassName('mins')[0].innerHTML="00";
+                clock.getElementsByClassName('secs')[0].innerHTML="00";
+                return;
+                }
+
+                if(promoStart > today.getTime())
+                {
+
+                }
+                else
+                {
+                clock.getElementsByClassName('secs')[0].innerHTML=("0"+(count%60)).slice(-2);
+                count=Math.floor(count/60);
+                clock.getElementsByClassName('mins')[0].innerHTML=("0"+(count%60)).slice(-2);
+                count=Math.floor(count/60);
+                clock.getElementsByClassName('hours')[0].innerHTML=("0"+(count%24)).slice(-2);
+                count=Math.floor(count/24);
+                clock.getElementsByClassName('days')[0].innerHTML=("0"+(count)).slice(-2);
+                }
+                }
+            </script>
+
+            <style type="text/css">
+                .flexEditorialMod h2 { margin-top: 0; }
+                .flexEditorialMod .mediaItem img { width: 250px; }
+                .ctfContainer {
+                /* background-color: rgba(255, 255, 255, 0.5); */
+                /* border-radius: 13px; */
+                float: left;
+                font-size: 31px;
+                margin: 0 0 0 2px;
+                padding: 4px 7px;
+                text-align: center;
+                width: 50px;
+                background-color: #f60b61;
+                color: white; }
+                .ctfContainer div:nth-child(1) { font-weight:bold; }
+                .ctFormat { font-size: 0.3em !important; font-weight: bold; text-align: center; }
+                #countdownTimer { /*margin: -5em 0 0 28.5em !important;*/ margin: -6em 0 0 32em !important; position: absolute; }
+            </style>
+        </module>
+
+    </region>
+
+    <region id="rightRail">
+        <!--module name="Timer" startDate="05/08/2014 18:00" endDate="08/03/2014 17:00" query="contentPurpose:ImageScape" steerModuleKey="timer"/-->
+        <module name="SearchForm" product="hotel" promoCode="" />
+
+    </region>
+
+</layout>

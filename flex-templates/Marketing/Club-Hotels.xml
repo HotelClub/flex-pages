@@ -1,0 +1,127 @@
+<layout id="norail">
+    <region id="top">
+    </region>
+
+    <region id="main">
+        <module name="PictureText" >
+            <style>
+                .flexModule{
+                margin:0px;
+                padding:0px;
+                }
+                #norail h1 {
+
+                float:none;
+                }
+            </style>
+            <table width="960" border="0" align="left" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td align="center" width="960">
+                        <img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Header-ClubHotels.jpg" alt="More extraordinary with every stay" width="960" height="323" style="padding:-16px;"/>
+                        <table width="876" border="0" align="center" cellpadding="0" cellspacing="0" style="margin-top: 24px; margin-bottom:16px; border-bottom:1px solid #b1bbb9;">
+                            <tr>
+                                <td align="left" valign="top">
+                                    <ul style="list-style:none;margin:0; padding:0; font-family:Arial, Helvetica, sans-serif; font-size:14px; font-style:normal;">
+
+                                        <li style="float:left; display:block; padding-left:44px; padding-right:44px; padding-bottom:18px; border-bottom:6px solid #ffffff;">
+                                            <a href="/mktg/the-club/" style="text-decoration:none; color:#000000;" title="THE CLUB">THE CLUB</a></li>
+
+                                        <li style="float:left; display:block; padding-left:44px; padding-right:44px; padding-bottom:18px; border-bottom:6px solid #ffffff;">
+                                            <a href="/mktg/benefits/" style="text-decoration:none; color:#000000;" title="BENEFITS">BENEFITS</a></li>
+
+                                        <li style="float:left; display:block; padding-left:44px; padding-right:44px; padding-bottom:18px; border-bottom:6px solid #55337e; font-weight:bold">
+                                            <a href="/mktg/club-hotels/" style="text-decoration:none; color:#55337e;" title="CLUB HOTELS">CLUB HOTELS</a></li>
+
+                                        <li style="float:left; display:block; padding-left:44px; padding-right:44px; padding-bottom:18px; border-bottom:6px solid #ffffff;">
+                                            <a href="#" style="text-decoration:none; color:#000000;" title="BOOK">BOOK</a></li>
+                                    </ul>
+                                </td>
+                            </tr>
+                        </table>
+
+                        <table width="876" border="0" align="center" cellpadding="0" cellspacing="0" style="margin-top: 24px; margin-bottom:42px;">
+                            <tr>
+                                <td width="405" align="left" valign="top" style="line-height:24px;">
+                                    <h1 style="font-family:Arial, Helvetica, sans-serif; font-size:24px; font-style:bold;">Welcome to your instant upgrade</h1>
+                                    <span style="font-family:Arial, Helvetica, sans-serif; font-size:16px; font-style:normal;">We partner with selected hotels to make your next stay even more luxurious. Get an instant upgrade plus extra special benefits like complimentary breakfast, Wi-Fi, late check outs and waived resort fees when you book one of our Club Hotels. Available for our Gold and Platinum Members only.</span>
+                                    <span style="font-family:Arial, Helvetica, sans-serif; font-size:16px; font-style:normal;">Join HotelClub today and start experiencing these rewards and more with every stay.</span>
+
+                                </td>
+                                <td width="471" align="left" valign="top" style="line-height:24px;">
+
+                                    <table width="418" border="0" align="right" cellpadding="0" cellspacing="0" style="border: 1px solid #c6c8c7; margin-top:16px;">
+                                        <tr>
+                                            <td align="left" valign="middle" bgcolor="#fbf1e8" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-style:normal;">
+
+                                                <table width="340" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-top:30px; padding-bottom:30px;padding-left:30px;">
+                                                    <tr>
+                                                        <td><span style="font-size:16px; font-weight:bold;">Become a member</span><br />
+
+                                                            Sign up today and start enjoying the benefits of being a HotelClub Member.<br />
+
+                                                            <table width="320" height="30" border="0" cellspacing="0" cellpadding="0" style="padding-top:10px; padding-bottom:10px;">
+                                                                <tr>
+                                                                    <td height="30">
+                                                                        <a href="#" title="Join with Facebook"><img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/facebook.png" alt="Facebook" width="30" height="30" border="0" style="padding-right:10px;" /></a>
+                                                                        <a href="#" title="Join with Google Plus"><img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/gplus.png" alt="Google Plus" width="30" height="30" border="0" /></a></td>
+                                                                </tr>
+                                                            </table>
+
+                                                            <form>
+                                                                <table width="340" border="0" cellspacing="0" cellpadding="0">
+                                                                    <tr>
+                                                                        <td height="58" align="left" valign="top">
+                                                                            <span style="font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold;">Email<br />
+                                                                                <input name="Email" type="text" style="width:333px; height:24px; border:1px solid #c6c8c7; padding-left:5px;" /></span>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td height="58" align="left" valign="top">
+                                                                            <span style="font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold;">Password<br />
+                                                                                <input name="Email" type="text" style="width:333px; height:24px; border:1px solid #c6c8c7; padding-left:5px;" /></span>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td height="78" align="left" valign="top">
+                                                                            <span style="font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold;">Retype password<br />
+                                                                                <input name="Email" style="width:333px; height:24px; border:1px solid #c6c8c7; padding-left:5px;" /></span>
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </form>
+
+                                                            <table width="340" border="0" cellspacing="0" cellpadding="0">
+                                                                <tr>
+                                                                    <td width="200">
+                                                                        <a href="#" title="Join now"> <img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Join-Now.png" alt="Join now" border="0" onmouseover="this.src='http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Join-Now-Hover.png'" onmouseout="this.src='http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Join-Now.png'"/></a>
+                                                                    </td>
+                                                                    <td width="140">
+                                                                        <span style="font-size:12px; line-height:16px;">Already have a HotelClub account? <a href="#" title="Sign in to HotelClub" style="color:#55337e">Sign in</a></span>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+
+                                                        </td>
+                                                    </tr>
+                                                </table></td>
+                                        </tr>
+                                    </table>
+
+                                </td>
+                            </tr>
+                        </table>
+
+                    </td>
+                </tr>
+
+            </table>
+
+
+
+        </module>
+
+
+
+    </region>
+
+</layout>
