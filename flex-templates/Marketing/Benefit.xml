@@ -3,197 +3,260 @@
     </region>
 
     <region id="main">
-        <module name="PictureText" >
-<style>
-    .flexModule{
-    margin:0px;
-    padding:0px;
-    }
-    #norail h1 {
-
-    float:none;
-    }
-</style>
+        <module name="PictureText">
+            <link rel="stylesheet" href="http://myhotelclub.website/css/style.css"/>
             <table width="960" border="0" align="left" cellpadding="0" cellspacing="0">
-            <tr>
-                <td align="center" width="960">
-                    <img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Header-Benefits.jpg" alt="More extraordinary with every stay" width="960" height="323" style="padding:-16px;"/>
+                <tr>
+                    <td align="center" width="960">
+                        <img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Header-Benefits.jpg"
+                             alt="More extraordinary with every stay" width="960" height="323" class="headerImg"/>
+                        <table width="876" border="0" align="center" cellpadding="0" cellspacing="0" class="pageTabs">
+                            <tr>
+                                <td align="left" valign="top">
+                                    <ul class="pageTabsUI">
+                                        <li class="pageTabsLI pageTabsUIFirst">
+                                            <a href="/mktg/the-club/" class="pageTabsMenu" title="THE CLUB">THE CLUB</a></li>
+                                        <li class="pageTabsLI active2">
+                                            <a href="/mktg/Benefits/" class="pageTabsMenu" title="BENEFITS">BENEFITS</a></li>
+                                        <li class="pageTabsLI">
+                                            <a href="/mktg/club-hotels/" class="pageTabsMenu" title="CLUB HOTELS">CLUB HOTELS</a>
+                                        </li>
+                                        <li class="pageTabsLI">
+                                            <a href="#" class="pageTabsMenu" title="BOOK">BOOK</a></li>
+                                    </ul>
+                                </td>
+                            </tr>
+                        </table>
 
+                        <table width="876" border="0" align="center" cellpadding="0" cellspacing="0" class="introductTab2Td">
+                            <tr>
+                                <td width="607" align="left" valign="top" class="introductTextTd">
+                                    <h1 class="introductTextH1">Your member benefits in more detail</h1>
+                                    <span class="introductTextP">Our members enjoy more than just points. We seek out the best partners from<br/>across the globe to turn every stay into an extraordinary experience.</span>
 
-                    <table width="876" border="0" align="center" cellpadding="0" cellspacing="0" style="margin-top: 24px; margin-bottom:16px; border-bottom:1px solid #b1bbb9;">
-                        <tr>
-                            <td align="left" valign="top">
-                                <ul style="list-style:none;margin:0; padding:0; font-family:Arial, Helvetica, sans-serif; font-size:14px; font-style:normal;">
+                                </td>
+                                <td width="269" align="left" valign="top" class="introductTextTd">
 
-                                    <li style="float:left; display:block; padding-left:44px; padding-right:44px; padding-bottom:18px; border-bottom:6px solid #ffffff;">
-                                        <a href="/mktg/the-club/" style="text-decoration:none; color:#000000;" title="THE CLUB">THE CLUB</a></li>
-
-                                    <li style="float:left; display:block; padding-left:44px; padding-right:44px; padding-bottom:18px; border-bottom:6px solid #55337e; font-weight:bold;">
-                                        <a href="/mktg/benefits/" style="text-decoration:none; color:#55337e;" title="BENEFITS">BENEFITS</a></li>
-
-                                    <li style="float:left; display:block; padding-left:44px; padding-right:44px; padding-bottom:18px; border-bottom:6px solid #ffffff;">
-                                        <a href="/mktg/club-hotels/" style="text-decoration:none; color:#000000;" title="CLUB HOTELS">CLUB HOTELS</a></li>
-
-                                    <li style="float:left; display:block; padding-left:44px; padding-right:44px; padding-bottom:18px; border-bottom:6px solid #ffffff;">
-                                        <a href="#" style="text-decoration:none; color:#000000;" title="BOOK">BOOK</a></li>
-                                </ul>
-                            </td>
-                        </tr>
-                    </table>
-
-
-                    <table width="876" border="0" align="center" cellpadding="0" cellspacing="0" style="margin-top: 24px; margin-bottom:42px;">
-                        <tr>
-                            <td width="607" align="left" valign="top" style="line-height:24px;">
-                                <h1 style="font-family:Arial, Helvetica, sans-serif; font-size:24px; font-style:bold;">Your member benefits in more detail</h1>
-                                <span style="font-family:Arial, Helvetica, sans-serif; font-size:16px; font-style:normal;">Our members enjoy more than just points. We seek out the best partners from<br />
-                                    across the globe to turn every stay into an extraordinary experience.</span>
-
-                            </td>
-                            <td width="269" align="left" valign="top" style="line-height:24px;">
-
-                                <table width="249" border="0" align="right" cellpadding="20" cellspacing="0" style="border: 1px solid #c6c8c7; margin-top:16px;">
-                                    <tr>
-                                        <td align="center" valign="middle" bgcolor="#fbf1e8" style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-style:normal;">
-                                            <span style="font-size:16px; font-weight:bold;">Become a member</span><br />
-                                            Sign up today and start <br />
-                                            enjoying the benefits of <br />
-                                            being a HotelClub member.<br /><br />
-                                            <a href="#" title="Join now">
-                                                <img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Join-Now.png" alt="Join now" border="0" onMouseOver="this.src='images/Join-Now-Hover.png'" onMouseOut="this.src='images/Join-Now.png'"/>
-                                            </a>
-                                        </td>
-                                    </tr>
-                                </table>
-
-                            </td>
-                        </tr>
-                    </table>
-
-                    <table width="960" border="0" cellspacing="0" cellpadding="0" style="background-color:#fbf1e8; background-image:url(images/White-Arrow.png); background-repeat:no-repeat; background-position: 66px 0px">
-                        <tr>
-                            <td>
-
-                                <table width="876" border="0" align="center" cellpadding="0" cellspacing="0" style="margin-top: 24px; margin-bottom:36px;">
-                                    <tr>
-                                        <td align="left" valign="top" style="line-height:24px;">
-                                            <h2 style="font-family:Arial, Helvetica, sans-serif; font-size:30px; font-style:bold; padding-bottom:24px;">Before you leave</h2></td>
-                                    </tr>
-                                    <tr>
-                                        <td align="center" valign="top" style="line-height:24px;"><table width="876" border="0" cellspacing="0" cellpadding="0">
-                                            <tr>
-                                                <td width="204" align="left" valign="top">
-                                                    <img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Exclusive.jpg" alt="Exclusive offers" border="0" /></td>
-                                                <td width="20" rowspan="2" align="left" valign="top">&nbsp;</td>
-                                                <td width="204" align="left" valign="top">
-                                                    <img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Tailored.jpg" alt="Tailored recommendations**" border="0" /></td>
-                                                <td width="20" align="left" valign="top">&nbsp;</td>
-                                                <td width="204" align="left" valign="top">
-                                                    <img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Travel.jpg" alt="Travel support" border="0" /></td>
-                                                <td width="20" align="left" valign="top">&nbsp;</td>
-                                                <td width="204" align="left" valign="top">
-                                                    <img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/BestPrice.jpg" alt="Best price assurance" border="0" /></td>
-                                            </tr>
-                                            <tr>
-                                                <td width="204" align="center" valign="top">
-                                                    <span style="font-family:Arial, Helvetica, sans-serif; font-size:16px; font-style:normal; font-weight:bold; padding-top:12px; line-height:20px;">Exclusive offers</span>
-                                                    <span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-style:normal; line-height:18px;">
-                                                        Be the first to discover our latest sales, member offers and reserved member pricing.</span>
-                                                </td>
-                                                <td width="204" align="center" valign="top">
-                                                    <span style="font-family:Arial, Helvetica, sans-serif; font-size:16px; font-style:normal; font-weight:bold; padding-top:12px; line-height:20px;">Tailored recommendations**</span>
-                                                    <span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-style:normal; line-height:18px;">
-                                                        Enjoy exclusive hotel recommendations tailored especially for your travel tastes.</span>
-                                                </td>
-                                                <td width="20" align="center" valign="top" style="line-height:24px;">&nbsp;</td>
-                                                <td width="204" align="center" valign="top">
-
-                                                    <span style="font-family:Arial, Helvetica, sans-serif; font-size:16px; font-style:normal; font-weight:bold; padding-top:12px; line-height:20px;">Travel support</span>
-                                                    <span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-style:normal;  line-height:18px;">We’re here to help make planning easier and your trip go more smoothly.</span>
-                                                </td>
-                                                <td width="20" align="center" valign="top" style="line-height:24px;">&nbsp;</td>
-                                                <td width="204" align="center" valign="top"><span style="font-family:Arial, Helvetica, sans-serif; font-size:16px; font-style:normal; font-weight:bold; padding-top:12px; line-height:20px;">Best price assurance</span>
-                                                    <span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-style:normal; line-height:18px;">If you happen to find a better price anywhere else, we’ll match it.</span>
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td colspan="7" align="center" valign="top" style="padding-top:6px;">&nbsp;</td>
-                                            </tr>
-                                            <tr>
-                                                <td align="center" valign="top"><img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/MemberRewards.jpg" alt="Member Rewards" border="0" /></td>
-                                                <td rowspan="2" align="center" valign="top" style="padding-top:24px;">&nbsp;</td>
-                                                <td rowspan="2" align="center" valign="top" style="padding-top:24px;">&nbsp;</td>
-                                                <td rowspan="2" align="center" valign="top" style="padding-top:24px;">&nbsp;</td>
-                                                <td rowspan="2" align="center" valign="top" style="padding-top:24px;">&nbsp;</td>
-                                                <td rowspan="2" align="center" valign="top" style="padding-top:24px;">&nbsp;</td>
-                                                <td rowspan="2" align="center" valign="top" style="padding-top:24px;">&nbsp;</td>
-                                            </tr>
-                                            <tr>
-                                                <td align="center" valign="top"><span style="font-family:Arial, Helvetica, sans-serif; font-size:16px; font-style:normal; font-weight:bold; padding-top:12px; line-height:20px;">Member Rewards</span>
-                                                    <span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-style:normal; line-height:18px;">Your points are ready to use on your very next stay. Spend them when you like, at any hotel of your choice.</span></td>
-                                            </tr>
-                                        </table></td>
-                                    </tr>
-                                </table></td>
-                        </tr>
-                    </table>
-
-                    <table width="960" border="0" cellspacing="0" cellpadding="0" style="background-color:#ffffff; background-image:url(images/Sand-Arrow.png); background-repeat:no-repeat; background-position: 66px 0px">
-                        <tr>
-                            <td><table width="876" border="0" align="center" cellpadding="0" cellspacing="0" style="margin-top: 24px; margin-bottom:42px;">
-                                <tr>
-                                    <td align="left" valign="top" style="line-height:24px;"><h2 style="font-family:Arial, Helvetica, sans-serif; font-size:30px; font-style:bold; padding-bottom:24px;">During your stay</h2></td>
-                                </tr>
-                                <tr>
-                                    <td align="center" valign="top" style="line-height:24px;"><table width="876" border="0" cellspacing="0" cellpadding="0">
+                                    <table width="249" border="0" align="right" cellpadding="20" cellspacing="0"
+                                           class="introductTextTab">
                                         <tr>
-                                            <td width="204" align="left" valign="top"><img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/RoomUpgrades.jpg" alt="Room upgrades*" border="0" /></td>
-                                            <td width="20" rowspan="2" align="left" valign="top">&nbsp;</td>
-                                            <td width="204" align="left" valign="top"><img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/ClubLounge.jpg" alt="Club lounge access" border="0" /></td>
-                                            <td width="20" align="left" valign="top">&nbsp;</td>
-                                            <td width="204" align="left" valign="top"><img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/LateCO.jpg" alt="Late check-outs and priority check-ins*" border="0" /></td>
-                                            <td width="20" align="left" valign="top">&nbsp;</td>
-                                            <td width="204" align="left" valign="top"><img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/FreeBreakfast.jpg" alt="Free breakfast and dining offers*" border="0" /></td>
-                                        </tr>
-                                        <tr>
-                                            <td width="204" align="center" valign="top"><span style="font-family:Arial, Helvetica, sans-serif; font-size:16px; font-style:normal; font-weight:bold; padding-top:12px; line-height:20px;">Room upgrades*</span>
-                                                <span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-style:normal; line-height:18px;">Enjoy an instant room upgrade on arrival when you book one of our Club Hotels.</span></td>
-                                            <td width="204" align="center" valign="top"><span style="font-family:Arial, Helvetica, sans-serif; font-size:16px; font-style:normal; font-weight:bold; padding-top:12px; line-height:20px;">Club lounge access</span>
-                                                <span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-style:normal; line-height:18px;">Relax in the stylish, executive areas of your hotel with refreshments to enjoy throughout the day.</span></td>
-                                            <td width="20" align="center" valign="top" style="line-height:24px;">&nbsp;</td>
-                                            <td width="204" align="center" valign="top"><span style="font-family:Arial, Helvetica, sans-serif; font-size:16px; font-style:normal; font-weight:bold; padding-top:12px; line-height:18px; line-height:20px;">Late check-outs and priority check-ins*</span>
-                                                <span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-style:normal; line-height:18px;">To make your trip go even more smoothly, our members receive priority check-ins and late check-outs. Perfect for lazy mornings.</span></td>
-                                            <td width="20" align="center" valign="top" style="line-height:24px;">&nbsp;</td>
-                                            <td width="204" align="center" valign="top"><span style="font-family:Arial, Helvetica, sans-serif; font-size:16px; font-style:normal; font-weight:bold; padding-top:12px; line-height:18px; line-height:20px;">Free breakfast <br />
-                                                and dining offers*</span>
-                                                <span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-style:normal; line-height:18px;">While you’re away, your taste buds will be taken care of with complimentary breakfasts as well as delicious meals for less.</span></td>
-                                        </tr>
-                                        <tr>
-                                            <td colspan="7" align="center" valign="top" style="padding-top:6px;">&nbsp;</td>
-                                        </tr>
-                                        <tr>
-                                            <td align="center" valign="top" style="line-height:24px;"><img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/FreeWifi.jpg" alt="Free WiFi" border="0" /></td>
-                                            <td rowspan="2" align="center" valign="top">&nbsp;</td>
-                                            <td rowspan="2" align="center" valign="top">&nbsp;</td>
-                                            <td rowspan="2" align="center" valign="top">&nbsp;</td>
-                                            <td rowspan="2" align="center" valign="top">&nbsp;</td>
-                                            <td rowspan="2" align="center" valign="top">&nbsp;</td>
-                                            <td rowspan="2" align="center" valign="top">&nbsp;</td>
-                                        </tr>
-                                        <tr>
-                                            <td align="center" valign="top">
-                                                <span style="font-family:Arial, Helvetica, sans-serif; font-size:16px; font-style:normal; font-weight:bold; padding-top:12px;">Free WiFi</span>
-                                                <span style="font-family:Arial, Helvetica, sans-serif; font-size:14px; font-style:normal; line-height:18px; line-height:20px;">Stay connected with complimentary WiFi throughout your stay.</span>
+                                            <td align="center" valign="middle" bgcolor="#fbf1e8" class="pageTabsUI">
+                                                <div class="introductDiv">
+                                                    <span class="introductTextSpan">Become a member</span><br/>
+                                                    <span>Sign up today and start <br/>
+                                                    enjoying the benefits of <br/>
+                                                    being a HotelClub member.<br/><br/></span>
+                                                    <a href="https://www.hotelclub.com/account/registration?destinationUrl=/mktg/benefits/"
+                                                       title="Join now">
+                                                        <img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Join-Now.png"
+                                                             alt="Join now" border="0"
+                                                             onMouseOver="this.src='http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Join-Now-Hover.png'"
+                                                             onMouseOut="this.src='http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Join-Now.png'"/>
+                                                    </a>
+                                                </div>
                                             </td>
                                         </tr>
-                                    </table></td>
-                                </tr>
-                            </table></td>
-                        </tr>
-                    </table>
-                </td>
-            </tr>
+                                    </table>
+
+                                </td>
+                            </tr>
+                        </table>
+
+                        <table width="960" border="0" cellspacing="0" cellpadding="0" class="introductTab2">
+                            <tr>
+                                <td align="center" width="960">
+                                    <table width="876" border="0" align="center" cellpadding="0" cellspacing="0"
+                                           class="benefitPageTab2">
+                                        <tr>
+                                            <td align="left" valign="top" class="introductTextTd">
+                                                <h2 class="benefitPageTabText">Before you leave</h2></td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" valign="top" class="introductTextTd">
+                                                <table width="876" border="0" cellspacing="0" cellpadding="0">
+                                                    <tr>
+                                                        <td width="204" align="left" valign="top">
+                                                            <img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Exclusive.jpg"
+                                                                 alt="Exclusive offers" border="0"/></td>
+                                                        <td width="20" rowspan="2" align="left" valign="top">&nbsp;</td>
+                                                        <td width="204" align="left" valign="top">
+                                                            <img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Tailored.jpg"
+                                                                 alt="Tailored recommendations**" border="0"/></td>
+                                                        <td width="20" align="left" valign="top">&nbsp;</td>
+                                                        <td width="204" align="left" valign="top">
+                                                            <img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Travel.jpg"
+                                                                 alt="Travel support" border="0"/></td>
+                                                        <td width="20" align="left" valign="top">&nbsp;</td>
+                                                        <td width="204" align="left" valign="top">
+                                                            <img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/BestPrice.jpg"
+                                                                 alt="Best price assurance" border="0"/></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td width="204" align="center" valign="top">
+                                                            <div class="benefitPageTabDiv">Exclusive offers</div>
+                                                            <div class="benefitPageTabDiv2">
+                                                                Be the first to discover our latest sales, member offers and
+                                                                reserved member pricing.
+                                                            </div>
+                                                        </td>
+                                                        <td width="204" align="center" valign="top">
+                                                            <div class="benefitPageTabDiv">Tailored recommendations**</div>
+                                                            <div class="benefitPageTabDiv2">Enjoy exclusive hotel recommendations
+                                                                tailored especially for your travel tastes.
+                                                            </div>
+                                                        </td>
+                                                        <td width="20" align="center" valign="top" class="introductTextTd">
+                                                            &nbsp;</td>
+                                                        <td width="204" align="center" valign="top">
+                                                            <div class="benefitPageTabDiv">Travel support</div>
+                                                            <div class="benefitPageTabDiv2">We’re here to help make planning easier
+                                                                and your trip go more smoothly.
+                                                            </div>
+                                                        </td>
+                                                        <td width="20" align="center" valign="top" class="introductTextTd">
+                                                            &nbsp;</td>
+                                                        <td width="204" align="center" valign="top">
+                                                            <div class="benefitPageTabDiv">Best price assurance</div>
+                                                            <div class="benefitPageTabDiv2">If you happen to find a better price
+                                                                anywhere else, we’ll match it.
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan="7" align="center" valign="top" class="benefitPageTabPad1">
+                                                            &nbsp;</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="center" valign="top"><img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/MemberRewards.jpg"
+                                                                                             alt="Member Rewards" border="0"/></td>
+                                                        <td rowspan="2" align="center" valign="top" class="benefitPageTabPad2">
+                                                            &nbsp;</td>
+                                                        <td rowspan="2" align="center" valign="top" class="benefitPageTabPad2">
+                                                            &nbsp;</td>
+                                                        <td rowspan="2" align="center" valign="top" class="benefitPageTabPad2">
+                                                            &nbsp;</td>
+                                                        <td rowspan="2" align="center" valign="top" class="benefitPageTabPad2">
+                                                            &nbsp;</td>
+                                                        <td rowspan="2" align="center" valign="top" class="benefitPageTabPad2">
+                                                            &nbsp;</td>
+                                                        <td rowspan="2" align="center" valign="top" class="benefitPageTabPad2">
+                                                            &nbsp;</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="center" valign="top">
+                                                            <div class="benefitPageTabDiv">Member Rewards</div>
+                                                            <div class="benefitPageTabDiv2">Your points are ready to use on your
+                                                                very next stay. Spend them when you like, at any hotel of your
+                                                                choice.
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+
+                        <table width="960" border="0" cellspacing="0" cellpadding="0" class="benefitBackgroundTemp">
+                            <tr>
+                                <td align="center" width="960">
+                                    <table width="876" border="0" align="center" cellpadding="0" cellspacing="0"
+                                           class="benefitPageTabDiv3">
+                                        <tr>
+                                            <td align="left" valign="top" class="introductTextTd"><h2 class="benefitPageTabText">
+                                                During your stay</h2></td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" valign="top" class="introductTextTd">
+                                                <table width="876" border="0" cellspacing="0" cellpadding="0">
+                                                    <tr>
+                                                        <td width="204" align="left" valign="top"><img
+                                                                src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/RoomUpgrades.jpg"
+                                                                alt="Room upgrades*" border="0"/></td>
+                                                        <td width="20" rowspan="2" align="left" valign="top">&nbsp;</td>
+                                                        <td width="204" align="left" valign="top"><img
+                                                                src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/ClubLounge.jpg"
+                                                                alt="Club lounge access" border="0"/></td>
+                                                        <td width="20" align="left" valign="top">&nbsp;</td>
+                                                        <td width="204" align="left" valign="top"><img
+                                                                src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/LateCO.jpg"
+                                                                alt="Late check-outs and priority check-ins*" border="0"/></td>
+                                                        <td width="20" align="left" valign="top">&nbsp;</td>
+                                                        <td width="204" align="left" valign="top"><img
+                                                                src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/FreeBreakfast.jpg"
+                                                                alt="Free breakfast and dining offers*" border="0"/></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td width="204" align="center" valign="top">
+                                                            <div class="benefitPageTabDiv">Room upgrades*</div>
+                                                            <div class="benefitPageTabDiv2">Enjoy an instant room upgrade on arrival
+                                                                when you book one of our Club Hotels.
+                                                            </div>
+                                                        </td>
+                                                        <td width="204" align="center" valign="top">
+                                                            <div class="benefitPageTabDiv">Club lounge access</div>
+                                                            <div class="benefitPageTabDiv2">Relax in the stylish, executive areas of
+                                                                your hotel with refreshments to enjoy throughout the day.
+                                                            </div>
+                                                        </td>
+                                                        <td width="20" align="center" valign="top" class="introductTextTd">
+                                                            &nbsp;</td>
+                                                        <td width="204" align="center" valign="top">
+                                                            <div class="benefitPageTabDiv">Late check-outs and priority
+                                                                check-ins*
+                                                            </div>
+                                                            <div class="benefitPageTabDiv2">To make your trip go even more smoothly,
+                                                                our members receive priority check-ins and late check-outs. Perfect
+                                                                for lazy mornings.
+                                                            </div>
+                                                        </td>
+                                                        <td width="20" align="center" valign="top" class="introductTextTd">
+                                                            &nbsp;</td>
+                                                        <td width="204" align="center" valign="top">
+                                                            <div class="benefitPageTabDiv">Free breakfast <br/>
+                                                                and dining offers*
+                                                            </div>
+                                                            <div class="benefitPageTabDiv2">While you’re away, your taste buds will
+                                                                be taken care of with complimentary breakfasts as well as delicious
+                                                                meals for less.
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan="7" align="center" valign="top" class="benefitPageTabPad1">
+                                                            &nbsp;</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="center" valign="top" class="introductTextTd"><img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/FreeWifi.jpg" alt="Free WiFi" border="0"/></td>
+                                                        <td rowspan="2" align="center" valign="top">&nbsp;</td>
+                                                        <td rowspan="2" align="center" valign="top">&nbsp;</td>
+                                                        <td rowspan="2" align="center" valign="top">&nbsp;</td>
+                                                        <td rowspan="2" align="center" valign="top">&nbsp;</td>
+                                                        <td rowspan="2" align="center" valign="top">&nbsp;</td>
+                                                        <td rowspan="2" align="center" valign="top">&nbsp;</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="center" valign="top">
+                                                            <div class="benefitPageTabDiv">Free WiFi</div>
+                                                            <div class="benefitPageTabDiv2">Stay connected with complimentary WiFi
+                                                                throughout your stay.
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
             </table>
+
+
         </module>
     </region>
 
