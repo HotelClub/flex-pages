@@ -7,6 +7,8 @@
 .benefitPageTabDiv2{font-family:Arial, Helvetica,sans-serif;font-size:14px;font-style:normal;line-height:18px;padding-bottom:10px;}
 .benefitPageTabDiv3{margin-bottom:42px;margin-top: 24px;}
 .benefitPageTabDiv{font-family:Arial, Helvetica, sans-serif;font-size:16px;font-style:normal;font-weight:bold;line-height:20px;padding:30px 0 15px;}
+.benefitPageTabPad1{padding-top:6px}
+.benefitPageTabPad2{padding-top:24px}
 .benefitPageTabText{font-family:Arial, Helvetica, sans-serif;font-size:30px;font-style:bold;padding-bottom:24px;}
 .benefitPageTabsP{font-family:Arial, Helvetica, sans-serif;font-size:16px;font-style:normal;}
 .benefitPageTabsUI{font-family:Arial, Helvetica, sans-serif;font-size:14px;font-style:normal;list-style:none;margin:0;padding:2px 0 0;}
@@ -36,7 +38,7 @@
 .introductTextSpan{font-size:16px;font-weight:bold;}
 .introductTextTab{border: 1px solid #c6c8c7;margin-top:20px;}
 .introductTextTd p{font-family:Arial, Helvetica, sans-serif;font-size:16px;font-style:normal;font-weight:bold;padding:28px 0 5px 0;}
-.introductTextTd span{font-family:Arial, Helvetica, sans-serif;font-size:14px;font-style:normal;}
+.introductTextTd span{font-family:Arial, Helvetica, sans-serif;font-size:14px;font-style:normal; line-height:24px;}
 .introductTextTd2{line-height:27px;}
 .introductTextTd3{line-height:27px;}
 .introductTextTd{line-height:24px;}
