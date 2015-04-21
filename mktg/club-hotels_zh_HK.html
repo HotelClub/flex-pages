@@ -6,27 +6,30 @@
 <link rel="stylesheet" href="../css/style.css">
 <script src="http://www.tnetnoc.com/static/28.170.2/script/jsAll.js"></script>
 </head>
-
+<script language="JavaScript">
+    jQuery( document ).ready(function() {
+        var formFooter = jQuery("#club-form-footer").html();
+        jQuery(".submit.button-primary").replaceWith(formFooter);
+    });
+</script>
 <body>
-<table width="876" border="0" align="left" cellpadding="0" cellspacing="0">
+<table width="960" border="0" align="left" cellpadding="0" cellspacing="0">
     <tr>
-		<td>
-		<!-- Header Image -->
-		<img src="../images/Header-ClubHotels.jpg" alt="給您段段非凡旅程" width="960" height="323" class="headerImg"/>
+		<td align="center" width="960">
+		<img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Header-ClubHotels.jpg" alt="給您段段非凡旅程" width="960" height="323" class="headerImg"/>
 
-		<!-- Page Tabs -->
 		<table width="876" border="0" align="center" cellpadding="0" cellspacing="0" class="pageTabs">
 			<tr>
 				<td align="left" valign="top">
 				  <ul class="pageTabsUI">
 					<li class="pageTabsLI">
-						<a href="the-club.html" class="pageTabsMenu" title="HotelClub">HotelClub</a>
+						<a href="/mktg/the-club/" class="pageTabsMenu" title="HotelClub">HotelClub</a>
 					</li>        
-					<li class="pageTabsLI">
-						<a href="Benefits.html" class="pageTabsMenu" title="會員尊利">會員尊利</a>
+					<li class="pageTabsLI pageTabsLI2">
+						<a href="/mktg/benefits/" class="pageTabsMenu" title="會員尊利">會員尊利</a>
 					</li>
-					<li class="pageTabsLI active">
-					   	<a href="club-hotels.html" class="pageTabsMenu" title="精選酒店">精選酒店</a>
+					<li class="pageTabsLI active2">
+					   	<a href="/mktg/club-hotels/" class="pageTabsMenu" title="精選酒店">精選酒店</a>
 					</li>
 					<li class="pageTabsLI">
 						<a href="#" class="pageTabsMenu" title="預訂">預訂</a>
@@ -35,80 +38,37 @@
 				</td>
 			</tr>
 		</table>
-
-		<!-- Before you leave -->
-
-		<table width="876" border="0" align="center" cellpadding="0" cellspacing="0" class="benefitPageTavDiv3">
-		  <tr>
-			<td width="405" align="left" valign="top" class="introductTextTd">
-				<h1 class="introductTextH1">客房升等體驗</h1>
-				<span class="clubPageTabText">我們與精選飯店一同聯手為您打造一個更豪華舒適的住宿體驗。預訂我們的「精選飯店」馬上享客房升等，及免費早餐，無線網路，延遲退房及免渡假村費等各式優惠好康。限黃金及白金會員專享。</span><br /><br />
-				<span class="clubPageTabText">馬上加入成為HotelClub會員，立即可享各式福利及非凡住宿體驗。</span>
-			</td>
-			<td width="471" align="left" valign="top" class="introductTextTd">
-			
-			<table width="418" border="0" align="right" cellpadding="0" cellspacing="0" class="clubTabBox">
-			  <tr>
-				<td align="left" valign="middle" bgcolor="#fbf1e8" class="pageTabsUI">
-				
-				<table width="340" border="0" align="center" cellpadding="0" cellspacing="0" class="clubPagePad1">
-				  <tr>
-					<td>
-						<span class="introductTextSpan">成為會員</span><br />
-						馬上註冊立即可享HotelClub的會員尊利。<br />
-						<table width="320" height="30" border="0" cellspacing="0" cellpadding="0" class="clubPagePad2">
-					  <tr>
-						<td height="30">
-						<a href="#" title="Join with Facebook"><img src="../images/facebook.png" alt="Facebook" width="30" height="30" border="0" class="clubPageimg" /></a>
-						<a href="#" title="Join with Google Plus"><img src="../images/gplus.png" alt="Google Plus" width="30" height="30" border="0" /></a></td>
-					  </tr>
-					</table>
-					
-					<form>
-					<table width="340" border="0" cellspacing="0" cellpadding="0">
-					  <tr>
-						<td height="58" align="left" valign="top">
-						<span class="clubTabLabel">Email<br />
-						<input name="Email" type="text" class="clubTabInput" /></span>
-						</td>
-					  </tr>
-					  <tr>
-						<td height="58" align="left" valign="top">
-						<span class="clubTabLabel">Password<br />
-						<input name="Email" type="text" class="clubTabInput" /></span>
-						</td>
-					  </tr>
-					  <tr>
-						<td height="78" align="left" valign="top">
-						  <span class="clubTabLabel">Retype password<br />
-							<input name="Email" class="clubTabInput" /></span>
-						  </td>
-					  </tr>
-					  </table>
-					</form>
-					
-					<table width="340" border="0" cellspacing="0" cellpadding="0">
-					  <tr>
+        </td>
+	</tr>
+	<tr>
+		<td>
+			<div align="left" valign="top" class="introductTextTdTemp">
+				<h1 class="introductTextH1">房間升級體驗</h1>
+							<span class="clubPageTabText">我們與精選酒店合作，一同為您帶來一個更豪華舒適的住宿體驗。預訂「精選酒店」即可享房間升級、免費早餐、無線網路、延遲退房、及免渡假村收費等各式優惠。僅限黃金及白金會員專享。
+							</span>
+				<br/>
+				<br/>
+							<span class="clubPageTabText">馬上加入成為HotelClub會員，立即享受各種尊利及非凡住宿體驗。</span>
+			</div>
+			<div id="club-form-footer" style="display:none;">
+				<table width="340" border="0" cellspacing="0" cellpadding="0">
+					<tr>
 						<td width="200">
-							<a href="#" title="馬上加入"> <img src="../images/Join-Now.png" alt="馬上加入" border="0" onmouseover="this.src='../images/Join-Now-Hover.png'" onmouseout="this.src='../images/Join-Now.png'"/></a>
+							<input type="image" name="_eventId_submit" border="0" alt="Submit" src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Join-Now.png"
+								   onmouseover="this.src='http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Join-Now-Hover.png'"
+								   onmouseout="this.src='http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Join-Now.png'" />
 						</td>
 						<td width="140">
-							<span class="clubTabLabel2">Already have a HotelClub account? <a href="#" title="Sign in to HotelClub" class="clubTabLabelSign">Sign in</a></span>
+										<span class="clubTabLabel2">Already have a HotelClub account?
+											<a href="https://www.hotelclub.com/account/login?destinationUrl=/mktg/club-hotels/" title="Sign in to HotelClub" class="clubTabLabelSign">Sign in</a>
+										</span>
 						</td>
-					  </tr>
-					</table>
-
-					</td>
-				  </tr>
-				</table></td>
-			  </tr>
-			</table>
-			
-			</td>
-		  </tr>
-		</table>
-    </td>
+					</tr>
+				</table>
+			</div>
+		</td>
     </tr>
-    </table>
+</table>
+<!-- flex template snippet END -->
 </body>
 </html>
