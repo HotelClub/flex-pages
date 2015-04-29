@@ -23,7 +23,8 @@
 .clubTabLabel{font-family:Arial, Helvetica, sans-serif !important;font-size:12px !important;font-weight:bold !important;}
 .flexModule{margin:0px;padding:0px;}
 .headerImg{padding:-16px;}
-.introductDiv{font-family:Arial, Helvetica, sans-serif;font-size:14px;font-style:normal;padding:20px 0px 30px 0px;}
+.introductDiv{font-family:Arial, Helvetica, sans-serif;font-size:14px;font-style:normal;padding:20px 5px 30px 5px;   line-height: 24px;}
+.introductDiv img{margin-top: 20px;}
 .introductTab2Img{padding-top:24px;}
 .introductTab2P2 {font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-style: normal;}
 .introductTab2P{font-family:Arial, Helvetica, sans-serif;font-size:16px;font-style:normal;font-weight:bold;padding-top:12px;}
@@ -35,8 +36,9 @@
 .introductTextH1{font-family:Arial, Helvetica, sans-serif !important;font-size:24px !important;font-style:bold !important;}
 .introductTextH2{font-family:Arial, Helvetica, sans-serif !important;font-size:30px  !important;font-style:bold  !important;padding: 0 0 10px;}
 .introductTextP {font-family: Arial, Helvetica, sans-serif;font-size: 16px;font-style: normal;}
-.introductTextSpan{font-size:16px;font-weight:bold;}
+.introductTextSpan{font-size:16px;font-weight:bold; line-height: 30px}
 .introductTextTab{border: 1px solid #c6c8c7;margin-top:20px;}
+.introductTextTab span {line-height: 24px;}
 .introductTextTd p{font-family:Arial, Helvetica, sans-serif;font-size:16px;font-style:normal;font-weight:bold;padding:28px 0 5px 0;}
 .introductTextTd span{font-family:Arial, Helvetica, sans-serif;font-size:14px;font-style:normal; line-height:24px;}
 .introductTextTd2{line-height:27px;}
