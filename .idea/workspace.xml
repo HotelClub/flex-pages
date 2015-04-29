@@ -2,28 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ea833bd-0ac2-4f4b-8486-160f2c680ca0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/Benefits.html" afterPath="$PROJECT_DIR$/mktg/Benefits.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/Benefits_de_DE.html" afterPath="$PROJECT_DIR$/mktg/Benefits_de_DE.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/Benefits_es_ES.html" afterPath="$PROJECT_DIR$/mktg/Benefits_es_ES.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/Benefits_en_AU.html" afterPath="$PROJECT_DIR$/mktg/Benefits_en_AU.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/Benefits_fr_FR.html" afterPath="$PROJECT_DIR$/mktg/Benefits_fr_FR.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/Benefits_id_ID.html" afterPath="$PROJECT_DIR$/mktg/Benefits_id_ID.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/Benefits_it_IT.html" afterPath="$PROJECT_DIR$/mktg/Benefits_it_IT.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/Benefits_ja_JP.html" afterPath="$PROJECT_DIR$/mktg/Benefits_ja_JP.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/Benefits_ko_KR.html" afterPath="$PROJECT_DIR$/mktg/Benefits_ko_KR.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/Benefits_ms_MY.html" afterPath="$PROJECT_DIR$/mktg/Benefits_ms_MY.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/Benefits_nl_NL.html" afterPath="$PROJECT_DIR$/mktg/Benefits_nl_NL.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-hotels_de_DE.html" afterPath="$PROJECT_DIR$/mktg/club-hotels_de_DE.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-hotels_es_ES.html" afterPath="$PROJECT_DIR$/mktg/club-hotels_es_ES.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-hotels_id_ID.html" afterPath="$PROJECT_DIR$/mktg/club-hotels_id_ID.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-hotels_ja_JP.html" afterPath="$PROJECT_DIR$/mktg/club-hotels_ja_JP.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-hotels_ko_KR.html" afterPath="$PROJECT_DIR$/mktg/club-hotels_ko_KR.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-hotels_ms_MY.html" afterPath="$PROJECT_DIR$/mktg/club-hotels_ms_MY.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-hotels_nl_NL.html" afterPath="$PROJECT_DIR$/mktg/club-hotels_nl_NL.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club_de_DE.html" afterPath="$PROJECT_DIR$/mktg/the-club_de_DE.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club_es_ES.html" afterPath="$PROJECT_DIR$/mktg/the-club_es_ES.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club_id_ID.html" afterPath="$PROJECT_DIR$/mktg/the-club_id_ID.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club_ja_JP.html" afterPath="$PROJECT_DIR$/mktg/the-club_ja_JP.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club_ko_KR.html" afterPath="$PROJECT_DIR$/mktg/the-club_ko_KR.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club_ms_MY.html" afterPath="$PROJECT_DIR$/mktg/the-club_ms_MY.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club_nl_NL.html" afterPath="$PROJECT_DIR$/mktg/the-club_nl_NL.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/Benefits_pl_PL.html" afterPath="$PROJECT_DIR$/mktg/Benefits_pl_PL.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/Benefits_pt_PT.html" afterPath="$PROJECT_DIR$/mktg/Benefits_pt_PT.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/Benefits_ru_RU.html" afterPath="$PROJECT_DIR$/mktg/Benefits_ru_RU.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/Benefits_sv_SE.html" afterPath="$PROJECT_DIR$/mktg/Benefits_sv_SE.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/Benefits_th_TH.html" afterPath="$PROJECT_DIR$/mktg/Benefits_th_TH.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/Benefits_zh_CN.html" afterPath="$PROJECT_DIR$/mktg/Benefits_zh_CN.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/Benefits_zh_HK.html" afterPath="$PROJECT_DIR$/mktg/Benefits_zh_HK.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/Benefits_zh_TW.html" afterPath="$PROJECT_DIR$/mktg/Benefits_zh_TW.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-hotels_fr_FR.html" afterPath="$PROJECT_DIR$/mktg/club-hotels_fr_FR.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-hotels_it_IT.html" afterPath="$PROJECT_DIR$/mktg/club-hotels_it_IT.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-hotels_pl_PL.html" afterPath="$PROJECT_DIR$/mktg/club-hotels_pl_PL.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-hotels_pt_PT.html" afterPath="$PROJECT_DIR$/mktg/club-hotels_pt_PT.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-hotels_ru_RU.html" afterPath="$PROJECT_DIR$/mktg/club-hotels_ru_RU.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-hotels_sv_SE.html" afterPath="$PROJECT_DIR$/mktg/club-hotels_sv_SE.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-hotels_th_TH.html" afterPath="$PROJECT_DIR$/mktg/club-hotels_th_TH.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-hotels_zh_CN.html" afterPath="$PROJECT_DIR$/mktg/club-hotels_zh_CN.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-hotels_zh_HK.html" afterPath="$PROJECT_DIR$/mktg/club-hotels_zh_HK.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-hotels_zh_TW.html" afterPath="$PROJECT_DIR$/mktg/club-hotels_zh_TW.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club_en_AU.html" afterPath="$PROJECT_DIR$/mktg/the-club_en_AU.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club_fr_FR.html" afterPath="$PROJECT_DIR$/mktg/the-club_fr_FR.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club_it_IT.html" afterPath="$PROJECT_DIR$/mktg/the-club_it_IT.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club_pl_PL.html" afterPath="$PROJECT_DIR$/mktg/the-club_pl_PL.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club_pt_PT.html" afterPath="$PROJECT_DIR$/mktg/the-club_pt_PT.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club_ru_RU.html" afterPath="$PROJECT_DIR$/mktg/the-club_ru_RU.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club_sv_SE.html" afterPath="$PROJECT_DIR$/mktg/the-club_sv_SE.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club_th_TH.html" afterPath="$PROJECT_DIR$/mktg/the-club_th_TH.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club_zh_CN.html" afterPath="$PROJECT_DIR$/mktg/the-club_zh_CN.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club_zh_HK.html" afterPath="$PROJECT_DIR$/mktg/the-club_zh_HK.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club_zh_TW.html" afterPath="$PROJECT_DIR$/mktg/the-club_zh_TW.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="flex-pages.iws" />
@@ -61,48 +78,57 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/global.js" />
-        <option value="$PROJECT_DIR$/carousel.html" />
-        <option value="$PROJECT_DIR$/test.php" />
-        <option value="$PROJECT_DIR$/carousel-iframe.html" />
-        <option value="$PROJECT_DIR$/template-countdown.xml" />
-        <option value="$PROJECT_DIR$/count-down.html" />
-        <option value="$PROJECT_DIR$/template-flash-pac.xml" />
-        <option value="$PROJECT_DIR$/template.xml" />
-        <option value="$PROJECT_DIR$/Benefits.html" />
-        <option value="$PROJECT_DIR$/ClubHotels.html" />
-        <option value="$PROJECT_DIR$/flex-templates/Marketing/The-Club-mobile.xml" />
-        <option value="$PROJECT_DIR$/TheClub.html" />
-        <option value="$PROJECT_DIR$/mktg/TheClub.html" />
-        <option value="$PROJECT_DIR$/flex-templates/Marketing/The-Club.xml" />
-        <option value="$PROJECT_DIR$/mktg/the-club.html" />
-        <option value="$PROJECT_DIR$/flex-templates/Marketing/Club-Hotels.xml" />
-        <option value="$PROJECT_DIR$/mktg/club-hotels.html" />
-        <option value="$PROJECT_DIR$/flex-templates/Marketing/Benefit.xml" />
-        <option value="$PROJECT_DIR$/mktg/Benefits.html" />
-        <option value="$PROJECT_DIR$/mktg/the-club_de_DE.html" />
-        <option value="$PROJECT_DIR$/mktg/the-club_es_ES.html" />
-        <option value="$PROJECT_DIR$/mktg/the-club_id_ID.html" />
-        <option value="$PROJECT_DIR$/mktg/club-hotels_id_ID.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/mktg/Benefits_de_DE.html" />
         <option value="$PROJECT_DIR$/mktg/club-hotels_de_DE.html" />
         <option value="$PROJECT_DIR$/mktg/the-club_ja_JP.html" />
-        <option value="$PROJECT_DIR$/mktg/Benefits_ja_JP.html" />
         <option value="$PROJECT_DIR$/mktg/club-hotels_ja_JP.html" />
         <option value="$PROJECT_DIR$/mktg/the-club_ko_KR.html" />
         <option value="$PROJECT_DIR$/mktg/club-hotels_ko_KR.html" />
-        <option value="$PROJECT_DIR$/mktg/Benefits_ko_KR.html" />
-        <option value="$PROJECT_DIR$/mktg/Benefits_id_ID.html" />
         <option value="$PROJECT_DIR$/mktg/Benefits_es_ES.html" />
         <option value="$PROJECT_DIR$/mktg/club-hotels_es_ES.html" />
         <option value="$PROJECT_DIR$/mktg/the-club_ms_MY.html" />
         <option value="$PROJECT_DIR$/mktg/club-hotels_ms_MY.html" />
-        <option value="$PROJECT_DIR$/mktg/Benefits_ms_MY.html" />
         <option value="$PROJECT_DIR$/mktg/the-club_nl_NL.html" />
-        <option value="$PROJECT_DIR$/mktg/Benefits_nl_NL.html" />
         <option value="$PROJECT_DIR$/mktg/club-hotels_nl_NL.html" />
+        <option value="$PROJECT_DIR$/mktg/Benefits.html" />
+        <option value="$PROJECT_DIR$/mktg/Benefits_de_DE.html" />
+        <option value="$PROJECT_DIR$/mktg/Benefits_en_AU.html" />
+        <option value="$PROJECT_DIR$/mktg/Benefits_fr_FR.html" />
+        <option value="$PROJECT_DIR$/mktg/Benefits_id_ID.html" />
+        <option value="$PROJECT_DIR$/mktg/Benefits_ja_JP.html" />
+        <option value="$PROJECT_DIR$/mktg/Benefits_ko_KR.html" />
+        <option value="$PROJECT_DIR$/mktg/Benefits_ms_MY.html" />
+        <option value="$PROJECT_DIR$/mktg/Benefits_nl_NL.html" />
+        <option value="$PROJECT_DIR$/mktg/Benefits_ru_RU.html" />
+        <option value="$PROJECT_DIR$/mktg/Benefits_pt_PT.html" />
+        <option value="$PROJECT_DIR$/mktg/Benefits_pl_PL.html" />
+        <option value="$PROJECT_DIR$/mktg/Benefits_it_IT.html" />
+        <option value="$PROJECT_DIR$/mktg/Benefits_sv_SE.html" />
+        <option value="$PROJECT_DIR$/mktg/Benefits_th_TH.html" />
+        <option value="$PROJECT_DIR$/mktg/Benefits_zh_HK.html" />
+        <option value="$PROJECT_DIR$/mktg/Benefits_zh_CN.html" />
+        <option value="$PROJECT_DIR$/mktg/Benefits_zh_TW.html" />
+        <option value="$PROJECT_DIR$/mktg/club-hotels_fr_FR.html" />
+        <option value="$PROJECT_DIR$/mktg/club-hotels_it_IT.html" />
+        <option value="$PROJECT_DIR$/mktg/club-hotels_pl_PL.html" />
+        <option value="$PROJECT_DIR$/mktg/club-hotels_pt_PT.html" />
+        <option value="$PROJECT_DIR$/mktg/club-hotels_ru_RU.html" />
+        <option value="$PROJECT_DIR$/mktg/club-hotels_sv_SE.html" />
+        <option value="$PROJECT_DIR$/mktg/club-hotels_th_TH.html" />
+        <option value="$PROJECT_DIR$/mktg/club-hotels_zh_CN.html" />
+        <option value="$PROJECT_DIR$/mktg/club-hotels_zh_HK.html" />
+        <option value="$PROJECT_DIR$/mktg/club-hotels_zh_TW.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club_en_AU.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club_fr_FR.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club_it_IT.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club_pl_PL.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club_pt_PT.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club_ru_RU.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club_sv_SE.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club_th_TH.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club_zh_CN.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club_zh_HK.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club_zh_TW.html" />
       </list>
     </option>
   </component>
@@ -382,7 +408,19 @@
       <option name="project" value="LOCAL" />
       <updated>1430271258316</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update .html page to sync up with latest flex template">
+      <created>1430271326928</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1430271326928</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Merge branch 'bcm-value-prop' of github.com:Hotelclub/flex-pages into bcm-value-prop&#10;&#10;Conflicts:&#10;&#9;mktg/the-club_de_DE.html&#10;&#9;mktg/the-club_es_ES.html&#10;&#9;mktg/the-club_id_ID.html&#10;&#9;mktg/the-club_ja_JP.html&#10;&#9;mktg/the-club_ko_KR.html&#10;&#9;mktg/the-club_ms_MY.html&#10;&#9;mktg/the-club_nl_NL.html&#10;">
+      <created>1430273083294</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1430273083294</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -390,7 +428,7 @@
     <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.6339093" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.71706265" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -440,299 +478,194 @@
     <MESSAGE value="re-arranged styles selectors alphabetically" />
     <MESSAGE value="update benefits page&#10;" />
     <MESSAGE value="count down clock" />
-    <option name="LAST_COMMIT_MESSAGE" value="count down clock" />
+    <MESSAGE value="update .html page to sync up with latest flex template" />
+    <MESSAGE value="Merge branch 'bcm-value-prop' of github.com:Hotelclub/flex-pages into bcm-value-prop&#10;&#10;Conflicts:&#10;&#9;mktg/the-club_de_DE.html&#10;&#9;mktg/the-club_es_ES.html&#10;&#9;mktg/the-club_id_ID.html&#10;&#9;mktg/the-club_ja_JP.html&#10;&#9;mktg/the-club_ko_KR.html&#10;&#9;mktg/the-club_ms_MY.html&#10;&#9;mktg/the-club_nl_NL.html&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'bcm-value-prop' of github.com:Hotelclub/flex-pages into bcm-value-prop&#10;&#10;Conflicts:&#10;&#9;mktg/the-club_de_DE.html&#10;&#9;mktg/the-club_es_ES.html&#10;&#9;mktg/the-club_id_ID.html&#10;&#9;mktg/the-club_ja_JP.html&#10;&#9;mktg/the-club_ko_KR.html&#10;&#9;mktg/the-club_ms_MY.html&#10;&#9;mktg/the-club_nl_NL.html&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/flex-templates/Marketing/Club-Hotels.xml">
+    <entry file="file://$PROJECT_DIR$/mktg/Benefits_de_DE.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="2244">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flex-templates/Marketing/The-Club.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="7956">
-          <caret line="14" column="17" selection-start-line="7" selection-start-column="16" selection-end-line="14" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1669" max-vertical-offset="3621">
-          <caret line="113" column="20" selection-start-line="113" selection-start-column="8" selection-end-line="113" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/carousel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="2363">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flex-templates/Marketing/The-Club.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1530" max-vertical-offset="4352">
-          <caret line="113" column="21" selection-start-line="3" selection-start-column="11" selection-end-line="113" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="986">
-          <caret line="50" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="52" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flex-templates/Marketing/The-Club.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1530" max-vertical-offset="4352">
-          <caret line="113" column="21" selection-start-line="3" selection-start-column="11" selection-end-line="113" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="986">
-          <caret line="50" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="52" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flex-templates/Marketing/The-Club.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1530" max-vertical-offset="4352">
-          <caret line="113" column="21" selection-start-line="3" selection-start-column="11" selection-end-line="113" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="986">
-          <caret line="50" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="52" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="86" max-vertical-offset="1020">
-          <caret line="53" column="39" selection-start-line="53" selection-start-column="39" selection-end-line="53" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/carousel-iframe.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18523003" vertical-offset="0" max-vertical-offset="826">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flex-templates/template-flash-pac.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23762377" vertical-offset="1668" max-vertical-offset="2703">
-          <caret line="108" column="28" selection-start-line="108" selection-start-column="28" selection-end-line="109" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flex-templates/template-countdown.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.1656892" vertical-offset="0" max-vertical-offset="2992">
-          <caret line="127" column="0" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery-1.11.1.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.076662906" vertical-offset="0" max-vertical-offset="887">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flex-templates/Marketing/The-Club-mobile.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.61668545" vertical-offset="5114" max-vertical-offset="7990">
-          <caret line="333" column="52" selection-start-line="333" selection-start-column="52" selection-end-line="333" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/carousel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.2833914" vertical-offset="1377" max-vertical-offset="2363">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47275922" vertical-offset="37" max-vertical-offset="1037">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/data_lang.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29896906" vertical-offset="761" max-vertical-offset="2363">
-          <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TheClub.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.052724" vertical-offset="4786" max-vertical-offset="5355">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flex-templates/Marketing/Club-Hotels.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.18888889" vertical-offset="510" max-vertical-offset="3349">
-          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flex-templates/Marketing/Benefit.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21911922" vertical-offset="0" max-vertical-offset="4658">
-          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/Benefits.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20662983" vertical-offset="0" max-vertical-offset="4556">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flex-templates/Marketing/The-Club.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71631205" vertical-offset="1823" max-vertical-offset="7956">
-          <caret line="131" column="33" selection-start-line="131" selection-start-column="33" selection-end-line="131" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3623446" vertical-offset="0" max-vertical-offset="3400">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club_en_AU.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3623446" vertical-offset="0" max-vertical-offset="3587">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/club-hotels.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6753472" vertical-offset="1838" max-vertical-offset="2414">
-          <caret line="131" column="13" selection-start-line="131" selection-start-column="13" selection-end-line="131" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/club-hotels_ja_JP.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5168739" vertical-offset="593" max-vertical-offset="1156">
-          <caret line="52" column="65" selection-start-line="52" selection-start-column="65" selection-end-line="52" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/Benefits_ko_KR.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30195382" vertical-offset="0" max-vertical-offset="3264">
-          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/club-hotels_ko_KR.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4831261" vertical-offset="0" max-vertical-offset="1139">
-          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/Benefits_ja_JP.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.3285968" vertical-offset="0" max-vertical-offset="3281">
-          <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/Benefits_es_ES.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.634103" vertical-offset="0" max-vertical-offset="3468">
-          <caret line="21" column="54" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
+        <state vertical-scroll-proportion="0.8534483" vertical-offset="2888" max-vertical-offset="3485">
+          <caret line="199" column="7" selection-start-line="199" selection-start-column="7" selection-end-line="199" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mktg/Benefits_en_AU.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3536">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.5017241" vertical-offset="2956" max-vertical-offset="3536">
+          <caret line="191" column="24" selection-start-line="191" selection-start-column="24" selection-end-line="191" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/Benefits.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2637931" vertical-offset="0" max-vertical-offset="4556">
+          <caret line="9" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/Benefits_ja_JP.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8534483" vertical-offset="2871" max-vertical-offset="3468">
+          <caret line="198" column="7" selection-start-line="198" selection-start-column="7" selection-end-line="198" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/Benefits_ko_KR.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8534483" vertical-offset="2854" max-vertical-offset="3451">
+          <caret line="197" column="7" selection-start-line="197" selection-start-column="7" selection-end-line="197" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/Benefits_pt_PT.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.79137933" vertical-offset="408" max-vertical-offset="3468">
+          <caret line="51" column="109" selection-start-line="51" selection-start-column="109" selection-end-line="51" selection-end-column="109" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/Benefits_pl_PL.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.79137933" vertical-offset="408" max-vertical-offset="3468">
+          <caret line="51" column="109" selection-start-line="51" selection-start-column="109" selection-end-line="51" selection-end-column="109" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/Benefits_nl_NL.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.33275864" vertical-offset="482" max-vertical-offset="3485">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/Benefits_ms_MY.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.17586207" vertical-offset="510" max-vertical-offset="3451">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/Benefits_it_IT.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7362069" vertical-offset="440" max-vertical-offset="3468">
+          <caret line="51" column="109" selection-start-line="51" selection-start-column="109" selection-end-line="51" selection-end-column="109" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mktg/Benefits_id_ID.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30195382" vertical-offset="0" max-vertical-offset="3247">
-          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+        <state vertical-scroll-proportion="-0.87931037" vertical-offset="510" max-vertical-offset="3451">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/Benefits_fr_FR.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="7.825862" vertical-offset="0" max-vertical-offset="4641">
+          <caret line="267" column="7" selection-start-line="267" selection-start-column="7" selection-end-line="267" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/Benefits_es_ES.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53103447" vertical-offset="2582" max-vertical-offset="3468">
+          <caret line="170" column="52" selection-start-line="170" selection-start-column="51" selection-end-line="170" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/Benefits_th_TH.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.4844828" vertical-offset="2888" max-vertical-offset="3468">
+          <caret line="51" column="109" selection-start-line="51" selection-start-column="109" selection-end-line="51" selection-end-column="109" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/Benefits_zh_HK.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6189655" vertical-offset="508" max-vertical-offset="3485">
+          <caret line="51" column="109" selection-start-line="51" selection-start-column="109" selection-end-line="51" selection-end-column="109" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/Benefits_sv_SE.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4948276" vertical-offset="0" max-vertical-offset="3468">
+          <caret line="51" column="109" selection-start-line="51" selection-start-column="109" selection-end-line="51" selection-end-column="109" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/Benefits_zh_TW.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43965518" vertical-offset="612" max-vertical-offset="3485">
+          <caret line="51" column="109" selection-start-line="51" selection-start-column="109" selection-end-line="51" selection-end-column="109" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mktg/club-hotels_de_DE.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1139">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.49827588" vertical-offset="0" max-vertical-offset="1139">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mktg/club-hotels_es_ES.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75488454" vertical-offset="0" max-vertical-offset="1326">
-          <caret line="25" column="58" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
+        <state vertical-scroll-proportion="0.5862069" vertical-offset="0" max-vertical-offset="1326">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/Benefits_zh_CN.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4948276" vertical-offset="0" max-vertical-offset="3485">
+          <caret line="51" column="109" selection-start-line="51" selection-start-column="109" selection-end-line="51" selection-end-column="109" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/Benefits_ru_RU.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9862069" vertical-offset="295" max-vertical-offset="3468">
+          <caret line="51" column="109" selection-start-line="51" selection-start-column="109" selection-end-line="51" selection-end-column="109" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/club-hotels_fr_FR.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9086207" vertical-offset="0" max-vertical-offset="1326">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mktg/club-hotels_id_ID.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5133215" vertical-offset="0" max-vertical-offset="1343">
+        <state vertical-scroll-proportion="0.49827588" vertical-offset="0" max-vertical-offset="1343">
           <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
           <folding>
             <element signature="n#style#0;n#div#1;n#td#0;n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -740,18 +673,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/Benefits_de_DE.html">
+    <entry file="file://$PROJECT_DIR$/mktg/club-hotels_it_IT.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="3281">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.9086207" vertical-offset="0" max-vertical-offset="1326">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club_es_ES.html">
+    <entry file="file://$PROJECT_DIR$/mktg/club-hotels_ja_JP.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3502">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.5862069" vertical-offset="0" max-vertical-offset="1156">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/club-hotels_ko_KR.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46896553" vertical-offset="0" max-vertical-offset="1139">
+          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/club-hotels_ms_MY.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.55689657" vertical-offset="0" max-vertical-offset="1139">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/club-hotels_nl_NL.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5862069" vertical-offset="0" max-vertical-offset="1139">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/club-hotels_pl_PL.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9086207" vertical-offset="0" max-vertical-offset="1326">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/club-hotels_pt_PT.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9086207" vertical-offset="0" max-vertical-offset="1326">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/club-hotels_ru_RU.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9086207" vertical-offset="0" max-vertical-offset="1343">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/club-hotels_sv_SE.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9086207" vertical-offset="0" max-vertical-offset="1326">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/club-hotels_th_TH.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9086207" vertical-offset="0" max-vertical-offset="1343">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/club-hotels_zh_CN.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3726813" vertical-offset="306" max-vertical-offset="1343">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/club-hotels_zh_HK.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.05733558" vertical-offset="459" max-vertical-offset="1343">
+          <caret line="25" column="58" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/club-hotels_zh_TW.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9086207" vertical-offset="0" max-vertical-offset="1343">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club_de_DE.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3224138" vertical-offset="0" max-vertical-offset="3485">
+          <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club_en_AU.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5862069" vertical-offset="0" max-vertical-offset="3536">
+          <caret line="20" column="56" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club_fr_FR.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.85" vertical-offset="0" max-vertical-offset="3536">
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
           <folding />
         </state>
       </provider>
@@ -764,82 +809,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club_it_IT.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.85" vertical-offset="0" max-vertical-offset="3536">
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mktg/the-club_ja_JP.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3281">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club_ko_KR.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39253998" vertical-offset="102" max-vertical-offset="3281">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60465115" vertical-offset="588" max-vertical-offset="1190">
-          <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/club-hotels_ms_MY.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4831261" vertical-offset="0" max-vertical-offset="1139">
-          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/Benefits_ms_MY.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30195382" vertical-offset="0" max-vertical-offset="3264">
-          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club_ms_MY.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45293072" vertical-offset="0" max-vertical-offset="3281">
-          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+        <state vertical-scroll-proportion="0.3810345" vertical-offset="0" max-vertical-offset="3281">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mktg/the-club_nl_NL.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1811723" vertical-offset="0" max-vertical-offset="3281">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.61551726" vertical-offset="0" max-vertical-offset="3281">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/club-hotels_nl_NL.html">
+    <entry file="file://$PROJECT_DIR$/mktg/the-club_pl_PL.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60390764" vertical-offset="0" max-vertical-offset="1139">
-          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.8206897" vertical-offset="0" max-vertical-offset="3536">
+          <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/Benefits_nl_NL.html">
+    <entry file="file://$PROJECT_DIR$/mktg/the-club_pt_PT.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5133215" vertical-offset="0" max-vertical-offset="3298">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.85" vertical-offset="0" max-vertical-offset="3536">
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club_de_DE.html">
+    <entry file="file://$PROJECT_DIR$/mktg/the-club_ru_RU.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39253998" vertical-offset="0" max-vertical-offset="3485">
-          <caret line="13" column="20" selection-start-line="11" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.85" vertical-offset="0" max-vertical-offset="3536">
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club_sv_SE.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.85" vertical-offset="0" max-vertical-offset="3536">
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club_th_TH.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.85" vertical-offset="0" max-vertical-offset="3536">
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club_zh_CN.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.85" vertical-offset="0" max-vertical-offset="3536">
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club_zh_HK.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.85" vertical-offset="0" max-vertical-offset="3536">
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club_zh_TW.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.85" vertical-offset="0" max-vertical-offset="3536">
+          <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
           <folding />
         </state>
       </provider>
