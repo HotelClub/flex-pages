@@ -1,0 +1,5 @@
+AddDefaultCharset UTF-8
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RedirectMatch 301 /[a-z]{2}_[a-zA-Z]{2}/mktg/(.*) /mktg/$1
+</IfModule>
