@@ -1,73 +1,138 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>HotelClub | ClubHotels</title>
-<link rel="stylesheet" href="../css/style.css">
-<script src="http://www.tnetnoc.com/static/28.170.2/script/jsAll.js"></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>HotelClub: ti aspettano vantaggi in hotel e passaggi istantanei di categoria!</title>
+    <link rel="stylesheet" href="http://www.myhotelclub.website/assets/css/the-club-styles.css"/>
+    <script src="http://www.tnetnoc.com/static/28.170.2/script/jsAll.js"></script>
 </head>
+
+<body>
+<!-- customise start -->
+<style>
+
+    .valueNav li {
+        text-align: center;
+        float: left;
+        display: block;
+    }
+    .valueNav a {
+        text-decoration: none;
+        text-align: center;
+        padding: 15px;
+        border-bottom: 6px solid white;
+        display: inline-block;
+        margin: 0 auto;
+        color: black;
+        text-transform:uppercase;
+    }
+
+    .valueNav li.current a{
+        border-bottom:6px solid #55337e; color:#55337e; font-weight:bold;
+    }
+
+    .flexRegistrationMod {
+        width: 420px;
+        margin-top: -266px;
+        margin-right: 30px;
+        float:right;
+        margin-bottom: 30px;
+    }
+    .flexRegistration{
+        -moz-box-shadow: none;
+        -webkit-box-shadow: none;
+        -webkit-margin-end: auto;
+        -webkit-margin-start: auto;
+        background-color: rgb(251, 241, 232);
+        border-bottom-width: 0px;
+        border-left-width: 0px;
+        border-radius: 0px;
+        border-right-width: 0px;
+        border-spacing: 0px;
+        border-top-width: 0px;
+        border: 1px solid #c6c8c7;
+        box-shadow: none;
+        margin-top: 1em;
+        overflow: hidden;
+        padding: 30px 30px 30px 35px;
+        text-align: -webkit-left;
+        vertical-align: middle;
+
+    }
+    .introductTextTd{
+        float: left;
+        width: 400px;
+        margin-left: 30px;
+    }
+    .flexRegistration.register .textInput input {
+        border: 1px solid #c6c8c7;
+        height: 24px;
+        padding-left: 5px;
+        width: 333px;
+        border-radius:0px;
+        -moz-box-shadow: none;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+    }
+</style>
 <script language="JavaScript">
     jQuery( document ).ready(function() {
         var formFooter = jQuery("#club-form-footer").html();
         jQuery(".submit.button-primary").replaceWith(formFooter);
     });
+
 </script>
-<body>
 <table width="960" border="0" align="left" cellpadding="0" cellspacing="0">
     <tr>
-		<td align="center" width="960">
-		<img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Header-ClubHotels.jpg" alt="Ogni soggiorno diventa sempre più straordinario" width="960" height="323" class="headerImg"/>
+        <td align="center" width="960">
+            <img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Header-ClubHotels.jpg"
+                 alt="Ogni soggiorno diventa sempre più straordinario" width="960" height="323" style="padding:-16px;"/>
 
-		<table width="876" border="0" align="center" cellpadding="0" cellspacing="0" class="pageTabs">
-			<tr>
-				<td align="left" valign="top">
-				  <ul class="pageTabsUI">
-					<li class="pageTabsLI">
-						<a href="/it_it/mktg/club-benefits/" class="pageTabsMenu" title="Il Club">Il Club</a>
-					</li>        
-					<li class="pageTabsLI pageTabsLI2">
-						<a href="/it_it/mktg/benefits/" class="pageTabsMenu" title="Vantaggi">Vantaggi</a>
-					</li>
-					<li class="pageTabsLI active2">
-					   	<a href="/it_it/mktg/club-hotels/" class="pageTabsMenu" title="Hotel del Club">Hotel del Club</a>
-					</li>
-					<li class="pageTabsLI">
-						<a href="#" class="pageTabsMenu" title="Prenota">Prenota</a>
-					</li>
-				  </ul>
-				</td>
-			</tr>
-		</table>
+            <!-- Page Tabs -->
+
+            <table width="876" border="0" align="center" cellpadding="0" cellspacing="0" style="margin-bottom:40px; border-bottom:1px solid #b1bbb9;">
+                <tr>
+                    <td align="left" valign="top">
+
+                        <ul class="valueNav" style="list-style:none;margin:0; padding:0; font-family:Arial, Helvetica, sans-serif; font-size:14px;">
+                            <li style="width:176px;"> <a href="/mktg/club-benefits/">Perchè ci distinguiamo</a></li>
+                            <li style="width:150px;"> <a href="/mktg/the-club-benefits/">Vantaggi</a></li>
+                            <li style="width:150px;" class="current"> <a href="/mktg/the-club-hotels/">Hotel del Club</a></li>
+                            <li style="width:150px;"> <a href="/mktg/the-club-tiers/">Livelli associativi</a></li>
+                            <li style="width:150px;"> <a href="/mktg/the-club-offers/">Offerte</a></li>
+                            <li style="width:100px;"> <a href="/mktg/the-club-book/">Prenota</a></li>
+                        </ul>
+
+                    </td>
+                </tr>
+            </table>
+
         </td>
-	</tr>
-	<tr>
-		<td>
-			<div align="left" valign="top" class="introductTextTdTemp">
-				<h1 class="introductTextH1">Benvenuto al tuo passaggio di categoria istantaneo</h1>
-							<span class="clubPageTabText">Siamo associati ad hotel selezionati per rendere il tuo soggiorno ancora più lussuoso. Ricevi un passaggio di categoria istantaneo e altri vantaggi extra come colazione gratuita, Wi-Fi, check-out ritardato ed esenzione da tasse di soggiorno quando prenoti uno dei nostri Hotel del Club. Disponibile solo per i nostri soci Oro e Platino.</span>
-				<br/>
-				<br/>
-							<span class="clubPageTabText">Registrati oggi ad HotelClub e inizia a ricevere questi e altri premi con ogni soggiorno. </span>
-			</div>
-			<div id="club-form-footer" style="display:none;">
-				<table width="340" border="0" cellspacing="0" cellpadding="0">
-					<tr>
-						<td width="200">
-							<input type="image" name="_eventId_submit" border="0" alt="Submit" src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Join-Now.png"
-								   onmouseover="this.src='http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Join-Now-Hover.png'"
-								   onmouseout="this.src='http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Join-Now.png'" />
-						</td>
-						<td width="140">
-										<span class="clubTabLabel2">Already have a HotelClub account?
-											<a href="https://www.hotelclub.com/account/login?destinationUrl=/mktg/club-hotels/" title="Sign in to HotelClub" class="clubTabLabelSign">Sign in</a>
-										</span>
-						</td>
-					</tr>
-				</table>
-			</div>
-		</td>
     </tr>
 </table>
-<!-- flex template snippet END -->
+<div align="left" valign="top" class="introductTextTd">
+    <h1 class="introductTextH1">Benvenuto al tuo passaggio di categoria istantaneo</h1>
+                <span class="clubPageTabText">Siamo associati ad hotel selezionati per rendere il tuo soggiorno ancora più lussuoso. Ricevi un passaggio di categoria istantaneo e altri vantaggi extra come colazione gratuita, Wi-Fi, check-out ritardato ed esenzione da tasse di soggiorno quando prenoti uno dei nostri Hotel del Club. Disponibile solo per i nostri soci Oro e Platino.</span>
+    <br/>
+    <br/>
+                <span class="clubPageTabText">Registrati oggi ad HotelClub e inizia a ricevere questi e altri premi con ogni soggiorno. </span>
+</div>
+<div id="club-form-footer" style="display:none;">
+    <table width="340" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+            <td width="200">
+                <input type="image" name="_eventId_submit" border="0" alt="Submit" src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Join-Now.png"
+                       onmouseover="this.src='http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Join-Now-Hover.png'"
+                       onmouseout="this.src='http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Join-Now.png'" />
+            </td>
+            <td width="140">
+                            <span class="clubTabLabel2">Already have a HotelClub account?
+                                <a href="https://www.hotelclub.com/account/login?destinationUrl=/mktg/club-hotels/" title="Sign in to HotelClub" class="clubTabLabelSign">Sign in</a>
+                            </span>
+            </td>
+        </tr>
+    </table>
+</div>
+<!-- Customise End -->
 </body>
 </html>
