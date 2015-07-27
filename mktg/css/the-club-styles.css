@@ -107,3 +107,25 @@ table.benefits > tbody > tr > td { border: 1px #cccccc solid; border-top: none; 
 table.benefits > tbody > tr > td { width: 162px; text-align: center; }
 table.benefits > tbody > tr > td:first-child { border-left: 1px white solid; font-size: 13px; padding: 0 20px; width: 162px;height: 60px;text-align: left; }
 table.benefits > tbody > tr > td:last-child { border-right: 1px white solid; }
+
+/* reset */
+/*css for offer page*/
+.flexRegistrationMod { position: relative; }
+.flexRegistration { margin-top: -330px; width: 300px; right: 40px; position: absolute; -moz-box-shadow: none;-webkit-box-shadow: none; -webkit-margin-end: auto; -webkit-margin-start: auto; background-color: rgb(251, 241, 232); border-bottom-width: 0px; border-left-width: 0px; border-radius: 0px; border-right-width: 0px; border-spacing: 0px; border-top-width: 0px; border: 1px solid #c6c8c7; box-shadow: none; overflow: hidden; padding: 20px; text-align: -webkit-left; vertical-align: middle; }
+.flexRegistration.register .textInput input { border: 1px solid #c6c8c7; height: 24px; padding-left: 2%; width: 96%; border-radius: 0px; -moz-box-shadow: none; -webkit-box-shadow: none; box-shadow: none; margin-bottom: 0; }
+h2.h2 { font-size: 30px; font-style: bold; margin-bottom: 40px; }
+.notRegistered { font-size: 14px; background: #eeeaf2; border: 1px #d4ccdf solid; padding: 15px 25px; line-height: 16px; text-align: center; }
+.cardContainer { padding-top: 40px; }
+.card { border: 1px #d9d9d9 solid; background: white; font-family: Arial, Helvetica, sans-serif; }
+.cardText { padding: 13px; text-align: center; }
+.icon { position: absolute; top: 0; left: 15px; }
+.only, .offerType { color: white; background: #ee2631; font-size: 11px; text-align: center; text-transform: uppercase; }
+.only td, .offerType td { line-height: 25px; }
+.only { background: black; position: absolute; left: 0; bottom: 0; }
+.rewardMembers { background: #ee2631; }
+.goldMembers { background: #fece2f; color: black; }
+.card .p { font-weight: bold; font-size: 15px; line-height: 17px; margin-bottom: 15px; }
+.card .p.type { font-weight: normal; font-size: 11px; text-transform: uppercase; color: #858585; margin-bottom: 8px;background-position: center top; }
+.loadMore { background: #f6f6f6; border: 1px #d9d9d9 solid; text-align: center; margin-bottom: 40px; position: relative; }
+.loadMore .bottomArrow { position: absolute; bottom: -7px; left: 50%; }
+.loadMore a { color: #666666; text-decoration: none; font-weight: bold;  font-size: 14px; display: block; padding: 3px; }
