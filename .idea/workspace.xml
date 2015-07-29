@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ea833bd-0ac2-4f4b-8486-160f2c680ca0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-benefits/club-benefits.html" afterPath="$PROJECT_DIR$/mktg/club-benefits/club-benefits.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/carousel.html" afterPath="$PROJECT_DIR$/carousel.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flex-templates/Marketing/club-benefits.xml" afterPath="$PROJECT_DIR$/flex-templates/Marketing/club-benefits.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_de_DE.html" afterPath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_de_DE.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_en_AU.html" afterPath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_en_AU.html" />
@@ -22,7 +22,69 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_zh_CN.html" afterPath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_zh_CN.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_zh_HK.html" afterPath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_zh_HK.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_zh_TW.html" afterPath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_zh_TW.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flex-templates/test.html" afterPath="$PROJECT_DIR$/flex-templates/test.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-benefits/index.php" afterPath="$PROJECT_DIR$/mktg/club-benefits/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/index.php" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/index.php" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-offers/index.php" afterPath="$PROJECT_DIR$/mktg/the-club-offers/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/index.php" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flex-templates/Marketing/the-club-benefits.xml" afterPath="$PROJECT_DIR$/flex-templates/Marketing/the-club-benefits.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_de_DE.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_de_DE.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_en_AU.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_en_AU.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_es_ES.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_es_ES.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_fr_FR.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_fr_FR.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_id_ID.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_id_ID.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_it_IT.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_it_IT.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_ja_JP.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_ja_JP.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_ko_KR.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_ko_KR.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_ms_MY.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_ms_MY.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_nl_NL.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_nl_NL.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_pl_PL.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_pl_PL.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_pt_PT.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_pt_PT.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_ru_RU.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_ru_RU.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_sv_SE.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_sv_SE.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_th_TH.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_th_TH.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_zh_CN.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_zh_CN.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_zh_HK.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_zh_HK.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_zh_TW.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_zh_TW.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flex-templates/Marketing/the-club-hotels.xml" afterPath="$PROJECT_DIR$/flex-templates/Marketing/the-club-hotels.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_de_DE.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_de_DE.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_en_AU.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_en_AU.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_es_ES.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_es_ES.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_fr_FR.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_fr_FR.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_id_ID.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_id_ID.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_it_IT.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_it_IT.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ja_JP.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ja_JP.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ko_KR.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ko_KR.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ms_MY.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ms_MY.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_nl_NL.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_nl_NL.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_pl_PL.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_pl_PL.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_pt_PT.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_pt_PT.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ru_RU.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ru_RU.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_sv_SE.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_sv_SE.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_th_TH.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_th_TH.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_zh_CN.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_zh_CN.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_zh_HK.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_zh_HK.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_zh_TW.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_zh_TW.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flex-templates/Marketing/the-club-offers.xml" afterPath="$PROJECT_DIR$/flex-templates/Marketing/the-club-offers.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flex-templates/Marketing/the-club-tiers.xml" afterPath="$PROJECT_DIR$/flex-templates/Marketing/the-club-tiers.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_de_DE.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_de_DE.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_en_AU.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_en_AU.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_es_ES.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_es_ES.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_fr_FR.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_fr_FR.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_id_ID.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_id_ID.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_it_IT.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_it_IT.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_ja_JP.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_ja_JP.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_ko_KR.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_ko_KR.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_ms_MY.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_ms_MY.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_nl_NL.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_nl_NL.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_pl_PL.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_pl_PL.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_pt_PT.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_pt_PT.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_ru_RU.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_ru_RU.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_sv_SE.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_sv_SE.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_th_TH.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_th_TH.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_zh_CN.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_zh_CN.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_zh_HK.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_zh_HK.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_zh_TW.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_zh_TW.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="flex-pages.iws" />
@@ -48,14 +110,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="club-benefits_de_DE.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mktg/club-benefits/club-benefits_de_DE.html">
+      <file leaf-file-name="club-benefits.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/flex-templates/Marketing/club-benefits.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.49202126" vertical-offset="1277" max-vertical-offset="4284">
-              <caret line="86" column="60" selection-start-line="86" selection-start-column="60" selection-end-line="86" selection-end-column="60" />
-              <folding>
-                <element signature="n#style#0;n#ul#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="2.3208334" vertical-offset="4577" max-vertical-offset="5457">
+              <caret line="302" column="111" selection-start-line="302" selection-start-column="95" selection-end-line="302" selection-end-column="111" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -73,57 +133,57 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/mktg/the-club_en_AU.html" />
-        <option value="$PROJECT_DIR$/mktg/the-club_fr_FR.html" />
-        <option value="$PROJECT_DIR$/mktg/the-club_it_IT.html" />
-        <option value="$PROJECT_DIR$/mktg/the-club_pl_PL.html" />
-        <option value="$PROJECT_DIR$/mktg/the-club_pt_PT.html" />
-        <option value="$PROJECT_DIR$/mktg/the-club_ru_RU.html" />
-        <option value="$PROJECT_DIR$/mktg/the-club_sv_SE.html" />
-        <option value="$PROJECT_DIR$/mktg/the-club_th_TH.html" />
-        <option value="$PROJECT_DIR$/mktg/the-club_zh_CN.html" />
-        <option value="$PROJECT_DIR$/mktg/the-club_zh_HK.html" />
-        <option value="$PROJECT_DIR$/mktg/the-club_zh_TW.html" />
-        <option value="$PROJECT_DIR$/mktg/club-benefits/index.php" />
-        <option value="$PROJECT_DIR$/mktg/the-club-offers/index.php" />
-        <option value="$PROJECT_DIR$/mktg/the-club-tiers/index.php" />
-        <option value="$PROJECT_DIR$/mktg/the-club-hotels/index.php" />
-        <option value="$PROJECT_DIR$/mktg/the-club-book/index.php" />
-        <option value="$PROJECT_DIR$/mktg/the-club-benefits/index.php" />
-        <option value="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels.html" />
-        <option value="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers.html" />
-        <option value="$PROJECT_DIR$/flex-templates/Marketing/Club-Hotels.xml" />
-        <option value="$PROJECT_DIR$/flex-templates/Marketing/the-club-benefits.xml" />
-        <option value="$PROJECT_DIR$/mktg/css/style.css" />
-        <option value="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_en_AU.html" />
-        <option value="$PROJECT_DIR$/.htaccess" />
-        <option value="$PROJECT_DIR$/flex-templates/test.xml" />
+        <option value="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_pt_PT.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_ru_RU.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_sv_SE.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_th_TH.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_zh_CN.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_zh_HK.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_zh_TW.html" />
+        <option value="$PROJECT_DIR$/mktg/club-benefits/club-benefits_de_DE.html" />
         <option value="$PROJECT_DIR$/flex-templates/Marketing/the-club-offers.xml" />
         <option value="$PROJECT_DIR$/flex-templates/Marketing/the-club-tiers.xml" />
+        <option value="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_de_DE.html" />
         <option value="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_en_AU.html" />
-        <option value="$PROJECT_DIR$/mktg/the-club-offers/the-club-offers_en_AU.html" />
-        <option value="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_en_AU.html" />
-        <option value="$PROJECT_DIR$/flex-templates/test.html" />
-        <option value="$PROJECT_DIR$/mktg/club-benefits/club-benefits.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_es_ES.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_fr_FR.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_id_ID.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_it_IT.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_ja_JP.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_ko_KR.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_ms_MY.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_nl_NL.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_pl_PL.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_pt_PT.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_ru_RU.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_sv_SE.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_th_TH.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_zh_CN.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_zh_HK.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_zh_TW.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_en_AU.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_es_ES.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_de_DE.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_fr_FR.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_id_ID.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_it_IT.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ja_JP.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ko_KR.html" />
         <option value="$PROJECT_DIR$/flex-templates/Marketing/club-benefits.xml" />
-        <option value="$PROJECT_DIR$/mktg/club-benefits/club-benefits_en_AU.html" />
-        <option value="$PROJECT_DIR$/mktg/club-benefits/club-benefits_es_ES.html" />
-        <option value="$PROJECT_DIR$/mktg/club-benefits/club-benefits_fr_FR.html" />
-        <option value="$PROJECT_DIR$/mktg/club-benefits/club-benefits_id_ID.html" />
-        <option value="$PROJECT_DIR$/mktg/club-benefits/club-benefits_it_IT.html" />
-        <option value="$PROJECT_DIR$/mktg/club-benefits/club-benefits_ja_JP.html" />
-        <option value="$PROJECT_DIR$/mktg/club-benefits/club-benefits_ko_KR.html" />
-        <option value="$PROJECT_DIR$/mktg/club-benefits/club-benefits_ms_MY.html" />
-        <option value="$PROJECT_DIR$/mktg/club-benefits/club-benefits_nl_NL.html" />
-        <option value="$PROJECT_DIR$/mktg/club-benefits/club-benefits_pl_PL.html" />
-        <option value="$PROJECT_DIR$/mktg/club-benefits/club-benefits_pt_PT.html" />
-        <option value="$PROJECT_DIR$/mktg/club-benefits/club-benefits_ru_RU.html" />
+        <option value="$PROJECT_DIR$/flex-templates/Marketing/the-club-benefits.xml" />
+        <option value="$PROJECT_DIR$/flex-templates/Marketing/the-club-hotels.xml" />
+        <option value="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_it_IT.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ms_MY.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_nl_NL.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_pl_PL.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_pt_PT.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ru_RU.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_sv_SE.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_th_TH.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_zh_CN.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_zh_HK.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_zh_TW.html" />
         <option value="$PROJECT_DIR$/mktg/club-benefits/club-benefits_sv_SE.html" />
-        <option value="$PROJECT_DIR$/mktg/club-benefits/club-benefits_th_TH.html" />
-        <option value="$PROJECT_DIR$/mktg/club-benefits/club-benefits_zh_CN.html" />
-        <option value="$PROJECT_DIR$/mktg/club-benefits/club-benefits_zh_HK.html" />
-        <option value="$PROJECT_DIR$/mktg/club-benefits/club-benefits_zh_TW.html" />
-        <option value="$PROJECT_DIR$/mktg/club-benefits/club-benefits_de_DE.html" />
       </list>
     </option>
   </component>
@@ -131,8 +191,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-4" />
     <option name="y" value="-4" />
-    <option name="width" value="1448" />
-    <option name="height" value="864" />
+    <option name="width" value="1688" />
+    <option name="height" value="1014" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -160,6 +220,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -209,8 +270,22 @@
               <option name="myItemId" value="mktg" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="the-club-offers" />
+              <option name="myItemId" value="flex-pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flex-pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mktg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the-club-hotels" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -225,6 +300,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="mktg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="the-club-book" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -274,6 +353,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flex-pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flex-pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="flex-templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -298,7 +391,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -325,10 +417,15 @@
       <recent name="C:\www\flex-pages\flex-templates" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.test.php">
+  <component name="RunManager" selected="PHP Script.index.php">
     <configuration default="false" name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/test.php">
       <RunnerSettings RunnerId="PhpRunner" />
       <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/mktg/the-club-benefits/index.php">
+      <RunnerSettings RunnerId="PhpScriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
       <method />
     </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -356,12 +453,14 @@
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="PHP Script.test.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.index.php" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="PHP Script.test.php" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.index.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.test.php" />
       </list>
     </recent_temporary>
   </component>
@@ -475,31 +574,31 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1448" height="864" extended-state="6" />
-    <editor active="true" />
+    <frame x="-4" y="-4" width="1688" height="1014" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6896552" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40884718" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.6893096" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21855922" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24553572" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39955357" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286638" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26565874" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -561,389 +660,374 @@
     <option name="LAST_COMMIT_MESSAGE" value="update the-club-offer flex template" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/mktg/the-club-benefits/index.php</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mktg/club-benefits/club-benefits_en_AU.html">
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_zh_HK.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="4352">
-          <caret line="5" column="94" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="94" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.5270049" vertical-offset="2160" max-vertical-offset="4199">
+          <caret line="146" column="41" selection-start-line="146" selection-start-column="41" selection-end-line="146" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flex-templates/Marketing/club-benefits.xml">
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_zh_TW.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8398">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="170">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flex-templates/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="3621">
-          <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.55482817" vertical-offset="3588" max-vertical-offset="4199">
+          <caret line="231" column="32" selection-start-line="231" selection-start-column="32" selection-end-line="231" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mktg/club-benefits/club-benefits_de_DE.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5032">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="170">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flex-templates/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3621">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="170">
-          <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flex-templates/Marketing/the-club-offers.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12019">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flex-templates/Marketing/the-club-offers.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12019">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-offers/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15525115" vertical-offset="0" max-vertical-offset="876">
-          <caret line="8" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3105023" vertical-offset="0" max-vertical-offset="876">
-          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        <state vertical-scroll-proportion="0.38952535" vertical-offset="0" max-vertical-offset="3944">
+          <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3105023" vertical-offset="0" max-vertical-offset="876">
-          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        <state vertical-scroll-proportion="0.35416666" vertical-offset="0" max-vertical-offset="624">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-book/index.php">
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3105023" vertical-offset="0" max-vertical-offset="876">
-          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-benefits/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3105023" vertical-offset="0" max-vertical-offset="876">
-          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.95091325" vertical-offset="1020" max-vertical-offset="2533">
-          <caret line="109" column="13" selection-start-line="109" selection-start-column="13" selection-end-line="109" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/club-benefits/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2204611" vertical-offset="0" max-vertical-offset="694">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/css/the-club-styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26832017" vertical-offset="0" max-vertical-offset="1190">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flex-templates/Marketing/the-club-benefits.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19790454" vertical-offset="0" max-vertical-offset="5015">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_en_AU.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9591837" vertical-offset="1581" max-vertical-offset="2533">
-          <caret line="140" column="6" selection-start-line="140" selection-start-column="6" selection-end-line="140" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07798165" vertical-offset="0" max-vertical-offset="872">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.57211536" vertical-offset="0" max-vertical-offset="624">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flex-templates/Marketing/the-club-offers.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16880094" vertical-offset="11092" max-vertical-offset="12019">
-          <caret line="661" column="47" selection-start-line="661" selection-start-column="47" selection-end-line="661" selection-end-column="47" />
-          <folding />
+        <state vertical-scroll-proportion="0.55538464" vertical-offset="2750" max-vertical-offset="3400">
+          <caret line="183" column="14" selection-start-line="183" selection-start-column="14" selection-end-line="183" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flex-templates/Marketing/the-club-tiers.xml">
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_de_DE.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3760186" vertical-offset="2244" max-vertical-offset="7701">
-          <caret line="151" column="20" selection-start-line="7" selection-start-column="12" selection-end-line="151" selection-end-column="20" />
-          <folding />
+        <state vertical-scroll-proportion="-8.93126" vertical-offset="5457" max-vertical-offset="6188">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_en_AU.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1632653" vertical-offset="2499" max-vertical-offset="9095">
-          <caret line="155" column="5" selection-start-line="155" selection-start-column="5" selection-end-line="155" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.6121113" vertical-offset="0" max-vertical-offset="6273">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-offers/the-club-offers_en_AU.html">
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_es_ES.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15841584" vertical-offset="13251" max-vertical-offset="14059">
-          <caret line="787" column="27" selection-start-line="787" selection-start-column="27" selection-end-line="787" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.83306056" vertical-offset="5594" max-vertical-offset="6205">
+          <caret line="359" column="0" selection-start-line="359" selection-start-column="0" selection-end-line="359" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_en_AU.html">
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_fr_FR.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24489796" vertical-offset="0" max-vertical-offset="4930">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.83306056" vertical-offset="5577" max-vertical-offset="6188">
+          <caret line="358" column="0" selection-start-line="358" selection-start-column="0" selection-end-line="358" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flex-templates/test.html">
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_id_ID.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36872146" vertical-offset="0" max-vertical-offset="876">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.83306056" vertical-offset="5577" max-vertical-offset="6188">
+          <caret line="358" column="0" selection-start-line="358" selection-start-column="0" selection-end-line="358" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flex-templates/Marketing/the-club-hotels.xml">
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_it_IT.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7161862" vertical-offset="663" max-vertical-offset="3893">
-          <caret line="77" column="68" selection-start-line="77" selection-start-column="68" selection-end-line="77" selection-end-column="68" />
-          <folding />
+        <state vertical-scroll-proportion="0.83306056" vertical-offset="5577" max-vertical-offset="6188">
+          <caret line="358" column="0" selection-start-line="358" selection-start-column="0" selection-end-line="358" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flex-templates/Marketing/club-benefits.xml">
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_ja_JP.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35174745" vertical-offset="5859" max-vertical-offset="9214">
-          <caret line="363" column="134" selection-start-line="363" selection-start-column="70" selection-end-line="363" selection-end-column="134" />
-          <folding />
+        <state vertical-scroll-proportion="0.83306056" vertical-offset="5577" max-vertical-offset="6188">
+          <caret line="358" column="0" selection-start-line="358" selection-start-column="0" selection-end-line="358" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/club-benefits/club-benefits.html">
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_ko_KR.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1153846" vertical-offset="1022" max-vertical-offset="3400">
-          <caret line="71" column="54" selection-start-line="71" selection-start-column="54" selection-end-line="71" selection-end-column="54" />
-          <folding />
+        <state vertical-scroll-proportion="0.44517186" vertical-offset="0" max-vertical-offset="6188">
+          <caret line="16" column="87" selection-start-line="16" selection-start-column="87" selection-end-line="16" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_ms_MY.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.83306056" vertical-offset="5679" max-vertical-offset="6290">
+          <caret line="364" column="0" selection-start-line="364" selection-start-column="0" selection-end-line="364" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_nl_NL.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.83306056" vertical-offset="5577" max-vertical-offset="6188">
+          <caret line="358" column="0" selection-start-line="358" selection-start-column="0" selection-end-line="358" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_ru_RU.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6426">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_sv_SE.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.83306056" vertical-offset="5577" max-vertical-offset="6188">
+          <caret line="358" column="0" selection-start-line="358" selection-start-column="0" selection-end-line="358" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_th_TH.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5564648" vertical-offset="0" max-vertical-offset="6188">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_zh_CN.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7495908" vertical-offset="5577" max-vertical-offset="6188">
+          <caret line="355" column="0" selection-start-line="355" selection-start-column="0" selection-end-line="355" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_zh_HK.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.83306056" vertical-offset="5577" max-vertical-offset="6188">
+          <caret line="358" column="0" selection-start-line="358" selection-start-column="0" selection-end-line="358" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_zh_TW.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.83306056" vertical-offset="5577" max-vertical-offset="6188">
+          <caret line="358" column="0" selection-start-line="358" selection-start-column="0" selection-end-line="358" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mktg/club-benefits/club-benefits_en_AU.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1153846" vertical-offset="1328" max-vertical-offset="4352">
-          <caret line="89" column="58" selection-start-line="89" selection-start-column="58" selection-end-line="89" selection-end-column="58" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="-0.71119136" vertical-offset="982" max-vertical-offset="3961">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/club-benefits/club-benefits_es_ES.html">
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_en_AU.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1153846" vertical-offset="1277" max-vertical-offset="4284">
-          <caret line="86" column="58" selection-start-line="86" selection-start-column="58" selection-end-line="86" selection-end-column="58" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.41587678" vertical-offset="125" max-vertical-offset="969">
+          <caret line="28" column="79" selection-start-line="28" selection-start-column="79" selection-end-line="28" selection-end-column="79" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/club-benefits/club-benefits_fr_FR.html">
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_es_ES.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1153846" vertical-offset="1277" max-vertical-offset="4284">
-          <caret line="86" column="58" selection-start-line="86" selection-start-column="58" selection-end-line="86" selection-end-column="58" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.48856798" vertical-offset="70" max-vertical-offset="901">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/club-benefits/club-benefits_id_ID.html">
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_de_DE.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1153846" vertical-offset="1277" max-vertical-offset="4284">
-          <caret line="86" column="58" selection-start-line="86" selection-start-column="58" selection-end-line="86" selection-end-column="58" />
-          <folding />
+        <state vertical-scroll-proportion="0.4681107" vertical-offset="87" max-vertical-offset="918">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/club-benefits/club-benefits_it_IT.html">
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_fr_FR.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1153846" vertical-offset="1277" max-vertical-offset="4284">
-          <caret line="86" column="58" selection-start-line="86" selection-start-column="58" selection-end-line="86" selection-end-column="58" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.6522262" vertical-offset="2" max-vertical-offset="901">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="36" selection-end-column="148" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/club-benefits/club-benefits_ja_JP.html">
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_id_ID.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1153846" vertical-offset="1277" max-vertical-offset="4284">
-          <caret line="86" column="58" selection-start-line="86" selection-start-column="58" selection-end-line="86" selection-end-column="58" />
-          <folding>
-            <element signature="n#style#0;n#li#0;n#ul#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.52948254" vertical-offset="19" max-vertical-offset="935">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/club-benefits/club-benefits_ko_KR.html">
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ko_KR.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1153846" vertical-offset="1277" max-vertical-offset="4301">
-          <caret line="86" column="58" selection-start-line="86" selection-start-column="58" selection-end-line="86" selection-end-column="58" />
-          <folding />
+        <state vertical-scroll-proportion="0.6955475" vertical-offset="0" max-vertical-offset="952">
+          <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/club-benefits/club-benefits_zh_TW.html">
+    <entry file="file://$PROJECT_DIR$/flex-templates/Marketing/the-club-tiers.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.67335767" vertical-offset="1263" max-vertical-offset="4267">
-          <caret line="96" column="69" selection-start-line="96" selection-start-column="69" selection-end-line="96" selection-end-column="69" />
-          <folding />
+        <state vertical-scroll-proportion="0.43333334" vertical-offset="2020" max-vertical-offset="2890">
+          <caret line="141" column="31" selection-start-line="141" selection-start-column="31" selection-end-line="141" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/club-benefits/club-benefits_zh_HK.html">
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ja_JP.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33211678" vertical-offset="1263" max-vertical-offset="4267">
-          <caret line="85" column="58" selection-start-line="85" selection-start-column="58" selection-end-line="85" selection-end-column="58" />
-          <folding />
+        <state vertical-scroll-proportion="0.608642" vertical-offset="0" max-vertical-offset="935">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/club-benefits/club-benefits_zh_CN.html">
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ms_MY.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32014388" vertical-offset="1267" max-vertical-offset="4267">
-          <caret line="85" column="58" selection-start-line="85" selection-start-column="58" selection-end-line="85" selection-end-column="58" />
-          <folding />
+        <state vertical-scroll-proportion="0.5908544" vertical-offset="2" max-vertical-offset="918">
+          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/club-benefits/club-benefits_th_TH.html">
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_it_IT.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32014388" vertical-offset="1284" max-vertical-offset="4301">
-          <caret line="86" column="58" selection-start-line="86" selection-start-column="58" selection-end-line="86" selection-end-column="58" />
-          <folding />
+        <state vertical-scroll-proportion="0.4091456" vertical-offset="0" max-vertical-offset="4216">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/club-benefits/club-benefits_sv_SE.html">
+    <entry file="file://$PROJECT_DIR$/flex-templates/Marketing/the-club-hotels.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32014388" vertical-offset="1284" max-vertical-offset="4284">
-          <caret line="86" column="58" selection-start-line="86" selection-start-column="58" selection-end-line="86" selection-end-column="58" />
-          <folding />
+        <state vertical-scroll-proportion="0.43173862" vertical-offset="3438" max-vertical-offset="5508">
+          <caret line="224" column="41" selection-start-line="224" selection-start-column="41" selection-end-line="224" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flex-templates/Marketing/the-club-benefits.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30571762" vertical-offset="3410" max-vertical-offset="4267">
+          <caret line="216" column="13" selection-start-line="216" selection-start-column="13" selection-end-line="216" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_it_IT.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63176894" vertical-offset="104" max-vertical-offset="935">
+          <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_nl_NL.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63176894" vertical-offset="2" max-vertical-offset="918">
+          <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_pl_PL.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52948254" vertical-offset="19" max-vertical-offset="935">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_pt_PT.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7160048" vertical-offset="0" max-vertical-offset="918">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ru_RU.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7160048" vertical-offset="0" max-vertical-offset="918">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_sv_SE.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7160048" vertical-offset="0" max-vertical-offset="918">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_th_TH.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7160048" vertical-offset="0" max-vertical-offset="918">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_zh_CN.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7364621" vertical-offset="0" max-vertical-offset="918">
+          <caret line="36" column="34" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_zh_HK.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57280385" vertical-offset="0" max-vertical-offset="918">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_zh_TW.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.67509025" vertical-offset="0" max-vertical-offset="918">
+          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_pl_PL.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6188">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_sv_SE.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45006016" vertical-offset="0" max-vertical-offset="4199">
+          <caret line="22" column="69" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_pt_PT.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.2707582" vertical-offset="2586" max-vertical-offset="6171">
+          <caret line="312" column="39" selection-start-line="312" selection-start-column="39" selection-end-line="312" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mktg/club-benefits/club-benefits_ru_RU.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32014388" vertical-offset="1284" max-vertical-offset="4284">
-          <caret line="86" column="58" selection-start-line="86" selection-start-column="58" selection-end-line="86" selection-end-column="58" />
-          <folding />
+        <state vertical-scroll-proportion="0.45487365" vertical-offset="285" max-vertical-offset="3927">
+          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/club-benefits/club-benefits_pt_PT.html">
+    <entry file="file://$PROJECT_DIR$/mktg/club-benefits/club-benefits_sv_SE.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32014388" vertical-offset="1284" max-vertical-offset="4284">
-          <caret line="86" column="58" selection-start-line="86" selection-start-column="58" selection-end-line="86" selection-end-column="58" />
-          <folding />
+        <state vertical-scroll-proportion="0.87344915" vertical-offset="3138" max-vertical-offset="3944">
+          <caret line="226" column="0" selection-start-line="226" selection-start-column="0" selection-end-line="226" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/club-benefits/club-benefits_pl_PL.html">
+    <entry file="file://$PROJECT_DIR$/flex-templates/Marketing/club-benefits.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32014388" vertical-offset="1284" max-vertical-offset="4284">
-          <caret line="86" column="58" selection-start-line="86" selection-start-column="58" selection-end-line="86" selection-end-column="58" />
+        <state vertical-scroll-proportion="2.3208334" vertical-offset="4577" max-vertical-offset="5457">
+          <caret line="302" column="111" selection-start-line="302" selection-start-column="95" selection-end-line="302" selection-end-column="111" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/club-benefits/club-benefits_nl_NL.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32014388" vertical-offset="1284" max-vertical-offset="4284">
-          <caret line="86" column="58" selection-start-line="86" selection-start-column="58" selection-end-line="86" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/club-benefits/club-benefits_ms_MY.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32014388" vertical-offset="1284" max-vertical-offset="4284">
-          <caret line="86" column="58" selection-start-line="86" selection-start-column="58" selection-end-line="86" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/club-benefits/club-benefits_de_DE.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49202126" vertical-offset="1277" max-vertical-offset="4284">
-          <caret line="86" column="60" selection-start-line="86" selection-start-column="60" selection-end-line="86" selection-end-column="60" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

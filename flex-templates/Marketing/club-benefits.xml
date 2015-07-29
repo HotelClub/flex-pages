@@ -1,537 +1,316 @@
 <layout id="norail">
-    <region id="top">
-    </region>
+<region id="top">
+</region>
 
-    <region id="main">
-        <module name="PictureText" >
-            <style>
-                .flexModule{
-                margin:0px;
-                padding:0px;
-                }
-                #norail h1 {
+<region id="main">
+<module name="PictureText" >
+<style>
+    .flexModule{
+    margin:0px;
+    padding:0px;
+    }
+    #norail h1 {
 
-                float:none;
-                }
-                h1{
-                font-weight: 600 !important;
-                }
-                h2{
-                font-weight: 600 !important;
-                }
-                .placeHolder{
-                width:960px;
-                text-align:center;
-                margin-left:19px;
-                margin-top:132px;
-                }
-                .headerImg{
-                padding:-16px;
-                }
-                .pageTabs{
-                margin-top: 23px;
-                margin-bottom:16px;
-                border-bottom:1px solid #b1bbb9;
-                }
-                .pageTabsUI{
-                list-style:none;
-                margin:0;
-                padding:0;
-                font-family:Arial, Helvetica, sans-serif;
-                font-size:14px;
-                font-style:normal;
-                }
-                .pageTabsLI{
-                float:left;
-                display:block;
-                padding-left:44px;
-                padding-right:44px;
-                padding-bottom:18px;
-                text-decoration:none;
-                }
-                .pageTabsLI.active{
-                border-bottom:6px solid #55337e;
-                margin-left:-40px !important;
-                padding-bottom:16px;
-                }
-                .pageTabsLI.active a{
-                font-weight:bold;
-                color:#55337e;
-                }
-                .pageTabsLI a{
-                text-decoration:none;
-                color:#000;
-                }
-                .pageTabsMenu{
-                text-decoration:none;
-                color:#000000;
-                }
-                .introductText{
-                margin-top: 19px;
-                margin-bottom:42px;
-                }
-                .introductTextTd{
-                line-height:24px;
-                }
-                .introductTextTd2{
-                line-height:27px;
-                }
-                .introductTextTd3{
-                line-height:27px;
-                }
-                .introductTextH1{
-                font-family:Arial, Helvetica, sans-serif !important;
-                font-size:24px !important;
-                font-style:bold !important;
-                padding-bottom:7px;
-                }
-                .introductTextH2{
-                font-family:Arial, Helvetica, sans-serif !important;
-                font-size:30px  !important;
-                font-style:bold  !important;
-                padding: 0 0 10px;
-                }
+    float:none;
+    }
+    h1{
+    font-weight: 600 !important;
+    }
+    h2{
+    font-weight: 600 !important;
+    }
+    .placeHolder{
+    width:960px;
+    text-align:center;
+    margin-left:19px;
+    margin-top:132px;
+    }
+    .headerImg{
+    padding:-16px;
+    }
+    .pageTabs{
+    margin-top: 23px;
+    margin-bottom:16px;
+    border-bottom:1px solid #b1bbb9;
+    }
+    .pageTabsUI{
+    list-style:none;
+    margin:0;
+    padding:0;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:14px;
+    font-style:normal;
+    }
+    .pageTabsLI{
+    float:left;
+    display:block;
+    padding-left:44px;
+    padding-right:44px;
+    padding-bottom:18px;
+    text-decoration:none;
+    }
+    .pageTabsLI.active{
+    border-bottom:6px solid #55337e;
+    margin-left:-40px !important;
+    padding-bottom:16px;
+    }
+    .pageTabsLI.active a{
+    font-weight:bold;
+    color:#55337e;
+    }
+    .pageTabsLI a{
+    text-decoration:none;
+    color:#000;
+    }
+    .pageTabsMenu{
+    text-decoration:none;
+    color:#000000;
+    }
+    .introductText{
+    margin-top: 19px;
+    margin-bottom:42px;
+    }
+    .introductTextTd{
+    line-height:24px;
+    }
+    .introductTextTd2{
+    line-height:27px;
+    }
+    .introductTextTd3{
+    line-height:27px;
+    }
+    .introductTextH1{
+    font-family:Arial, Helvetica, sans-serif !important;
+    font-size:24px !important;
+    font-style:bold !important;
+    padding-bottom:7px;
+    }
+    .introductTextH2{
+    font-family:Arial, Helvetica, sans-serif !important;
+    font-size:30px  !important;
+    font-style:bold  !important;
+    padding: 0 0 10px;
+    }
 
-                .introductTab3P {
-                font-family: Arial, Helvetica, sans-serif;
-                font-size: 16px;
-                font-style: normal;
-                font-weight: bold;
-                padding: 28px 0 5px 0;
-                display:block;
-                }
-                .introductTab2P2 {
-                font-family: Arial, Helvetica, sans-serif;
-                font-size: 14px;
-                font-style: normal;
-                }
-                .introductTab2TextP {
-                font-family: Arial, Helvetica, sans-serif;
-                font-size: 16px;
-                font-style: normal;
-                padding-bottom: 18px;
-                display:block;
-                }
-                .introductTextP {
-                font-family: Arial, Helvetica, sans-serif;
-                font-size: 16px;
-                font-style: normal;
-                line-height: 22px;
-                margin-bottom: 20px;
-                display:block;
-                }
-                .introductDiv{
-                padding:20px 0px 30px 0px;
-                font-family:Arial, Helvetica, sans-serif;
-                font-size:14px;
-                font-style:normal;
-                }
-                .introductTextTab{
-                border: 1px solid #c6c8c7;
-                margin-top:20px;
-                }
-                .introductTextSpan{
-                font-size:16px;
-                font-weight:bold;
-                }
-                .introductTab2{
-                background-color:#fbf1e8;
-                background-image:url(//www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/White-Arrow.png);
-                background-repeat:no-repeat;
-                background-position: 66px 0px
-                }
+    .introductTab3P {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: bold;
+    padding: 28px 0 5px 0;
+    display:block;
+    }
+    .introductTab2P2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    }
+    .introductTab2TextP {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    padding-bottom: 18px;
+    display:block;
+    }
+    .introductTextP {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    line-height: 22px;
+    margin-bottom: 20px;
+    display:block;
+    }
+    .introductDiv{
+    padding:20px 0px 30px 0px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:14px;
+    font-style:normal;
+    }
+    .introductTextTab{
+    border: 1px solid #c6c8c7;
+    margin-top:20px;
+    }
+    .introductTextSpan{
+    font-size:16px;
+    font-weight:bold;
+    }
+    .introductTab2{
+    background-color:#fbf1e8;
+    background-image:url(//www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/White-Arrow.png);
+    background-repeat:no-repeat;
+    background-position: 66px 0px
+    }
 
-                .introductTab2Td{
-                margin-top: 22px;
-                margin-bottom:42px;
-                }
-                .introductTab2P{
-                font-family:Arial, Helvetica, sans-serif;
-                font-size:16px;
-                font-style:normal;
-                font-weight:bold;
-                padding-top:12px;
-                }
-                .introductTab2Img{
-                padding-top:24px;
-                }
-                .introductTab3Img{
-                padding:29px 0 7px 0;
-                }
+    .introductTab2Td{
+    margin-top: 22px;
+    margin-bottom:42px;
+    }
+    .introductTab2P{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:16px;
+    font-style:normal;
+    font-weight:bold;
+    padding-top:12px;
+    }
+    .introductTab2Img{
+    padding-top:24px;
+    }
+    .introductTab3Img{
+    padding:29px 0 7px 0;
+    }
 
-                /* page tabs */
-                .valueNav li {
-                text-align: center;
-                float: left;
-                display: block;
-                }
-                .valueNav a {
-                text-decoration: none;
-                text-align: center;
-                padding: 15px;
-                border-bottom: 6px solid white;
-                display: inline-block;
-                margin: 0 auto;
-                color: black;
-                text-transform: uppercase;
-                }
+    /* page tabs */
+    .valueNav li {
+    text-align: center;
+    float: left;
+    display: block;
+    }
+    .valueNav a {
+    text-decoration: none;
+    text-align: center;
+    padding: 15px;
+    border-bottom: 6px solid white;
+    display: inline-block;
+    margin: 0 auto;
+    color: black;
+    text-transform: uppercase;
+    }
 
-                .valueNav li.current a{
-                border-bottom:6px solid #55337e; color:#55337e; font-weight:bold;
-                }
+    .valueNav li.current a{
+    border-bottom:6px solid #55337e; color:#55337e; font-weight:bold;
+    }
 
-                /*.carousel{
-                width: 960px;
-                }
-                .carousel-caption{
-                left: 87px !important;
-                right: 85px  !important;
-                width: 800px !important;
-                top: 88px !important;
-                }
-                .carousel-heading-text{
-                font-family: "Arial", Helvetica, sans-serif;
-                font-size: 24px !important;
-                opacity: 0.95;
+    /*.carousel{
+    width: 960px;
+    }
+    .carousel-caption{
+    left: 87px !important;
+    right: 85px  !important;
+    width: 800px !important;
+    top: 88px !important;
+    }
+    .carousel-heading-text{
+    font-family: "Arial", Helvetica, sans-serif;
+    font-size: 24px !important;
+    opacity: 0.95;
 
-                }
-                .carousel-heading-content{
-                font-family: "Arial", Helvetica, sans-serif !important;
-                font-size: 24px !important;
-                float:inherit;
-                font-weight:300;
-                margin:5px 10px 0 0 !important;
-                line-height: 36px !important;
-                text-shadow: none;
-                }
-                .carousel-normal-text{
-                padding:26px 9px 0 0;
-                font-weight:bolder;
-                font-size:16px;
-                }
-                .left_arrow_image {
-                margin:137px 0 0 -75px !important;
-                }
-                .right_arrow_image {
-                margin:137px 0 0 80px !important;
-                }
-                .open_quote{
-                font-size:59px !important;
-                opacity:0.6;
-                float:left;
-                margin: -21px -8px 0 -18px !important;
-                padding:5px;
-                }
-                .close_quote{
-                font-size:59px !important;
-                opacity:0.6;
-                float:right;
-                margin: -49px -4px 0 -18px !important;
-                }
-                .carousel-control.right{
-                background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 100%);
-                }
-                .carousel-control.left{
-                background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 100%);
-                }
-                .carousel-indicators{
-                margin-bottom:0px !important;
-                left: 52% !important;
-                }
-                .carousel-indicators li{
-                background-color: #FFF !important;
-                width: 7px !important;
-                height: 7px !important;
-                margin-right: 10px;
-                }
-                .carousel-indicators .active{
-                background-color: #624391 !important;
-                border: 1px solid #624391 !important;
-                width: 7px !important;
-                height: 7px !important;
-                margin-right: 10px;
-                }
-                */
-                .whiteBackground{
-                background-color:#ffffff;
-                }
-                .workPointsTab{
-                margin-top: 24px;
-                margin-bottom:12px;
-                }
-                .appTab{
-                background-image:url(//www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/App-BG.gif);
-                background-position:top left;
-                background-repeat:repeat-x;
-                }
-                .appTab2{
-                margin-top:80px;
-                }
-                .appTab2Text{
-                font-family:Arial, Helvetica, sans-serif;
-                font-size:15px;
-                font-style:normal;
-                padding-bottom:12px;
-                }
-                .flexLoyaltyMod{
-                display:none;
-                }
-                .textContent {
-                padding: 20px;
-                }
-            </style>
+    }
+    .carousel-heading-content{
+    font-family: "Arial", Helvetica, sans-serif !important;
+    font-size: 24px !important;
+    float:inherit;
+    font-weight:300;
+    margin:5px 10px 0 0 !important;
+    line-height: 36px !important;
+    text-shadow: none;
+    }
+    .carousel-normal-text{
+    padding:26px 9px 0 0;
+    font-weight:bolder;
+    font-size:16px;
+    }
+    .left_arrow_image {
+    margin:137px 0 0 -75px !important;
+    }
+    .right_arrow_image {
+    margin:137px 0 0 80px !important;
+    }
+    .open_quote{
+    font-size:59px !important;
+    opacity:0.6;
+    float:left;
+    margin: -21px -8px 0 -18px !important;
+    padding:5px;
+    }
+    .close_quote{
+    font-size:59px !important;
+    opacity:0.6;
+    float:right;
+    margin: -49px -4px 0 -18px !important;
+    }
+    .carousel-control.right{
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 100%);
+    }
+    .carousel-control.left{
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 100%);
+    }
+    .carousel-indicators{
+    margin-bottom:0px !important;
+    left: 52% !important;
+    }
+    .carousel-indicators li{
+    background-color: #FFF !important;
+    width: 7px !important;
+    height: 7px !important;
+    margin-right: 10px;
+    }
+    .carousel-indicators .active{
+    background-color: #624391 !important;
+    border: 1px solid #624391 !important;
+    width: 7px !important;
+    height: 7px !important;
+    margin-right: 10px;
+    }
+    */
+    .whiteBackground{
+    background-color:#ffffff;
+    }
+    .workPointsTab{
+    margin-top: 24px;
+    margin-bottom:12px;
+    }
+    .appTab{
+    background-image:url(//www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/App-BG.gif);
+    background-position:top left;
+    background-repeat:repeat-x;
+    }
+    .appTab2{
+    margin-top:80px;
+    }
+    .appTab2Text{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:15px;
+    font-style:normal;
+    padding-bottom:12px;
+    }
+    .flexLoyaltyMod{
+    display:none;
+    }
+    .textContent div {
+    padding: 10px 5px;
+    }
+</style>
 
-            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-            <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-            <script language="JavaScript">
-                jQuery( document ).ready(function() {
-                var flexLoyaltyMod = jQuery(".flexLoyaltyMod").html();
-                jQuery("#flexLoyaltyMod-custom").replaceWith(flexLoyaltyMod);
-                });
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script language="JavaScript">
+jQuery( document ).ready(function() {
+    var flexLoyaltyMod = jQuery(".flexLoyaltyMod").html();
+    var flexEditorialMod = jQuery(".flexEditorialMod ").html();
+    if(flexEditorialMod == null){
+        jQuery("#flexLoyaltyMod-custom").replaceWith(flexLoyaltyMod);
+    }else{
+        jQuery("#flexLoyaltyMod-custom").replaceWith(flexEditorialMod );
+    }
+});
 
-            </script>
-        </module>
-        <module name="PictureText" >
-            <table width="960" cellspacing="0" cellpadding="0" border="0">
-                <tr>
-                    <td align="center" width="960">
-                        <img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Header-TheClub.jpg"
-                             alt="More extraordinary with every stay" class="headerImg"/>
+</script>
+</module>
+<module name="PictureText" >
+##HTML##
+</module>
+<!-- loyalty module START-->
+<module name="Loyalty" query="contentPurpose:Editorial" steerModuleKey="rego-non-member" view="unrecognizedUser" doNotShowForVisitorType="signedIn,recognized" />
+<module name="Loyalty" query="contentPurpose:Editorial" steerModuleKey="rego-member" view="unrecognizedUser" doNotShowForVisitorType="NonRecognized_Cookied, NonRecognized_Cookied" />
+<!--<module name="Editorial" query="contentPurpose:Editorial" steerModuleKey="rego-member" doNotShowForVisitorType="NonRecognized_Cookied, NonRecognized_Cookied" collapse="false" collapsableTitle="false" collapsableText="false"  count="1"/>-->
+<!-- loyalty module END-->
+</region>
 
-                        <table width="876" border="0" align="center" cellpadding="0" cellspacing="0"
-                               style="margin-bottom:40px; border-bottom:1px solid #b1bbb9;">
-                            <tr>
-                                <td align="left" valign="top">
-                                    <ul class="valueNav"
-                                        style="list-style:none;margin:0; padding:0; font-family:Arial, Helvetica, sans-serif; font-size:14px;">
-                                        <li style="width:176px;" class="current"><a href="/mktg/club-benefits/">We're different</a>
-                                        </li>
-                                        <li style="width:150px;"><a href="/mktg/the-club-benefits/">Benefits</a></li>
-                                        <li style="width:150px;"><a href="/mktg/the-club-hotels/">Club Hotels</a></li>
-                                        <li style="width:150px;"><a href="/mktg/the-club-tiers/">Tiers</a></li>
-                                        <li style="width:150px;"><a href="/mktg/the-club-offers/">Offers</a></li>
-                                        <li style="width:100px;"><a href="/mktg/the-club-book/">Book</a></li>
-                                    </ul>
-                                </td>
-                            </tr>
-                        </table>
-
-                        <table width="876" border="0" align="center" cellpadding="0" cellspacing="0" class="introductText">
-                            <tr>
-                                <td width="607" align="left" valign="top" class="introductTextTd2">
-                                    <h1 class="introductTextH1">Welcome to HotelClub</h1>
-                                    <span class="introductTextP">We want our travellers to have the best travel experience out there.</span>
-                                    <span class="introductTextP">So from the moment you book, your whole journey will be rich with rewards, flexibility, better benefits and greater experiences. And when you return home, it starts over, because every time you book with us, you’ll get even more.</span>
-                                    <span class="introductTextP">Become a HotelClub Member and experience an extraordinary way to stay.</span>
-                                </td>
-                                <td width="269" align="left" valign="top" class="introductTextTd">
-                                    <table width="249" border="0" align="right" cellpadding="20" cellspacing="0"
-                                           class="introductTextTab">
-                                        <tr>
-                                            <td align="center" valign="middle" bgcolor="#fbf1e8">
-                                                <div id="flexLoyaltyMod-custom">
-
-                                                </div>
-                                            </td>
-                                        </tr>
-                                    </table>
-                                </td>
-                            </tr>
-                        </table>
-
-                        <table width="960" border="0" cellspacing="0" cellpadding="0" class="introductTab2">
-                            <tr>
-                                <td>
-
-                                    <table width="876" border="0" align="center" cellpadding="0" cellspacing="0"
-                                           class="introductTab2Td">
-                                        <tr>
-                                            <td align="center" valign="top" class="introductTextTd">
-                                                <h2 class="introductTextH2">What you’ll experience</h2>
-                                                <span class="introductTab2TextP">There’s something to look forward to at every stage of your journey.</span>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td align="center" valign="top" class="introductTextTd">
-                                                <table width="910" border="0" cellspacing="0" cellpadding="0">
-                                                    <tr>
-                                                        <td width="280" align="left" valign="top">
-                                                            <img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Leave.jpg"
-                                                                 alt="Before you leave &gt;" border="0"/>
-                                                        </td>
-                                                        <td width="20" rowspan="2" align="left" valign="top">&nbsp;</td>
-                                                        <td width="280" align="left" valign="top">
-                                                            <img src="http://www.tnetnoc.com/flexmanager/images/2015/07/24/enroute.jpg"
-                                                                 alt="En-route &gt;" border="0"/>
-                                                        </td>
-                                                        <td width="20" rowspan="2" align="left" valign="top">&nbsp;</td>
-                                                        <td width="280" align="left" valign="top">
-                                                            <img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Stay.jpg"
-                                                                 alt="During your stay &gt;" border="0"/>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td width="280" align="center" valign="top" class="introductTextTd">
-                                                            <span class="introductTab3P">Before you leave ></span>
-                                                            <span class="introductTab2P2">Get reserved member pricing, our 'best price assurance' and booking support from our travel specialists. Plus, our members earn up to 7% back instantly on every booking.</span>
-                                                        </td>
-                                                        <td width="280" align="center" valign="top" class="introductTextTd">
-                                                            <span class="introductTab3P">En-route ></span>
-                                                            <span class="introductTab2P2">From home to your destination and back, we'll get you there in complete comfort.</span>
-                                                        </td>
-                                                        <td width="280" align="center" valign="top" class="introductTextTd">
-                                                            <span class="introductTab3P">During your stay ></span>
-                                                            <span class="introductTab2P2">Enjoy member benefits including instant upgrades, club lounge access, free breakfast, Wi-Fi and late check-outs at over 5,000 hotels.</span>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td colspan="5" align="center" valign="top" class="introductTab3Img">
-                                                            <a href="/mktg/the-club-benefits/" title="Find out more">
-                                                                <img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/FindOutMore-en_AU.png"
-                                                                     alt="Join now" border="0"
-                                                                     onMouseOver="this.src='http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/FindOutMore-Hover-en_AU.png'"
-                                                                     onMouseOut="this.src='http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/FindOutMore-en_AU.png'"/>
-                                                            </a>
-                                                        </td>
-                                                    </tr>
-                                                </table>
-                                            </td>
-                                        </tr>
-                                    </table>
-                                </td>
-                            </tr>
-                        </table>
-
-                        <table width="960" border="0" cellspacing="0" cellpadding="0">
-                            <tr>
-                                <td height="313">
-                                    <iframe src="//www.hotelclub.com/n/api/widget/carousel/?id=the-club&locale=en_AU" width="960" height="313" frameborder="0"
-                                            marginheight="0" marginwidth="0" scrolling="no"></iframe>
-                                </td>
-                            </tr>
-                        </table>
-
-                        <table width="960" border="0" cellspacing="0" cellpadding="0" class="whiteBackground">
-                            <tr>
-                                <td>
-                                    <table width="880" border="0" align="center" cellpadding="0" cellspacing="0"
-                                           class="workPointsTab">
-                                        <tr>
-                                            <td align="center" valign="top" class="introductTextTd"><h2 class="introductTextH2">How
-                                                our points work</h2>
-                                                <span class="introductTab2TextP">Our members enjoy the most flexible and valuable travel points program around.</span>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td align="center" valign="top" class="introductTextTd">
-                                                <table border="0" cellspacing="0" cellpadding="0">
-                                                    <tr>
-                                                        <td width="280" align="left" valign="top">
-                                                            <img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Earn.jpg"
-                                                                 alt="Instant earning potential " border="0"/>
-                                                        </td>
-                                                        <td width="20" rowspan="2" align="left" valign="top">&nbsp;</td>
-                                                        <td width="280" align="left" valign="top">
-                                                            <img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Reward.jpg"
-                                                                 alt="1 Member Reward = US$1" border="0"/>
-                                                        </td>
-                                                        <td width="20" align="left" valign="top">&nbsp;</td>
-                                                        <td width="280" align="left" valign="top">
-                                                            <img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/Spend.jpg"
-                                                                 alt="Spend when it suits you" border="0"/>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td width="280" align="center" valign="top" class="introductTextTd">
-                                                            <span class="introductTab3P">Instant earning potential </span>
-                                                            <span class="introductTab2P2">We don’t keep our members waiting. You’ll instantly receive points called Member Rewards every time you book your stay with us.</span>
-                                                        </td>
-                                                        <td width="280" align="center" valign="top" class="introductTextTd">
-                                                            <span class="introductTab3P">1 Member Reward = US$1</span>
-                                                            <span class="introductTab2P2">Earn up to 7% of the total amount of your booking. All our hotels are eligible so the more you stay, the more you earn.</span>
-                                                        </td>
-                                                        <td width="20" align="center" valign="top" class="introductTextTd">
-                                                            &nbsp;</td>
-                                                        <td width="280" align="center" valign="top" class="introductTextTd">
-                                                            <span class="introductTab3P">Spend when it suits you</span>
-                                                            <span class="introductTab2P2">With no waiting and blackout periods, you can spend your Member Rewards whenever you like, on any hotel room in the world.</span>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td colspan="5" align="center" valign="top" class="introductTab3Img">
-                                                            <a href="/mktg/the-club-tiers/" title="Find out more">
-                                                                <img src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/FindOutMore-en_AU.png"
-                                                                     alt="Join now" border="0"
-                                                                     onmouseover="this.src='http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/FindOutMore-Hover-en_AU.png'"
-                                                                     onmouseout="this.src='http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/FindOutMore-en_AU.png'"/>
-                                                            </a>
-                                                        </td>
-                                                    </tr>
-                                                </table>
-                                            </td>
-                                        </tr>
-                                    </table>
-                                </td>
-                            </tr>
-                        </table>
-
-                        <table width="960" border="0" cellspacing="0" cellpadding="0" class="appTab">
-                            <tr>
-                                <td>
-
-                                    <table width="880" border="0" align="center" cellpadding="0" cellspacing="0">
-                                        <tr>
-                                            <td width="355" align="left" valign="top"><img
-                                                    src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/App.png"/>
-                                            </td>
-                                            <td width="525" align="left" valign="top">
-
-                                                <table width="520" border="0" align="left" cellpadding="0" cellspacing="0"
-                                                       class="appTab2">
-                                                    <tr>
-                                                        <td colspan="2" class="introductTextTd">
-                                                            <h2 class="introductTextH2">Even more with our app</h2>
-                                                            <span class="introductTab2P2">Enjoy more convenience, receive mobile-only offers wherever you are inthe world and earn more Member Rewards whenever you book via the app.</span>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td width="200" align="left" valign="top"><br/>
-                                                            <a href="https://itunes.apple.com/au/app/hotelclub-hotel-booking-hotel/id580254072"
-                                                               title="Download on the App Store" target="_blank"><img
-                                                                    src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/AppStore.png"
-                                                                    alt="Download on the App Store" border="0"/></a>
-                                                        </td>
-                                                        <td width="320" align="left" valign="top"><br/>
-                                                            <a href="https://play.google.com/store/apps/details?id=com.hotelclub"
-                                                               title="Get it on Google play" target="_blank"><img
-                                                                    src="http://www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/GooglePlay.png"
-                                                                    alt="Get it on Google play" border="0"/></a>
-                                                        </td>
-                                                    </tr>
-                                                </table>
-
-                                            </td>
-                                        </tr>
-                                    </table>
-
-                                </td>
-                            </tr>
-                        </table>
-                    </td>
-                </tr>
-            </table>
-        </module>
-        <!-- loyalty module START-->
-        <module name="Loyalty" query="contentPurpose:Editorial" steerModuleKey="rego-non-member" view="unrecognizedUser" doNotShowForVisitorType="signedIn,recognized" />
-        <module name="Loyalty" query="contentPurpose:Editorial" steerModuleKey="rego-member" view="unrecognizedUser" doNotShowForVisitorType="NonRecognized_Cookied, NonRecognized_Cookied" />
-        <!-- loyalty module END-->
-    </region>
-
-    <region id="secondary">
-    </region>
+<region id="secondary">
+</region>
 
 
-    <region id="middle">
-    </region>
+<region id="middle">
+</region>
 
 </layout>
