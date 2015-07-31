@@ -2,89 +2,227 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ea833bd-0ac2-4f4b-8486-160f2c680ca0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/carousel.html" afterPath="$PROJECT_DIR$/carousel.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flex-templates/Marketing/club-benefits.xml" afterPath="$PROJECT_DIR$/flex-templates/Marketing/club-benefits.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_de_DE.html" afterPath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_de_DE.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_en_AU.html" afterPath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_en_AU.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_es_ES.html" afterPath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_es_ES.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_fr_FR.html" afterPath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_fr_FR.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_id_ID.html" afterPath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_id_ID.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_it_IT.html" afterPath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_it_IT.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_ja_JP.html" afterPath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_ja_JP.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_ko_KR.html" afterPath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_ko_KR.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_ms_MY.html" afterPath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_ms_MY.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_nl_NL.html" afterPath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_nl_NL.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_pl_PL.html" afterPath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_pl_PL.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_pt_PT.html" afterPath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_pt_PT.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_ru_RU.html" afterPath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_ru_RU.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_sv_SE.html" afterPath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_sv_SE.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_th_TH.html" afterPath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_th_TH.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_zh_CN.html" afterPath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_zh_CN.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_zh_HK.html" afterPath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_zh_HK.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_zh_TW.html" afterPath="$PROJECT_DIR$/mktg/club-benefits/club-benefits_zh_TW.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/club-benefits/index.php" afterPath="$PROJECT_DIR$/mktg/club-benefits/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/index.php" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/index.php" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-offers/index.php" afterPath="$PROJECT_DIR$/mktg/the-club-offers/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/index.php" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flex-templates/Marketing/the-club-benefits.xml" afterPath="$PROJECT_DIR$/flex-templates/Marketing/the-club-benefits.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_de_DE.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_de_DE.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_en_AU.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_en_AU.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_es_ES.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_es_ES.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_fr_FR.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_fr_FR.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_id_ID.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_id_ID.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_it_IT.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_it_IT.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_ja_JP.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_ja_JP.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_ko_KR.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_ko_KR.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_ms_MY.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_ms_MY.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_nl_NL.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_nl_NL.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_pl_PL.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_pl_PL.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_pt_PT.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_pt_PT.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_ru_RU.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_ru_RU.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_sv_SE.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_sv_SE.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_th_TH.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_th_TH.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_zh_CN.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_zh_CN.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_zh_HK.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_zh_HK.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_zh_TW.html" afterPath="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_zh_TW.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flex-templates/Marketing/the-club-hotels.xml" afterPath="$PROJECT_DIR$/flex-templates/Marketing/the-club-hotels.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_de_DE.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_de_DE.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_en_AU.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_en_AU.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_es_ES.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_es_ES.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_fr_FR.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_fr_FR.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_id_ID.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_id_ID.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_it_IT.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_it_IT.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ja_JP.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ja_JP.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ko_KR.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ko_KR.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ms_MY.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ms_MY.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_nl_NL.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_nl_NL.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_pl_PL.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_pl_PL.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_pt_PT.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_pt_PT.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ru_RU.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ru_RU.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_sv_SE.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_sv_SE.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_th_TH.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_th_TH.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_zh_CN.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_zh_CN.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_zh_HK.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_zh_HK.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_zh_TW.html" afterPath="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_zh_TW.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flex-templates/Marketing/the-club-offers.xml" afterPath="$PROJECT_DIR$/flex-templates/Marketing/the-club-offers.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flex-templates/Marketing/the-club-tiers.xml" afterPath="$PROJECT_DIR$/flex-templates/Marketing/the-club-tiers.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_de_DE.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_de_DE.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_en_AU.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_en_AU.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_es_ES.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_es_ES.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_fr_FR.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_fr_FR.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_id_ID.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_id_ID.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_it_IT.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_it_IT.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_ja_JP.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_ja_JP.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_ko_KR.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_ko_KR.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_ms_MY.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_ms_MY.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_nl_NL.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_nl_NL.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_pl_PL.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_pl_PL.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_pt_PT.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_pt_PT.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_ru_RU.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_ru_RU.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_sv_SE.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_sv_SE.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_th_TH.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_th_TH.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_zh_CN.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_zh_CN.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_zh_HK.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_zh_HK.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_zh_TW.html" afterPath="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_zh_TW.html" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\TheClub.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\flex-templates\test.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_de_DE.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_en_AU.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_es_ES.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_fr_FR.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_id_ID.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_it_IT.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_ja_JP.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_ko_KR.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_ms_MY.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_nl_NL.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_pl_PL.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_pt_PT.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_ru_RU.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_sv_SE.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_th_TH.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_zh_CN.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_zh_HK.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_zh_TW.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\club-benefits\index-lang.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\css\common.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\css\desktop.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\css\mobile.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\css\tab.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\css\the-club-styles.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\css\the-club-tier-styles.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_de_DE.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_en_AU.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_es_ES.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_fr_FR.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_id_ID.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_it_IT.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_ja_JP.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_ko_KR.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_ms_MY.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_nl_NL.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_pl_PL.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_pt_PT.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_ru_RU.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_sv_SE.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_th_TH.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_zh_CN.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_zh_HK.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_zh_TW.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-book\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_de_DE.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_en_AU.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_es_ES.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_fr_FR.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_id_ID.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_it_IT.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_ja_JP.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_ko_KR.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_ms_MY.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_nl_NL.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_pl_PL.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_pt_PT.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_ru_RU.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_sv_SE.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_th_TH.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_zh_CN.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_zh_HK.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_zh_TW.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-offers\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_de_DE.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_en_AU.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_es_ES.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_fr_FR.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_id_ID.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_it_IT.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_ja_JP.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_ko_KR.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_ms_MY.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_nl_NL.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_pl_PL.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_pt_PT.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_ru_RU.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_sv_SE.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_th_TH.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_zh_CN.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_zh_HK.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_zh_TW.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\index.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_de_DE.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_en_AU.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_es_ES.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_fr_FR.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_id_ID.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_it_IT.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_ja_JP.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_ko_KR.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_ms_MY.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_nl_NL.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_pl_PL.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_pt_PT.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_ru_RU.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_sv_SE.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_th_TH.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_zh_CN.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_zh_HK.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_zh_TW.html" afterPath="" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\flex-templates\Marketing\The-Club-mobile.xml" afterPath="$PROJECT_DIR$/templates/mktg/The-Club-mobile.xml" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\flex-templates\Marketing\club-benefits.xml" afterPath="$PROJECT_DIR$/templates/mktg/club-benefits.xml" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\flex-templates\Marketing\the-club-benefits.xml" afterPath="$PROJECT_DIR$/templates/mktg/the-club-benefits.xml" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\flex-templates\Marketing\the-club-hotels.xml" afterPath="$PROJECT_DIR$/templates/mktg/the-club-hotels.xml" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\flex-templates\Marketing\the-club-offers.xml" afterPath="$PROJECT_DIR$/templates/mktg/the-club-offers.xml" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\flex-templates\Marketing\the-club-tiers.xml" afterPath="$PROJECT_DIR$/templates/mktg/the-club-tiers.xml" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\flex-templates\template-countdown.xml" afterPath="$PROJECT_DIR$/templates/template-countdown.xml" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\flex-templates\template-flash-pac.xml" afterPath="$PROJECT_DIR$/templates/template-flash-pac.xml" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits.html" afterPath="$PROJECT_DIR$/pages/mktg/club-benefits/club-benefits.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_de_DE.html" afterPath="$PROJECT_DIR$/pages/mktg/club-benefits/club-benefits_de_DE.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_en_AU.html" afterPath="$PROJECT_DIR$/pages/mktg/club-benefits/club-benefits_en_AU.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_es_ES.html" afterPath="$PROJECT_DIR$/pages/mktg/club-benefits/club-benefits_es_ES.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_fr_FR.html" afterPath="$PROJECT_DIR$/pages/mktg/club-benefits/club-benefits_fr_FR.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_id_ID.html" afterPath="$PROJECT_DIR$/pages/mktg/club-benefits/club-benefits_id_ID.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_it_IT.html" afterPath="$PROJECT_DIR$/pages/mktg/club-benefits/club-benefits_it_IT.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_ja_JP.html" afterPath="$PROJECT_DIR$/pages/mktg/club-benefits/club-benefits_ja_JP.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_ko_KR.html" afterPath="$PROJECT_DIR$/pages/mktg/club-benefits/club-benefits_ko_KR.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_ms_MY.html" afterPath="$PROJECT_DIR$/pages/mktg/club-benefits/club-benefits_ms_MY.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_nl_NL.html" afterPath="$PROJECT_DIR$/pages/mktg/club-benefits/club-benefits_nl_NL.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_pl_PL.html" afterPath="$PROJECT_DIR$/pages/mktg/club-benefits/club-benefits_pl_PL.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_pt_PT.html" afterPath="$PROJECT_DIR$/pages/mktg/club-benefits/club-benefits_pt_PT.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_ru_RU.html" afterPath="$PROJECT_DIR$/pages/mktg/club-benefits/club-benefits_ru_RU.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_sv_SE.html" afterPath="$PROJECT_DIR$/pages/mktg/club-benefits/club-benefits_sv_SE.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_th_TH.html" afterPath="$PROJECT_DIR$/pages/mktg/club-benefits/club-benefits_th_TH.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_zh_CN.html" afterPath="$PROJECT_DIR$/pages/mktg/club-benefits/club-benefits_zh_CN.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_zh_HK.html" afterPath="$PROJECT_DIR$/pages/mktg/club-benefits/club-benefits_zh_HK.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\club-benefits\club-benefits_zh_TW.html" afterPath="$PROJECT_DIR$/pages/mktg/club-benefits/club-benefits_zh_TW.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\club-benefits\index-lang.php" afterPath="$PROJECT_DIR$/index-lang.php" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\club-benefits\index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\css\bootstrap.min.css" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\css\common.css" afterPath="$PROJECT_DIR$/css/common.css" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\css\desktop.css" afterPath="$PROJECT_DIR$/css/desktop.css" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\css\mobile.css" afterPath="$PROJECT_DIR$/css/mobile.css" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\css\tab.css" afterPath="$PROJECT_DIR$/css/tab.css" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\css\the-club-styles.css" afterPath="$PROJECT_DIR$/css/the-club-styles.css" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\css\the-club-tier-styles.css" afterPath="$PROJECT_DIR$/css/the-club-tier-styles.css" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\index.php" afterPath="$PROJECT_DIR$/pages/mktg/the-club-hotels/index.php" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-benefits/the-club-benefits.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_de_DE.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-benefits/the-club-benefits_de_DE.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_en_AU.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-benefits/the-club-benefits_en_AU.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_es_ES.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-benefits/the-club-benefits_es_ES.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_fr_FR.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-benefits/the-club-benefits_fr_FR.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_id_ID.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-benefits/the-club-benefits_id_ID.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_it_IT.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-benefits/the-club-benefits_it_IT.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_ja_JP.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-benefits/the-club-benefits_ja_JP.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_ko_KR.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-benefits/the-club-benefits_ko_KR.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_ms_MY.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-benefits/the-club-benefits_ms_MY.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_nl_NL.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-benefits/the-club-benefits_nl_NL.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_pl_PL.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-benefits/the-club-benefits_pl_PL.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_pt_PT.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-benefits/the-club-benefits_pt_PT.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_ru_RU.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-benefits/the-club-benefits_ru_RU.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_sv_SE.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-benefits/the-club-benefits_sv_SE.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_th_TH.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-benefits/the-club-benefits_th_TH.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_zh_CN.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-benefits/the-club-benefits_zh_CN.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_zh_HK.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-benefits/the-club-benefits_zh_HK.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-benefits\the-club-benefits_zh_TW.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-benefits/the-club-benefits_zh_TW.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_de_DE.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_de_DE.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_en_AU.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_en_AU.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_es_ES.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_es_ES.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_fr_FR.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_fr_FR.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_id_ID.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_id_ID.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_it_IT.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_it_IT.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_ja_JP.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_ja_JP.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_ko_KR.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_ko_KR.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_ms_MY.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_ms_MY.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_nl_NL.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_nl_NL.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_pl_PL.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_pl_PL.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_pt_PT.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_pt_PT.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_ru_RU.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_ru_RU.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_sv_SE.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_sv_SE.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_th_TH.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_th_TH.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_zh_CN.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_zh_CN.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_zh_HK.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_zh_HK.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-hotels\the-club-hotels_zh_TW.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_zh_TW.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-offers\index.php" afterPath="$PROJECT_DIR$/pages/mktg/the-club-hotels/index.php" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_de_DE.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-offers/the-club-offers_de_DE.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_en_AU.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-offers/the-club-offers_en_AU.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_es_ES.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-offers/the-club-offers_es_ES.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_fr_FR.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-offers/the-club-offers_fr_FR.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_id_ID.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-offers/the-club-offers_id_ID.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_it_IT.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-offers/the-club-offers_it_IT.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_ja_JP.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-offers/the-club-offers_ja_JP.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_ko_KR.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-offers/the-club-offers_ko_KR.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_ms_MY.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-offers/the-club-offers_ms_MY.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_nl_NL.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-offers/the-club-offers_nl_NL.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_pl_PL.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-offers/the-club-offers_pl_PL.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_pt_PT.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-offers/the-club-offers_pt_PT.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_ru_RU.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-offers/the-club-offers_ru_RU.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_sv_SE.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-offers/the-club-offers_sv_SE.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_th_TH.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-offers/the-club-offers_th_TH.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_zh_CN.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-offers/the-club-offers_zh_CN.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_zh_HK.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-offers/the-club-offers_zh_HK.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-offers\the-club-offers_zh_TW.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-offers/the-club-offers_zh_TW.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_de_DE.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_de_DE.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_en_AU.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_en_AU.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_es_ES.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_es_ES.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_fr_FR.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_fr_FR.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_id_ID.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_id_ID.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_it_IT.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_it_IT.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_ja_JP.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_ja_JP.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_ko_KR.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_ko_KR.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_ms_MY.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_ms_MY.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_nl_NL.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_nl_NL.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_pl_PL.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_pl_PL.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_pt_PT.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_pt_PT.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_ru_RU.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_ru_RU.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_sv_SE.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_sv_SE.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_th_TH.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_th_TH.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_zh_CN.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_zh_CN.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_zh_HK.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_zh_HK.html" />
+      <change type="MOVED" beforePath="C:\www\flex-pages\mktg\the-club-tiers\the-club-tiers_zh_TW.html" afterPath="$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_zh_TW.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/carousel-responsive.html" afterPath="$PROJECT_DIR$/carousel-responsive.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="flex-pages.iws" />
@@ -109,18 +247,7 @@
     <favorites_list name="flex-pages" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="club-benefits.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/flex-templates/Marketing/club-benefits.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.3208334" vertical-offset="4577" max-vertical-offset="5457">
-              <caret line="302" column="111" selection-start-line="302" selection-start-column="95" selection-end-line="302" selection-end-column="111" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -133,18 +260,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_pt_PT.html" />
-        <option value="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_ru_RU.html" />
-        <option value="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_sv_SE.html" />
-        <option value="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_th_TH.html" />
-        <option value="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_zh_CN.html" />
-        <option value="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_zh_HK.html" />
         <option value="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_zh_TW.html" />
-        <option value="$PROJECT_DIR$/mktg/club-benefits/club-benefits_de_DE.html" />
         <option value="$PROJECT_DIR$/flex-templates/Marketing/the-club-offers.xml" />
         <option value="$PROJECT_DIR$/flex-templates/Marketing/the-club-tiers.xml" />
         <option value="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_de_DE.html" />
-        <option value="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_en_AU.html" />
         <option value="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_es_ES.html" />
         <option value="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_fr_FR.html" />
         <option value="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_id_ID.html" />
@@ -169,9 +288,6 @@
         <option value="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_it_IT.html" />
         <option value="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ja_JP.html" />
         <option value="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ko_KR.html" />
-        <option value="$PROJECT_DIR$/flex-templates/Marketing/club-benefits.xml" />
-        <option value="$PROJECT_DIR$/flex-templates/Marketing/the-club-benefits.xml" />
-        <option value="$PROJECT_DIR$/flex-templates/Marketing/the-club-hotels.xml" />
         <option value="$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_it_IT.html" />
         <option value="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ms_MY.html" />
         <option value="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_nl_NL.html" />
@@ -184,15 +300,31 @@
         <option value="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_zh_HK.html" />
         <option value="$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_zh_TW.html" />
         <option value="$PROJECT_DIR$/mktg/club-benefits/club-benefits_sv_SE.html" />
+        <option value="$PROJECT_DIR$/flex-templates/Marketing/the-club-benefits.xml" />
+        <option value="$PROJECT_DIR$/flex-templates/Marketing/the-club-hotels.xml" />
+        <option value="$PROJECT_DIR$/mktg/club-benefits/club-benefits.html" />
+        <option value="$PROJECT_DIR$/mktg/club-benefits/index.php" />
+        <option value="$PROJECT_DIR$/mktg/club-benefits/club-benefits_de_DE.html" />
+        <option value="$PROJECT_DIR$/flex-templates/Marketing/club-benefits.xml" />
+        <option value="$PROJECT_DIR$/mktg/club-benefits/club-benefits_en_AU.html" />
+        <option value="$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_en_AU.html" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/robots.txt" />
       </list>
     </option>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="flex-pages" name="flex-pages" />
+    </servers>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="php CLI" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-4" />
     <option name="y" value="-4" />
-    <option name="width" value="1688" />
-    <option name="height" value="1014" />
+    <option name="width" value="1928" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -220,7 +352,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -249,148 +380,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mktg" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="the-club-tiers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="flex-pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="flex-pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mktg" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="flex-pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="flex-pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mktg" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="the-club-hotels" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="flex-pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="flex-pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mktg" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="the-club-book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="flex-pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="flex-pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mktg" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="the-club-benefits" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="flex-pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="flex-pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mktg" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="club-benefits" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="flex-pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="flex-pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="flex-pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="flex-pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="flex-templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="flex-pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="flex-pages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="flex-templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Marketing" />
+              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -409,9 +405,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\www\flex-pages\mktg\club-benefits" />
+      <recent name="C:\www\flex-pages" />
       <recent name="C:\www\flex-pages\flex-templates\Marketing" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\www\flex-pages" />
+      <recent name="C:\www\flex-pages\pages" />
       <recent name="C:\www\flex-pages\mktg" />
       <recent name="C:\www\flex-pages\flex-templates\Marketing" />
       <recent name="C:\www\flex-pages\flex-templates" />
@@ -570,33 +570,63 @@
       <option name="project" value="LOCAL" />
       <updated>1437387240411</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="remove redundant js libraries">
+      <created>1438291252606</created>
+      <option name="number" value="00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1438291252606</updated>
+    </task>
+    <task id="LOCAL-00017" summary="fix logged in editorial module">
+      <created>1438292574204</created>
+      <option name="number" value="00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1438292574204</updated>
+    </task>
+    <task id="LOCAL-00018" summary="page with lang drop down as option&#10;">
+      <created>1438304401217</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1438304401217</updated>
+    </task>
+    <task id="LOCAL-00019" summary="hadle uri like mvc pattern&#10;">
+      <created>1438327010844</created>
+      <option name="number" value="00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1438327010844</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add robots to block entire site from search crawlers">
+      <created>1438327036088</created>
+      <option name="number" value="00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1438327036088</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1688" height="1014" extended-state="6" />
+    <frame x="-4" y="-4" width="1928" height="1044" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.6893096" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5453564" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39762932" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286638" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21855922" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19914803" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26565874" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24553572" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39955357" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286638" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26565874" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
@@ -657,376 +687,379 @@
     <MESSAGE value="update en_AU copy of first 3 tabs" />
     <MESSAGE value="add htaccess to handle locale prefix folder" />
     <MESSAGE value="update the-club-offer flex template" />
-    <option name="LAST_COMMIT_MESSAGE" value="update the-club-offer flex template" />
+    <MESSAGE value="remove redundant js libraries" />
+    <MESSAGE value="fix logged in editorial module" />
+    <MESSAGE value="page with lang drop down as option&#10;" />
+    <MESSAGE value="hadle uri like mvc pattern&#10;" />
+    <MESSAGE value="add robots to block entire site from search crawlers" />
+    <option name="LAST_COMMIT_MESSAGE" value="add robots to block entire site from search crawlers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/mktg/the-club-benefits/index.php</url>
-          <line>17</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/index.php</url>
+          <line>50</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_zh_HK.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5270049" vertical-offset="2160" max-vertical-offset="4199">
-          <caret line="146" column="41" selection-start-line="146" selection-start-column="41" selection-end-line="146" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_zh_TW.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55482817" vertical-offset="3588" max-vertical-offset="4199">
-          <caret line="231" column="32" selection-start-line="231" selection-start-column="32" selection-end-line="231" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/club-benefits/club-benefits_de_DE.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38952535" vertical-offset="0" max-vertical-offset="3944">
-          <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35416666" vertical-offset="0" max-vertical-offset="624">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57211536" vertical-offset="0" max-vertical-offset="624">
-          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flex-templates/Marketing/the-club-offers.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55538464" vertical-offset="2750" max-vertical-offset="3400">
-          <caret line="183" column="14" selection-start-line="183" selection-start-column="14" selection-end-line="183" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_de_DE.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.93126" vertical-offset="5457" max-vertical-offset="6188">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_en_AU.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6121113" vertical-offset="0" max-vertical-offset="6273">
-          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_es_ES.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.83306056" vertical-offset="5594" max-vertical-offset="6205">
-          <caret line="359" column="0" selection-start-line="359" selection-start-column="0" selection-end-line="359" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_fr_FR.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_fr_FR.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.83306056" vertical-offset="5577" max-vertical-offset="6188">
           <caret line="358" column="0" selection-start-line="358" selection-start-column="0" selection-end-line="358" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_id_ID.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_id_ID.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.83306056" vertical-offset="5577" max-vertical-offset="6188">
           <caret line="358" column="0" selection-start-line="358" selection-start-column="0" selection-end-line="358" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_it_IT.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_it_IT.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.83306056" vertical-offset="5577" max-vertical-offset="6188">
           <caret line="358" column="0" selection-start-line="358" selection-start-column="0" selection-end-line="358" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_ja_JP.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_ja_JP.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.83306056" vertical-offset="5577" max-vertical-offset="6188">
           <caret line="358" column="0" selection-start-line="358" selection-start-column="0" selection-end-line="358" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_ko_KR.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_ko_KR.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.44517186" vertical-offset="0" max-vertical-offset="6188">
           <caret line="16" column="87" selection-start-line="16" selection-start-column="87" selection-end-line="16" selection-end-column="87" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_ms_MY.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_ms_MY.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.83306056" vertical-offset="5679" max-vertical-offset="6290">
           <caret line="364" column="0" selection-start-line="364" selection-start-column="0" selection-end-line="364" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_nl_NL.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_nl_NL.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.83306056" vertical-offset="5577" max-vertical-offset="6188">
           <caret line="358" column="0" selection-start-line="358" selection-start-column="0" selection-end-line="358" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_ru_RU.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_ru_RU.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6426">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_sv_SE.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_sv_SE.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.83306056" vertical-offset="5577" max-vertical-offset="6188">
           <caret line="358" column="0" selection-start-line="358" selection-start-column="0" selection-end-line="358" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_th_TH.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_th_TH.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5564648" vertical-offset="0" max-vertical-offset="6188">
           <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_zh_CN.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_zh_CN.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7495908" vertical-offset="5577" max-vertical-offset="6188">
           <caret line="355" column="0" selection-start-line="355" selection-start-column="0" selection-end-line="355" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_zh_HK.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_zh_HK.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.83306056" vertical-offset="5577" max-vertical-offset="6188">
           <caret line="358" column="0" selection-start-line="358" selection-start-column="0" selection-end-line="358" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_zh_TW.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_zh_TW.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.83306056" vertical-offset="5577" max-vertical-offset="6188">
           <caret line="358" column="0" selection-start-line="358" selection-start-column="0" selection-end-line="358" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/club-benefits/club-benefits_en_AU.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.71119136" vertical-offset="982" max-vertical-offset="3961">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_en_AU.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_en_AU.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.41587678" vertical-offset="125" max-vertical-offset="969">
           <caret line="28" column="79" selection-start-line="28" selection-start-column="79" selection-end-line="28" selection-end-column="79" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_es_ES.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_es_ES.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.48856798" vertical-offset="70" max-vertical-offset="901">
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_de_DE.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_de_DE.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4681107" vertical-offset="87" max-vertical-offset="918">
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_fr_FR.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_fr_FR.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6522262" vertical-offset="2" max-vertical-offset="901">
           <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="36" selection-end-column="148" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_id_ID.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_id_ID.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.52948254" vertical-offset="19" max-vertical-offset="935">
           <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ko_KR.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_ko_KR.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6955475" vertical-offset="0" max-vertical-offset="952">
           <caret line="34" column="50" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flex-templates/Marketing/the-club-tiers.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43333334" vertical-offset="2020" max-vertical-offset="2890">
-          <caret line="141" column="31" selection-start-line="141" selection-start-column="31" selection-end-line="141" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ja_JP.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_ja_JP.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.608642" vertical-offset="0" max-vertical-offset="935">
           <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ms_MY.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_ms_MY.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5908544" vertical-offset="2" max-vertical-offset="918">
           <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_it_IT.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-benefits/the-club-benefits_it_IT.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4091456" vertical-offset="0" max-vertical-offset="4216">
           <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flex-templates/Marketing/the-club-hotels.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43173862" vertical-offset="3438" max-vertical-offset="5508">
-          <caret line="224" column="41" selection-start-line="224" selection-start-column="41" selection-end-line="224" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flex-templates/Marketing/the-club-benefits.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30571762" vertical-offset="3410" max-vertical-offset="4267">
-          <caret line="216" column="13" selection-start-line="216" selection-start-column="13" selection-end-line="216" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_it_IT.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_it_IT.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.63176894" vertical-offset="104" max-vertical-offset="935">
           <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_nl_NL.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_nl_NL.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.63176894" vertical-offset="2" max-vertical-offset="918">
           <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_pl_PL.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_pl_PL.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.52948254" vertical-offset="19" max-vertical-offset="935">
           <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_pt_PT.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_pt_PT.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7160048" vertical-offset="0" max-vertical-offset="918">
           <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_ru_RU.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_ru_RU.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7160048" vertical-offset="0" max-vertical-offset="918">
           <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_sv_SE.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_sv_SE.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7160048" vertical-offset="0" max-vertical-offset="918">
           <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_th_TH.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_th_TH.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7160048" vertical-offset="0" max-vertical-offset="918">
           <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_zh_CN.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_zh_CN.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7364621" vertical-offset="0" max-vertical-offset="918">
           <caret line="36" column="34" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_zh_HK.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_zh_HK.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.57280385" vertical-offset="0" max-vertical-offset="918">
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-hotels/the-club-hotels_zh_TW.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-hotels/the-club-hotels_zh_TW.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.67509025" vertical-offset="0" max-vertical-offset="918">
           <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_pl_PL.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_pl_PL.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6188">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-benefits/the-club-benefits_sv_SE.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-benefits/the-club-benefits_sv_SE.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.45006016" vertical-offset="0" max-vertical-offset="4199">
           <caret line="22" column="69" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/the-club-tiers/the-club-tiers_pt_PT.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_pt_PT.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="3.2707582" vertical-offset="2586" max-vertical-offset="6171">
           <caret line="312" column="39" selection-start-line="312" selection-start-column="39" selection-end-line="312" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/club-benefits/club-benefits_ru_RU.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/club-benefits/club-benefits_ru_RU.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.45487365" vertical-offset="285" max-vertical-offset="3927">
           <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mktg/club-benefits/club-benefits_sv_SE.html">
+    <entry file="file://$PROJECT_DIR$/pages/mktg/club-benefits/club-benefits_sv_SE.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.87344915" vertical-offset="3138" max-vertical-offset="3944">
           <caret line="226" column="0" selection-start-line="226" selection-start-column="0" selection-end-line="226" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flex-templates/Marketing/club-benefits.xml">
+    <entry file="file://$PROJECT_DIR$/templates/mktg/the-club-benefits.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.3208334" vertical-offset="4577" max-vertical-offset="5457">
-          <caret line="302" column="111" selection-start-line="302" selection-start-column="95" selection-end-line="302" selection-end-column="111" />
+        <state vertical-scroll-proportion="0.4147105" vertical-offset="3475" max-vertical-offset="4335">
+          <caret line="220" column="13" selection-start-line="220" selection-start-column="13" selection-end-line="220" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/mktg/the-club-hotels.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.713615" vertical-offset="3624" max-vertical-offset="5576">
+          <caret line="240" column="167" selection-start-line="240" selection-start-column="167" selection-end-line="240" selection-end-column="167" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/mktg/the-club-tiers.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.015649453" vertical-offset="2251" max-vertical-offset="2890">
+          <caret line="133" column="49" selection-start-line="133" selection-start-column="49" selection-end-line="133" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/mktg/the-club-offers.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22848201" vertical-offset="2761" max-vertical-offset="3400">
+          <caret line="171" column="26" selection-start-line="171" selection-start-column="26" selection-end-line="171" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/mktg/club-benefits/club-benefits.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3793651" vertical-offset="2787" max-vertical-offset="3417">
+          <caret line="178" column="81" selection-start-line="178" selection-start-column="81" selection-end-line="178" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-lang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23794712" vertical-offset="0" max-vertical-offset="884">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/mktg/club-benefits/club-benefits_de_DE.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33174604" vertical-offset="930" max-vertical-offset="3944">
+          <caret line="67" column="86" selection-start-line="67" selection-start-column="86" selection-end-line="67" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/mktg/club-benefits/club-benefits_en_AU.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6295546" vertical-offset="1355" max-vertical-offset="3961">
+          <caret line="98" column="52" selection-start-line="93" selection-start-column="48" selection-end-line="98" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38273922" vertical-offset="0" max-vertical-offset="533">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/mktg/the-club-tiers/the-club-tiers_en_AU.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.354251" vertical-offset="2154" max-vertical-offset="6358">
+          <caret line="137" column="113" selection-start-line="137" selection-start-column="113" selection-end-line="137" selection-end-column="113" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/mktg/club-benefits.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.68105066" vertical-offset="4856" max-vertical-offset="5525">
+          <caret line="307" column="7" selection-start-line="307" selection-start-column="7" selection-end-line="307" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="533">
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2614108" vertical-offset="350" max-vertical-offset="3162">
+          <caret line="28" column="74" selection-start-line="28" selection-start-column="74" selection-end-line="28" selection-end-column="74" />
           <folding />
         </state>
       </provider>
