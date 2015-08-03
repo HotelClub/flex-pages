@@ -180,10 +180,28 @@
                 padding: 3px;
                 }
             </style>
+            <script language="JavaScript">
+                jQuery( document ).ready(function() {
+                var flexLoyaltyMod = jQuery(".flexLoyaltyMod").html();
+                var flexEditorialMod = jQuery(".flexEditorialMod div.introduction").html();
+                if(flexEditorialMod == null){
+                jQuery("#flexLoyaltyMod-custom").replaceWith(flexLoyaltyMod);
+                }else{
+                jQuery("#flexLoyaltyMod-custom").replaceWith(flexLoyaltyMod);
+
+                jQuery("#offer-message").replaceWith(flexEditorialMod );
+                }
+                });
+            </script>
 
             ##HTML##
 
         </module>
+        <!-- loyalty module START-->
+        <module name="Loyalty" query="contentPurpose:Editorial" steerModuleKey="rego-non-member" view="unrecognizedUser" doNotShowForVisitorType="signedIn,recognized" />
+        <module name="Editorial" query="contentPurpose:Editorial" steerModuleKey="rego-member" doNotShowForVisitorType="NonRecognized_NonCookied, NonRecognized_Cookied" />
+        <module name="Editorial" query="contentPurpose:Editorial" steerModuleKey="the-club-offers-msg-non-member" doNotShowForVisitorType="signedIn,recognized" />
+        <!-- loyalty module END-->
     </region>
 
     <region id="secondary">
