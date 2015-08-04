@@ -4,7 +4,7 @@
 
     <region id="main">
         <module name="PictureText">
-            <link rel="stylesheet" href="http://myhotelclub.website/css/style.css"/>
+            <!--<link rel="stylesheet" href="http://myhotelclub.website/css/style.css"/>-->
             <style type="text/css">
                 /* reset */
 
@@ -35,12 +35,11 @@
                 }
 
                 .flexRegistrationMod {
-                position: relative;
+
+                display:none;
                 }
                 .flexRegistration {
-                margin-top: -330px;
                 width:300px;
-                right: 40px;
                 position: absolute;
                 -moz-box-shadow: none;
                 -webkit-box-shadow: none;
@@ -179,17 +178,38 @@
                 display: block;
                 padding: 3px;
                 }
+                .allMembers{
+                background:white !important;
+                color:black !important;
+                }
+                <!--#the-club-offers-intro-nonmember{display:none;}-->
+                <!--#the-club-offers-intro-member{display:none;}-->
+                <!--#the-club-offers-benefits{display:none;}-->
             </style>
             <script language="JavaScript">
-                jQuery( document ).ready(function() {
-                var flexLoyaltyMod = jQuery(".flexLoyaltyMod").html();
-                var flexEditorialMod = jQuery(".flexEditorialMod div.introduction").html();
-                if(flexEditorialMod == null){
-                jQuery("#flexLoyaltyMod-custom").replaceWith(flexLoyaltyMod);
-                }else{
-                jQuery("#flexLoyaltyMod-custom").replaceWith(flexLoyaltyMod);
 
-                jQuery("#offer-message").replaceWith(flexEditorialMod );
+                jQuery( document ).ready(function() {
+                function getCookie(cookiename)
+                {
+                var cookiestring=RegExp(""+cookiename+"[^;]+").exec(document.cookie);
+                return unescape(!!cookiestring ? cookiestring.toString().replace(/^[^=]+./,"") : "");
+                }
+                var mid =  getCookie('mid'); // get cookie tmid value
+                console.log('mid= ' + mid);
+                if(mid == null || mid == undefined || mid == '') {
+                    jQuery("#the-club-offers-intro-nonmember").show();
+                    jQuery("#the-club-offers-intro-member").hide();
+                    jQuery("#the-club-offers-benefits").hide();
+                } else {
+                    jQuery("#the-club-offers-intro-nonmember").hide();
+                    jQuery("#the-club-offers-intro-member").show();
+                    jQuery("#the-club-offers-benefits").show();
+                }
+
+                var flexRegoMod = jQuery(".flexRegistrationMod").html();
+                if(flexRegoMod == null){
+                }else{
+                jQuery("#flexLoyaltyMod-custom").replaceWith(flexRegoMod);
                 }
                 });
             </script>
@@ -198,9 +218,12 @@
 
         </module>
         <!-- loyalty module START-->
-        <module name="Loyalty" query="contentPurpose:Editorial" steerModuleKey="rego-non-member" view="unrecognizedUser" doNotShowForVisitorType="signedIn,recognized" />
-        <module name="Editorial" query="contentPurpose:Editorial" steerModuleKey="rego-member" doNotShowForVisitorType="NonRecognized_NonCookied, NonRecognized_Cookied" />
-        <module name="Editorial" query="contentPurpose:Editorial" steerModuleKey="the-club-offers-msg-non-member" doNotShowForVisitorType="signedIn,recognized" />
+        <module name="Registration" title="Become a member" displayLegal="false" isFullRegistration="true"
+                displayTopBorderInTabs="false" callToActionText="Join now" query="contentPurpose:Editorial"
+                steerModuleKey="club-hotels-rego-header" doNotShowForVisitorType="signedIn,recognized" />
+        <!--<module name="Loyalty" query="contentPurpose:Editorial" steerModuleKey="rego-non-member" view="unrecognizedUser" doNotShowForVisitorType="signedIn,recognized" />-->
+        <!--<module name="Editorial" query="contentPurpose:Editorial" steerModuleKey="rego-member" doNotShowForVisitorType="NonRecognized_NonCookied, NonRecognized_Cookied" />-->
+        <!--<module name="Editorial" query="contentPurpose:Editorial" steerModuleKey="the-club-offers-msg-non-member" doNotShowForVisitorType="signedIn,recognized" />-->
         <!-- loyalty module END-->
     </region>
 

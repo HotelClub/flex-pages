@@ -27,9 +27,9 @@ class flexPage
     public function build() {
 
         $pageHtml = str_replace("##HTML##", $this->getContentHtml(), $this->getTemplateHtml());
-        echo '<!DOCTYPE html><head><meta charset="UTF-8" /></head><body>' . PHP_EOL;
+//        echo '<!DOCTYPE html><head><meta charset="UTF-8" /></head><body>' . PHP_EOL . PHP_EOL;
         echo $pageHtml;
-        echo '</body></html>';
+//        echo PHP_EOL .PHP_EOL . '</body></html>';
     }
 
     /**
