@@ -4,10 +4,7 @@
 
     <region id="main">
         <module name="PictureText">
-            <link rel="stylesheet" href="//myhotelclub.website/css/style.css"/>
             <style type="text/css">
-                /* reset */
-
                 .preformatted h1, .preformatted h2, .preformatted h3, .preformatted h4, .preformatted h5, .preformatted h6{
                 margin:0;
                 }
