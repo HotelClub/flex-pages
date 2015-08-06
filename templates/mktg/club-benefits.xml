@@ -277,9 +277,6 @@
     font-style:normal;
     padding-bottom:12px;
     }
-    .flexLoyaltyMod{
-    display:none;
-    }
     .textContent div {
     padding: 10px 5px;
     }
@@ -287,6 +284,10 @@
     font-size: 16px;
     padding: 20px 10px;
     }
+    .flexEditorialMod,.flexLoyaltyMod{
+    display:none;
+    }
+
 </style>
 <script language="JavaScript">
 jQuery( document ).ready(function() {

@@ -4,7 +4,8 @@
 
     <region id="main">
         <module name="PictureText">
-            <link rel="stylesheet" href="http://myhotelclub.website/css/style.css"/>
+            <!--<link rel="stylesheet" href="//myhotelclub.website/css/style.css"/>-->
+            <link rel="stylesheet" href="//myhotelclub.website/assets/css/the-club-styles.css"/>
             <style type="text/css">
                 /* reset */
 
@@ -148,7 +149,13 @@
                 table.benefits > tbody > tr > td:last-child{
                 border-right:1px white solid;
                 }
-
+                .introductTextSpan{
+                font-size:16px;
+                font-weight:bold;
+                }
+                .flexEditorialMod,.flexLoyaltyMod{
+                display:none;
+                }
             </style>
 
             ##HTML##

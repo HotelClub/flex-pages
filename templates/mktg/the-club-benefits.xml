@@ -4,8 +4,12 @@
 
 <region id="main">
     <module name="PictureText">
-        <link rel="stylesheet" href="http://myhotelclub.website/css/style.css"/>
+        <!--<link rel="stylesheet" href="//myhotelclub.website/css/style.css"/>-->
         <style>
+            .benefitPageTabDiv2{font-family:Arial, Helvetica,sans-serif;font-size:14px;font-style:normal;line-height:18px;padding-bottom:10px;}
+            .benefitPageTabDiv3{margin-bottom:42px;margin-top: 24px;}
+            .benefitPageTabDiv{font-family:Arial, Helvetica, sans-serif;font-size:16px;font-style:normal;font-weight:bold;line-height:20px;padding:30px 0 15px;}
+
             .flexModule{
             margin:0px;
             padding:0px;
@@ -166,6 +170,10 @@
             padding: 0px;
             }
 
+            .introductTextTd span {
+            font-size: 16px;
+            }
+
             /* page tabs */
             .valueNav li {
             text-align: center;
@@ -209,9 +217,7 @@
             font-style:normal;
             padding-bottom:12px;
             }
-            .flexLoyaltyMod{
-            display:none;
-            }
+
             .textContent div {
             padding: 10px 5px;
             }
@@ -219,7 +225,9 @@
             font-size: 16px;
             padding: 20px 10px;
             }
-
+            .flexEditorialMod,.flexLoyaltyMod{
+            display:none;
+            }
         </style>
         <script language="JavaScript">
             jQuery( document ).ready(function() {

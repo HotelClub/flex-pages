@@ -1,0 +1,88 @@
+#norail h1 {float:none;}
+.appTab2Text{font-family:Arial, Helvetica, sans-serif;font-size:15px;font-style:normal;padding-bottom:12px;}
+.appTab2{margin-top:80px;}
+.appTab{background-image:url(//www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/App-BG.gif);background-position:top left;background-repeat:repeat-x;}
+.benefitBackgroundTemp{background-color:#ffffff;background-image:url(../images/Sand-Arrow.png);background-position: 66px 0px;background-repeat:no-repeat}
+.benefitPageTab2{margin-bottom:36px;margin-top: 24px;}
+.benefitPageTabDiv2{font-family:Arial, Helvetica,sans-serif;font-size:14px;font-style:normal;line-height:18px;padding-bottom:10px;}
+.benefitPageTabDiv3{margin-bottom:42px;margin-top: 24px;}
+.benefitPageTabDiv{font-family:Arial, Helvetica, sans-serif;font-size:16px;font-style:normal;font-weight:bold;line-height:20px;padding:30px 0 15px;}
+.benefitPageTabPad1{padding-top:6px}
+.benefitPageTabPad2{padding-top:24px}
+.benefitPageTabText{font-family:Arial, Helvetica, sans-serif;font-size:30px;font-style:bold;padding-bottom:24px;}
+.benefitPageTabsP{font-family:Arial, Helvetica, sans-serif;font-size:16px;font-style:normal;}
+.benefitPageTabsUI{font-family:Arial, Helvetica, sans-serif;font-size:14px;font-style:normal;list-style:none;margin:0;padding:2px 0 0;}
+.clubPagePad1{padding-bottom:30px;padding-top:30px;}
+.clubPagePad2{padding-bottom:10px;padding-top:10px;}
+.clubPageTabText{font-family:Arial, Helvetica, sans-serif !important;font-size:16px !important;font-style:normal !important;}
+.clubPageimg{padding-right:10px;}
+.clubTabBox{border: 1px solid #c6c8c7;margin-top:16px;}
+.clubTabInput{border:1px solid #c6c8c7;height:24px;padding-left:5px;width:333px;}
+.clubTabLabel2{font-size:12px !important;line-height:16px !important;}
+.clubTabLabelSign{color:#55337e !important;}
+.clubTabLabel{font-family:Arial, Helvetica, sans-serif !important;font-size:12px !important;font-weight:bold !important;}
+.flexModule{margin:0px;padding:0px;}
+.headerImg{padding:-16px;}
+.introductDiv{font-family:Arial, Helvetica, sans-serif;font-size:14px;font-style:normal;padding:20px 5px 30px 5px;   line-height: 24px;}
+.introductDiv img{margin-top: 20px;}
+.introductTab2Img{padding-top:24px;}
+.introductTab2P2 {font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-style: normal;}
+.introductTab2P{font-family:Arial, Helvetica, sans-serif;font-size:16px;font-style:normal;font-weight:bold;padding-top:12px;}
+.introductTab2Td{margin-bottom:42px;margin-top: 22px;}
+.introductTab2TextP {display:block;font-family: Arial, Helvetica, sans-serif;font-size: 16px;font-style: normal;padding-bottom: 18px;}
+.introductTab2{background-color:#fbf1e8;background-image:url(//www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/White-Arrow.png);background-position: 66px 0px;background-repeat:no-repeat}
+.introductTab3Img{padding:29px 0 7px 0;}
+.introductTab3P {display:block;font-family: Arial, Helvetica, sans-serif;font-size: 16px;font-style: normal;font-weight: bold;padding: 28px 0 5px 0;}
+.introductTextH1{font-family:Arial, Helvetica, sans-serif !important;font-size:24px !important;font-style:bold !important;}
+.introductTextH2{font-family:Arial, Helvetica, sans-serif !important;font-size:30px  !important;font-style:bold  !important;padding: 0 0 10px;}
+.introductTextP {font-family: Arial, Helvetica, sans-serif;font-size: 16px;font-style: normal;}
+.introductTextSpan{font-size:16px;font-weight:bold; line-height: 30px}
+.introductTextTab{border: 1px solid #c6c8c7;}
+.introductTextTab span {line-height: 24px;}
+.introductTextTd p{font-family:Arial, Helvetica, sans-serif;font-size:16px;font-style:normal;font-weight:bold;padding:28px 0 5px 0;}
+.introductTextTd span{font-family:Arial, Helvetica, sans-serif;font-style:normal; line-height:24px;}
+.introductTextTd2{line-height:27px;}
+.introductTextTd3{line-height:27px;}
+.introductTextTd{line-height:24px;}
+.introductText{margin-bottom:42px;margin-top: 19px;}
+.pageTabsClub{margin-left: 24px !important;}
+.pageTabsLI a{color:#000;text-decoration:none;}
+.pageTabsLI.active a{color:#55337e;font-weight:bold;}
+.pageTabsLI.active2{border-bottom:6px solid #55337e;margin-left:-38px !important;padding-bottom:16px;}
+.pageTabsLI.active2 a{color:#55337e;font-weight:bold;}
+.pageTabsLI.active{border-bottom:6px solid #55337e;margin-left:2px !important;padding-bottom:16px;}
+.pageTabsLI{display:block;float:left;padding-bottom:18px;padding-left:44px;padding-right:44px;text-decoration:none;}
+.pageTabsMenu{color:#000000;text-decoration:none;}
+.pageTabsUIFirst{padding-right:84px !Important;}
+.pageTabsUI{font-family:Arial, Helvetica, sans-serif;font-size:14px;font-style:normal;list-style:none;margin:0;padding:0;}
+.pageTabs{border-bottom:1px solid #b1bbb9;margin-bottom:24px;margin-top: 24px;}
+.placeHolder{margin-left:19px;margin-top:132px;text-align:center;width:960px;}
+.whiteBackground{background-color:#ffffff;}
+.workPointsTab{margin-bottom:12px;margin-top: 24px;}
+h1{font-weight: 600 !important;}
+h2{font-weight: 600 !important;}
+.introductTextTdTemp{line-height:24px; margin-top: -8px;float: left; margin-left: 30px; width: 400px;}
+.pageTabsLI2{ margin-left: 2px; margin-right: 39px; }
+
+
+/* reset */
+/*css for offer page*/
+.flexRegistrationMod { position: relative; }
+.flexRegistration { margin-top: -330px; width: 300px; right: 40px; position: absolute; -moz-box-shadow: none;-webkit-box-shadow: none; -webkit-margin-end: auto; -webkit-margin-start: auto; background-color: rgb(251, 241, 232); border-bottom-width: 0px; border-left-width: 0px; border-radius: 0px; border-right-width: 0px; border-spacing: 0px; border-top-width: 0px; border: 1px solid #c6c8c7; box-shadow: none; overflow: hidden; padding: 20px; text-align: -webkit-left; vertical-align: middle; }
+.flexRegistration.register .textInput input { border: 1px solid #c6c8c7; height: 24px; padding-left: 2%; width: 96%; border-radius: 0px; -moz-box-shadow: none; -webkit-box-shadow: none; box-shadow: none; margin-bottom: 0; }
+h2.h2 { font-size: 30px; font-style: bold; margin-bottom: 40px; }
+.notRegistered { font-size: 14px; background: #eeeaf2; border: 1px #d4ccdf solid; padding: 15px 25px; line-height: 16px; text-align: center; }
+.cardContainer { padding-top: 40px; }
+.card { border: 1px #d9d9d9 solid; background: white; font-family: Arial, Helvetica, sans-serif; }
+.cardText { padding: 13px; text-align: center; }
+.icon { position: absolute; top: 0; left: 15px; }
+.only, .offerType { color: white; background: #ee2631; font-size: 11px; text-align: center; text-transform: uppercase; }
+.only td, .offerType td { line-height: 25px; }
+.only { background: black; position: absolute; left: 0; bottom: 0; }
+.rewardMembers { background: #ee2631; }
+.goldMembers { background: #fece2f; color: black; }
+.card .p { font-weight: bold; font-size: 15px; line-height: 17px; margin-bottom: 15px; }
+.card .p.type { font-weight: normal; font-size: 11px; text-transform: uppercase; color: #858585; margin-bottom: 8px;background-position: center top; }
+.loadMore { background: #f6f6f6; border: 1px #d9d9d9 solid; text-align: center; margin-bottom: 40px; position: relative; }
+.loadMore .bottomArrow { position: absolute; bottom: -7px; left: 50%; }
+.loadMore a { color: #666666; text-decoration: none; font-weight: bold;  font-size: 14px; display: block; padding: 3px; }

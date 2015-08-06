@@ -5,8 +5,9 @@
 
 <region id="main">
     <module name="PictureText">
-        <link rel="stylesheet" href="http://myhotelclub.website/css/style.css"/>
+        <!--<link rel="stylesheet" href="//myhotelclub.website/css/style.css"/>-->
         <style>
+            .clubPageTabText{font-family:Arial, Helvetica, sans-serif !important;font-size:16px !important;font-style:normal !important;}
             .flexModule{
             margin:0px;
             padding:0px;
@@ -211,9 +212,7 @@
             font-style:normal;
             padding-bottom:12px;
             }
-            .flexLoyaltyMod{
-            display:none;
-            }
+
             .textContent div {
             padding: 10px 5px;
             }
@@ -223,6 +222,9 @@
             }
             .ProductTabs3{
             padding: 0px 30px;
+            }
+            .flexEditorialMod,.flexLoyaltyMod{
+            display:none;
             }
         </style>
         <script language="JavaScript">

@@ -4,7 +4,7 @@
 
     <region id="main">
         <module name="PictureText">
-            <link rel="stylesheet" href="http://myhotelclub.website/css/style.css"/>
+            <link rel="stylesheet" href="//myhotelclub.website/css/style.css"/>
             <style type="text/css">
                 /* reset */
 
@@ -182,12 +182,27 @@
                 display: block;
                 padding: 3px;
                 }
+                .flexSearchFormMod{display:none;}
+                .searchFormContainer h2, .primaryLabel{padding:10px 0px;}
+                .inputBox{
+                float:left; margin-right:30px;}
+
             </style>
+            <script language="JavaScript">
+                jQuery( document ).ready(function() {
+                var flexSearchMod = jQuery(".flexSearchFormMod").html();
+                if(flexSearchMod == null){
+                }else{
+                jQuery("#flexMod-custom").replaceWith(flexSearchMod );
+                }
+                });
+
+            </script>
 
             ##HTML##
 
         </module>
-        <module name="SearchForm" visible="true" title="Search for hotels" view="modern"/>
+        <module name="SearchForm" visible="true" title="Search for hotels" view="modern"  displayRecentSearches="true" displayPromoCode="true" />
     </region>
     <region id="secondary">
 
