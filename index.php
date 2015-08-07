@@ -71,10 +71,16 @@ class flexPage
     public function setContentHtml()
     {
         if(null !== $this->getTemplateName() && null !== $this->getGroupName()) {
+            $filePath   = __DIR__ . '/pages/' . $this->getGroupName() . '/' . $this->getTemplateName() . '/' . $this->getTemplateName(). '_' . $this->getLocale()  . '.html';
+	        $contentHtml = file_exists($filePath) ? file_get_contents($filePath) : '';
 
-            $filePath   = __DIR__ . '/pages/' . $this->getGroupName() . '/' . $this->getTemplateName(
-                ) . '/' . $this->getTemplateName(). '_' . $this->getLocale()  . '.html';
-            $contentHtml       = file_exists($filePath) ? file_get_contents($filePath) : '';
+			/*code to fetch json locale file and replace with place holders*/
+			$placeholderPath = __DIR__ . '/data/'.$this->getTemplateName().'.json';
+			$placeholderContents = json_decode(file_get_contents($placeholderPath));
+			$getLocalVal = $this->getLocale();
+			foreach($placeholderContents->$getLocalVal as $key=>$val){
+				$contentHtml = str_replace("[".$key."]",$val,$contentHtml);
+			}
             $this->contentHtml = $contentHtml;
         }
         return $this;
