@@ -39,7 +39,8 @@
 "t36":"Get a room upgrade + other hotel perks ",
 "t37":"Redeem now",
 "t38":"",
-"t39":"http://cars.cartrawler.com/hotelclub/?clientID=626741"
+"t39":"http://cars.cartrawler.com/hotelclub/?clientID=626741",
+"t40":"Your Member Bonuses"
 },
 "img1":"//html5-images.host.bannerflow.com/adhtml_img_855094.jpg",
 "ru_ru":{
@@ -82,7 +83,8 @@
 "t36":"Получите повышение категории номера + другие бонусы ",
 "t37":"Использовать сейчас",
 "t38":"",
-"t39":"http://cars.cartrawler.com/hotelclub/ru/?clientID=626741&&c=au"
+"t39":"http://cars.cartrawler.com/hotelclub/ru/?clientID=626741&&c=au",
+"t40":""
 },
 "pl_pl":{
 "img1":"//html5-images.host.bannerflow.com/adhtml_img_854974.jpg",
@@ -125,7 +127,8 @@
 "t36":"Otrzymaj upgarde pokoju + dodatkowe przywileje w hotelu ",
 "t37":"Wykorzystaj teraz",
 "t38":"",
-"t39":"http://cars.cartrawler.com/hotelclub/pl/?clientID=626741&&c=au"
+"t39":"http://cars.cartrawler.com/hotelclub/pl/?clientID=626741&&c=au",
+"t40":""
 },
 "pt_pt":{
 "img1":"//html5-images.host.bannerflow.com/adhtml_img_854980.jpg",
@@ -168,7 +171,8 @@
 "t36":"Ganhe um upgrade de quarto + outras vantagens",
 "t37":"Redimir pontos",
 "t38":"",
-"t39":"http://cars.cartrawler.com/hotelclub/pt/?clientID=626741&&c=au"
+"t39":"http://cars.cartrawler.com/hotelclub/pt/?clientID=626741&&c=au",
+"t40":""
 },
 "it_it":{
 "img1":"//html5-images.host.bannerflow.com/adhtml_img_854962.jpg",
@@ -211,7 +215,8 @@
 "t36":"Ricevi una camera di categoria superiore + altri privilegi in hotel",
 "t37":"Riscatta adesso",
 "t38":"",
-"t39":"http://cars.cartrawler.com/hotelclub/it/?clientID=626741&&c=au"
+"t39":"http://cars.cartrawler.com/hotelclub/it/?clientID=626741&&c=au",
+"t40":""
 },
 "fr_fr":{
 "img1":"//html5-images.host.bannerflow.com/adhtml_img_854950.jpg",
@@ -254,7 +259,8 @@
 "t36":"Recevez le surclassement de votre chambre + autres privilèges à l'hôtel",
 "t37":"J'en profite",
 "t38":"",
-"t39":"http://cars.cartrawler.com/hotelclub/fr/?clientID=626741&&c=au"
+"t39":"http://cars.cartrawler.com/hotelclub/fr/?clientID=626741&&c=au",
+"t40":"Vos avantages de membre"
 },
 "es_es":{
 "img1":"//html5-images.host.bannerflow.com/adhtml_img_854956.jpg",
@@ -297,7 +303,8 @@
 "t36":"Obtén una subida de categoría + otras ventajas",
 "t37":"Canjea ahora",
 "t38":"",
-"t39":"http://cars.cartrawler.com/hotelclub/es/?clientID=626741&&c=au"
+"t39":"http://cars.cartrawler.com/hotelclub/es/?clientID=626741&&c=au",
+"t40":""
 },
 "sv_se":{
 "img1":"//html5-images.host.bannerflow.com/adhtml_img_854986.jpg",
@@ -340,7 +347,8 @@
 "t36":"Få en rumsuppgradering + andra hotellförmåner ",
 "t37":"Lös in nu",
 "t38":"",
-"t39":"http://cars.cartrawler.com/hotelclub/sv/?clientID=626741&&c=au"
+"t39":"http://cars.cartrawler.com/hotelclub/sv/?clientID=626741&&c=au",
+"t40":""
 },
 "de_de":{
 "img1":"//html5-images.host.bannerflow.com/adhtml_img_854944.jpg",
@@ -383,7 +391,8 @@
 "t36":"Erhalten Sie Zimmer-Upgrades und andere Vergünstigungen vom Hotel",
 "t37":"Jetzt einlösen",
 "t38":"",
-"t39":"http://cars.cartrawler.com/hotelclub/de/?clientID=626741&&c=au"
+"t39":"http://cars.cartrawler.com/hotelclub/de/?clientID=626741&&c=au",
+"t40":"Ihre Mitglieder-Sonderzulagen"
 },
 "nl_nl":{
 "img1":"//html5-images.host.bannerflow.com/adhtml_img_854968.jpg",
@@ -426,7 +435,8 @@
 "t36":"Ontvang een kamerupgrade en andere extra's van het hotel",
 "t37":"Verzilver nu",
 "t38":"",
-"t39":"http://cars.cartrawler.com/hotelclub/nl/?clientID=626741&&c=au"
+"t39":"http://cars.cartrawler.com/hotelclub/nl/?clientID=626741&&c=au",
+"t40":""
 },
 "id_id":{
 "img1":"//html5-images.host.bannerflow.com/adhtml_img_854938.jpg",
@@ -469,7 +479,8 @@
 "t36":"Dapatkan upgrade kamar + bonus hotel lainnya",
 "t37":"Gunakan sekarang",
 "t38":"",
-"t39":"http://cars.cartrawler.com/hotelclub/"
+"t39":"http://cars.cartrawler.com/hotelclub/",
+"t40":""
 },
 "ms_my":{
 "img1":"//html5-images.host.bannerflow.com/adhtml_img_854932.jpg",
@@ -480,38 +491,40 @@
 "m4":"Tiers",
 "m5":"Offers",
 "m6":"Tempah",
-"t7":"",
-"t8":"",
-"t9":"",
-"t10":"",
-"t11":"",
-"t12":"",
-"t13":"",
-"t14":"",
-"t15":"",
-"t16":"",
-"t17":"",
-"t18":"",
-"t19":"",
-"t20":"",
-"t21":"",
-"t22":"",
-"t23":"",
-"t24":"",
-"t25":"",
-"t26":"",
-"t27":"",
-"t28":"",
-"t29":"",
-"t30":"",
-"t31":"",
-"t32":"",
-"t33":"",
-"t34":"",
-"t35":"",
-"t36":"",
-"t37":"",
+"t7":"Amazing member benefits await.",
+"t8":"Room upgrades, en-route travel discounts and exclusive offers are just a click away. Sign-in to your account or register to upgrade your next stay.",
+"t9":"Extraordinary is all yours…",
+"t10":"En-route travel discounts, lifestyle perks and exclusive offers are just the beginning. Get the most from your membership, register for Member Rewards to earn rewards instantly.",
+"t11":"You could be instantly earning up to 7% back in Member Rewards. Start earning rewards today.",
+"t12":"Extraordinary is all yours…",
+"t13":"You're enjoying instant rewards, great offers and so much more. We seek out the best partners from across the globe to turn every stay into an extraordinary experience.",
+"t14":"Your member tier ",
+"t15":"Your rewards balance",
+"t16":"Your earn rate: X% in-app  (or X% onsite)",
+"t17":"Your benefits",
+"t18":"Your offers",
+"t19":"Club Hotels. Get a room upgrade + other hotel perks. See details",
+"t20":"You aren't registered to earn Member Rewards",
+"t21":"register now",
+"t22":"All members",
+"t23":"Travel in Style",
+"t24":"Get $20 off your first Uber Ride",
+"t25":"Redeem now",
+"t26":"Silver, Gold & Platinum",
+"t27":"Travel in Style",
+"t28":"Get 10% off your pre-paid car rental",
+"t29":"Redeem now",
+"t30":"All members",
+"t31":"Lifestyle Perks",
+"t32":"Get 3 free bottles wine with your booking",
+"t33":"Redeem now",
+"t34":"Gold & Platinum",
+"t35":"Club Hotels",
+"t36":"Get a room upgrade + other hotel perks ",
+"t37":"Redeem now",
 "t38":"",
+"t39":"http://cars.cartrawler.com/hotelclub/?clientID=626741",
+"t40":"Your Member Bonuses"
 "t39":""
 },
 "th_th":{
@@ -555,7 +568,8 @@
 "t36":"รับการอัพเกรดห้องพัก + สิทธิพิเศษอื่นๆ จากโรงแรม",
 "t37":"แลกใช้ทันที",
 "t38":"",
-"t39":"http://cars.cartrawler.com/hotelclub/"
+"t39":"http://cars.cartrawler.com/hotelclub/",
+"t40":""
 },
 "ko_kr":{
 "img1":"//html5-images.host.bannerflow.com/adhtml_img_855106.jpg",
@@ -598,7 +612,8 @@
 "t36":"객실 업그레이드와 그 밖의 다양한 혜택을 받으세요.",
 "t37":"지금 사용하세요.",
 "t38":"",
-"t39":"http://cars.cartrawler.com/hotelclub/ko/?clientID=626741&&c=au"
+"t39":"http://cars.cartrawler.com/hotelclub/ko/?clientID=626741&&c=au",
+"t40":""
 },
 "ja_jp":{
 "img1":"//html5-images.host.bannerflow.com/adhtml_img_855121.jpg",
@@ -641,7 +656,8 @@
 "t36":"客室アップグレード＋その他の優待サービス付き",
 "t37":"今すぐチェック",
 "t38":"",
-"t39":"http://cars.cartrawler.com/hotelclub/ja/?clientID=626741&&c=au"
+"t39":"http://cars.cartrawler.com/hotelclub/ja/?clientID=626741&&c=au",
+"t40":""
 },
 "zh_cn":{
 "img1":"//html5-images.host.bannerflow.com/adhtml_img_855124.jpg",
@@ -684,7 +700,8 @@
 "t36":"享客房升级 + 其他酒店礼遇",
 "t37":"马上兑换",
 "t38":"",
-"t39":"http://cars.cartrawler.com/hotelclub/zh/?clientID=626741&&c=au"
+"t39":"http://cars.cartrawler.com/hotelclub/zh/?clientID=626741&&c=au",
+"t40":""
 },
 "zh_hk":{
 "img1":"//html5-images.host.bannerflow.com/adhtml_img_855133.jpg",
@@ -727,7 +744,8 @@
 "t36":"享房間升級 + 其他酒店禮遇",
 "t37":"馬上兌換",
 "t38":"",
-"t39":"http://cars.cartrawler.com/hotelclub/zh/?clientID=626741&&c=au"
+"t39":"http://cars.cartrawler.com/hotelclub/zh/?clientID=626741&&c=au",
+"t40":"您的会员奖赏"
 },
 "zh_tw":{
 "img1":"//html5-images.host.bannerflow.com/adhtml_img_855139.jpg",
@@ -770,6 +788,7 @@
 "t36":"客房升等 + 其他飯店福利",
 "t37":"馬上兌換",
 "t38":"",
-"t39":"http://cars.cartrawler.com/hotelclub/zh-tw/?clientID=626741&&c=au"
+"t39":"http://cars.cartrawler.com/hotelclub/zh-tw/?clientID=626741&&c=au",
+"t40":""
 }
 }
