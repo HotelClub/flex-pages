@@ -80,6 +80,7 @@ class flexPage
 			$placeholderContents = json_decode(file_get_contents($placeholderPath));
 			$getLocalVal = strtolower($this->getLocale());
 			$contentHtml = str_replace("/mktg/","/".$getLocalVal."/mktg/",$contentHtml);
+			$contentHtml = str_replace("##locale##",$this->getCamelCaseLocale($getLocalVal),$contentHtml);
 			foreach($placeholderContents->$getLocalVal as $key=>$val){
 				$contentHtml = str_replace("[".$key."]",$val,$contentHtml);
 			}
@@ -181,7 +182,16 @@ class flexPage
         $this->templateName = $templateName;
     }
 
+    public function getCamelCaseLocale($locale){
+        $localePart = explode("_", $locale);
+        if(!empty($localePart) && count($localePart) ==2) {
+            $localePart[1] = strtoupper($localePart[1]);
+            return implode("_", $localePart);
+        } else {
+            return $locale;
+        }
 
+    }
 
 
 }
