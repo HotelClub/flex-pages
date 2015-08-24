@@ -1,4 +1,7 @@
 <?php
+
+ini_set('display_errors', 'On');
+
 /**
  *
  * @package    index.php
@@ -77,18 +80,44 @@ class flexPage
 
 			/*code to fetch json locale file and replace with place holders*/
 			$placeholderPath = __DIR__ . '/data/'.$this->getTemplateName().'.json';
-			$placeholderContents = json_decode(file_get_contents($placeholderPath));
+			$reusableTextPath = __DIR__ . '/data/data-reusable.json';
+			$menuTextPath = __DIR__ . '/data/menu-text.json';
+			
+			$placeholderContents = file_get_contents($placeholderPath);
+			$reusableContents = file_get_contents($reusableTextPath);
+			$menuTextContents = file_get_contents($menuTextPath);
+			
+			$placeholderContentsA = json_decode($placeholderContents,true);
+			$reusableContentsA =  json_decode($reusableContents,true);
+			$menuTextContentsA =  json_decode($menuTextContents,true);
+			
+			$addedResuableArrays = [];
+			$allTextArray = [];
+			
+			foreach($placeholderContentsA as $locale => $data){
+				$addedResuableArrays[$locale] = array_merge($data, $reusableContentsA[$locale]);
+			}
+			
+			foreach($addedResuableArrays as $locale=> $data){
+				$allTextArray[$locale] = array_merge($data, $menuTextContentsA[$locale]);
+			}
+
+			/*echo '<pre>*';
+			print_r($joinedArrays);
+			echo '</pre>';
+			exit;*/
+			
 			$getLocalVal = strtolower($this->getLocale());
 			$contentHtml = str_replace("/mktg/","/".$getLocalVal."/mktg/",$contentHtml);
 			$contentHtml = str_replace("##locale##",$this->getCamelCaseLocale($getLocalVal),$contentHtml);
-			foreach($placeholderContents->$getLocalVal as $key=>$val){
+			foreach($allTextArray[$getLocalVal] as $key=>$val){
+				
 				$contentHtml = str_replace("[".$key."]",$val,$contentHtml);
 			}
             $this->contentHtml = $contentHtml;
         }
         return $this;
     }
-
 
 
     protected function parseUriPath()
