@@ -185,7 +185,7 @@
                 border: 1px solid #c6c8c7;
                 margin-top: 20px;
                 }
-                #the-club-offers-intro-nonmember, #the-club-offers-intro-member,#the-club-offers-benefits{display:none;    margin-bottom: 20px;}
+                /*#the-club-offers-intro-nonmember, #the-club-offers-intro-member,#the-club-offers-benefits{display:none;    margin-bottom: 20px;}*/
                 .introductTextSpan{
                 font-size:16px;
                 font-weight:bold;

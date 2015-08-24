@@ -102,10 +102,10 @@ class flexPage
 				$allTextArray[$locale] = array_merge($data, $menuTextContentsA[$locale]);
 			}
 
-			/*echo '<pre>*';
-			print_r($joinedArrays);
+			/* echo '<pre>*';
+			print_r($allTextArray);
 			echo '</pre>';
-			exit;*/
+			exit; */
 			
 			$getLocalVal = strtolower($this->getLocale());
 			$contentHtml = str_replace("/mktg/","/".$getLocalVal."/mktg/",$contentHtml);
