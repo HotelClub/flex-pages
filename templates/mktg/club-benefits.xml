@@ -5,6 +5,15 @@
 <region id="main">
 <module name="PictureText" >
 <style>
+
+	#ja_jp .introductTextTd{
+		text-align:left !important;
+	}
+	
+	#ja_jp .introductTextTd .introductTab3P{
+		text-align:center !important;
+	}
+
     .flexModule{
     margin:0px;
     padding:0px;
