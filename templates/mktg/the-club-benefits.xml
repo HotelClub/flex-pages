@@ -6,7 +6,7 @@
     <module name="PictureText">
         <style>
             .benefitPageTabDiv2{font-family:Arial, Helvetica,sans-serif;font-size:14px;font-style:normal;line-height:18px;padding-bottom:10px;}
-            .benefitPageTabDiv3{margin-bottom:42px;margin-top: 24px;}
+            .benefitPageTabDiv3{margin-bottom:42px;}
             .benefitPageTabDiv{font-family:Arial, Helvetica, sans-serif;font-size:16px;font-style:normal;font-weight:bold;line-height:20px;padding:30px 0 15px;}
 
             .flexModule{
@@ -138,12 +138,18 @@
             font-size:16px;
             font-weight:bold;
             }
+			
+			.whiteBgSection,.introductTab2{
+				padding-top:40px;
+			}
+			
             .introductTab2{
             background-color:#fbf1e8;
             background-image:url(//www.tnetnoc.com/public/ANS/HCL/assets/2015/bcm/value_prop/White-Arrow.png);
             background-repeat:no-repeat;
-            background-position: 66px 0px
+            background-position: 66px 0px;
             }
+			
 
             .introductTab2Td{
             margin-top: 22px;
